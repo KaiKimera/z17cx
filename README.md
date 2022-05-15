@@ -4,7 +4,7 @@ I'm a system administrator and web developer. I am writing articles on system ad
 
 ## Contacts
 
-- [WebSite](https://kitsune.solar/)
+- [Passport](https://kitsune.solar/)
 - [kitsune.solar@gmail.com](mailto:kitsune.solar@gmail.com)
 - [CV / Resume / RU](https://ru-cv.github.io/)
 
