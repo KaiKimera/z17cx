@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a system administrator and web developer. I am writing articles on system administration and the development of various systems, applications and servers.
+I'm a system administrator and web developer. I'm writing articles on system administration and development of various systems, applications and servers.
 
 ## Contacts
 
@@ -19,6 +19,15 @@ I'm a system administrator and web developer. I am writing articles on system ad
 - [Vk](https://vk.com/KitsuneSolar)
 - [YouTube](https://youtube.com/KitsuneSolar)
 
+## Development
+
+- [GitHub](https://github.com/KitsuneSolar)
+- [GitLab](https://gitlab.com/KitsuneSolar)
+
+## Donations
+
+- [Patreon](https://patreon.com/KitsuneSolar)
+
 ## Statistic
 
-![](https://github-readme-stats.vercel.app/api?username=KitsuneSolar&show_icons=true)
+![Statistic](https://github-readme-stats.vercel.app/api?username=KitsuneSolar&show_icons=true)
