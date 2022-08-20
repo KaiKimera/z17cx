@@ -13,7 +13,6 @@ I'm a system administrator and web developer. I'm writing articles on system adm
 - [Facebook](https://facebook.com/KitsuneSolar)
 - [Instagram](https://instagram.com/KitsuneSolar)
 - [LinkedIn](https://linkedin.com/in/KitsuneSolar)
-- [Telegram](https://t.me/KitsuneSolar)
 - [Twitch](https://twitch.tv/KitsuneSolar)
 - [Twitter](https://twitter.com/KitsuneSolar)
 - [Vk](https://vk.com/KitsuneSolar)
