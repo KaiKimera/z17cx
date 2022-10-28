@@ -17,6 +17,7 @@
 - 🎥 [Twitch](https://twitch.tv/KitsuneSolar)
 - 🐦 [Twitter](https://twitter.com/KitsuneSolar)
 - 💬 [Vk](https://vk.com/KitsuneSolar)
+- 📺 [YouTube](https://youtube.com/KitsuneSolar)
 
 <img src="https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/img.01.min.svg" width="100%" alt="OctoCat" />
 
