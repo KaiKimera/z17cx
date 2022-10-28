@@ -62,11 +62,12 @@
           "beneficiary": {
             "name": "Dunaev Iurii Aleksandrovich",
             "account": "40817840306230008711",
-            "bank": "AO ALFA-BANK, 27 Kalanchevskaya str., Moscow, 107078"
+            "bank": "AO ALFA-BANK, 27 Kalanchevskaya str., Moscow, 107078",
+            "swift": "ALFARUMM"
           },
-          "swift": "ALFARUMM",
-          "correspondent": {
+          "intermediary": {
             "bank": "CITIBANK NA, 399 Park Avenue, New York, NY 10043, USA",
+            "account": "36310481",
             "swift": "CITIUS33"
           },
           "target": "[DONATION] Thanks for helping community development"
@@ -75,11 +76,12 @@
           "beneficiary": {
             "name": "Dunaev Iurii Aleksandrovich",
             "account": "40817978706230007747",
-            "bank": "AO ALFA-BANK, 27 Kalanchevskaya str., Moscow, 107078"
+            "bank": "AO ALFA-BANK, 27 Kalanchevskaya str., Moscow, 107078",
+            "swift": "ALFARUMM"
           },
-          "swift": "ALFARUMM",
-          "correspondent": {
+          "intermediary": {
             "bank": "COMMERZBANK AG, D-60311 Frankfurt am Main, Germany",
+            "account": "400886894501EUR",
             "swift": "COBADEFF"
           },
           "target": "[DONATION] Thanks for helping community development"

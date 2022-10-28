@@ -1,15 +1,16 @@
-[CONTACTS](#contacts) / [DEVELOPMENT](#development) / [STATISTIC](#statistic) / [RU](README.ru.md)
+[КОНТАКТЫ](#контакты) / [РАЗРАБОТКА](#разработка) / [СТАТИСТИКА](#статистика) / [EN](README.md)
 
 ---
 
-## Hi there 👋
+## Всем привет 👋
 
-System administrator and web developer.
+Я системный администратор и веб-разработчик.
 
-I'm writing articles on system administration and development of various systems, applications and servers.
+Пишу статьи по системному администрированию и разработке различных систем, приложений и серверов.
 
-## Contacts
-- 🌎 [**WebSite**](https://kitsune.solar/) / [mail@kitsune.solar](mailto:mail@kitsune.solar)
+## Контакты
+
+- 🌎 [**Веб-сайт**](https://kitsune.solar/) / [mail@kitsune.solar](mailto:mail@kitsune.solar)
 - 🛠️ [GitHub](https://github.com/KitsuneSolar) / [GitLab](https://gitlab.com/KitsuneSolar)
 - 📷 [Instagram](https://instagram.com/KitsuneSolar)
 - 💼 [LinkedIn](https://linkedin.com/in/KitsuneSolar)
@@ -19,20 +20,20 @@ I'm writing articles on system administration and development of various systems
 
 <img src="https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/img.01.min.svg" width="100%" alt="OctoCat" />
 
-## Development
+## Разработка
 
 <img align="right" src="https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/img.octocat.gif" width="20%" alt="OctoCat" />
 
 - [**zBox**](https://github.com/zbox)  
-  zBox Development Platform. Is my global knowledge and development storage.
+  Платформа разработки zBox. Является моим глобальным хранилищем знаний и разработок.
 - [**zMarket**](https://github.com/zmarket)  
-  zMarket is intended for delivery of packages and applications on various systems.
+  zMarket предназначен для доставки пакетов и приложений на различные системы.
 - [GHA Store](https://github.com/ghastore)  
-  GitHub Actions store.
+  Хранилище GitHub Actions.
 - [GPG Store](https://github.com/gpgstore)  
-  GPG public keys for Linux repositories.
+  Публичные ключи GPG для репозиториев Linux.
 
-## Statistic
+## Статистика
 
 <img align="left" src="https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/img.02.min.svg" width="24%" alt="OctoCat" />
 
