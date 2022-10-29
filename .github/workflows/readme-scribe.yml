@@ -19,13 +19,8 @@ jobs:
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
-      - name: "Upload Artifact"
-        uses: actions/upload-artifact@v1
-        with:
-          name: README.md
-          path: README.md
       - name: "Auto Commit"
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
