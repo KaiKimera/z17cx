@@ -6,22 +6,15 @@ I'm writing articles on system administration and development of various systems
 ## I'm currently working on
 
 - [flarum-download/storage](https://github.com/flarum-download/storage) (1 month ago)
-  
 - [zbox/hugo-ui-passport](https://github.com/zbox/hugo-ui-passport) (1 month ago)
-  
 - [ghastore/mirror](https://github.com/ghastore/mirror) (1 month ago)
-  
 - [cmfstore/init-composer](https://github.com/cmfstore/init-composer) (1 month ago)
-  
 - [ghastore/.github](https://github.com/ghastore/.github) (1 month ago)
-  
 
 ## Latest projects
 
 - [KitsuneSolar/icon-sh](https://github.com/KitsuneSolar/icon-sh)
-  
 - [KitsuneSolar/hugo-sh](https://github.com/KitsuneSolar/hugo-sh)
-  
 - [KitsuneSolar/xmrig-systemd](https://github.com/KitsuneSolar/xmrig-systemd)  
   Systemd-unit for XMRig.
 - [KitsuneSolar/lang-russian](https://github.com/KitsuneSolar/lang-russian)  
