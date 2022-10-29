@@ -5,18 +5,20 @@ I'm writing articles on system administration and development of various systems
 
 ## I'm currently working on
 {{ range recentContributions 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}){{ with .Repo.Description }} - {{ . }}{{ end }} ({{ humanize .OccurredAt }})
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .OccurredAt }}){{ with .Repo.Description }}  {{ end }}
+  {{ with .Repo.Description }}{{ . }}{{ end }}
 {{- end}}
 
 ## Latest projects
 {{ range recentRepos 5 }}
-- [{{ .Name }}]({{ .URL }}){{ with .Description }}  
-  {{ . }}{{ end }}
+- [{{ .Name }}]({{ .URL }}){{ with .Description }}  {{ end }}
+  {{ with .Description }}{{ . }}{{ end }}
 {{- end}}
 
 ## Recent releases
 {{ range recentReleases 5 }}
-- [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }}){{ with .Description }} - {{ . }}{{ end }}
+- [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }}){{ with .Description }}  {{ end }}
+  {{ with .Description }}{{ . }}{{ end }}
 {{- end}}
 
 ## Recent Pull Requests
@@ -31,7 +33,8 @@ I'm writing articles on system administration and development of various systems
 
 ## Recent Stars
 {{ range recentStars 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}){{ with .Repo.Description }} - {{ . }}{{ end }} ({{ humanize .StarredAt }})
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .StarredAt }}){{ with .Repo.Description }}  {{ end }}
+  {{ with .Repo.Description }}{{ . }}{{ end }}
 {{- end }}
 
 ## Contacts
