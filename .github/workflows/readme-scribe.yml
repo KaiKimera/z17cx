@@ -20,9 +20,9 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
       - name: "Auto Commit"
-        uses: stefanzweifel/git-auto-commit-action@v2
+        uses: stefanzweifel/git-auto-commit-action@v4
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.USER_GITHUB_TOKEN }}
         with:
           commit_message: "Update generated README"
           branch: main
