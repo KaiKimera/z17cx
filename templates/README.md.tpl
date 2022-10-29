@@ -9,12 +9,6 @@ I'm writing articles on system administration and development of various systems
   {{ . }}{{ end }}
 {{- end}}
 
-## Latest projects
-{{ range recentRepos 5 }}
-- [{{ .Name }}]({{ .URL }}){{ with .Description }}  
-  {{ . }}{{ end }}
-{{- end}}
-
 ## Recent releases
 {{ range recentReleases 5 }}
 - [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }}){{ with .Description }}  
