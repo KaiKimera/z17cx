@@ -5,37 +5,37 @@ I'm writing articles on system administration and development of various systems
 
 ## I'm currently working on
 
-{{range recentContributions 5}}
+{{- range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
 ## Latest projects
 
-{{range recentRepos 5}}
+{{- range recentRepos 5}}
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
 ## Recent releases
 
-{{range recentReleases 5}}
+{{- range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
 ## Recent Pull Requests
 
-{{range recentPullRequests 5}}
+{{- range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 ## Recent blog posts
 
-{{range rss "https://lib.onl/ru/posts/index.xml" 5}}
+{{- range rss "https://lib.onl/ru/posts/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 ## Recent Stars
 
-{{range recentStars 5}}
+{{- range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end }}
 
