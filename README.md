@@ -6,15 +6,22 @@ I'm writing articles on system administration and development of various systems
 ## I'm currently working on
 
 - [flarum-download/storage](https://github.com/flarum-download/storage) (1 month ago)
+  
 - [zbox/hugo-ui-passport](https://github.com/zbox/hugo-ui-passport) (1 month ago)
+  
 - [ghastore/mirror](https://github.com/ghastore/mirror) (1 month ago)
+  
 - [cmfstore/init-composer](https://github.com/cmfstore/init-composer) (1 month ago)
+  
 - [ghastore/.github](https://github.com/ghastore/.github) (1 month ago)
+  
 
 ## Latest projects
 
 - [KitsuneSolar/icon-sh](https://github.com/KitsuneSolar/icon-sh)
+  
 - [KitsuneSolar/hugo-sh](https://github.com/KitsuneSolar/hugo-sh)
+  
 - [KitsuneSolar/xmrig-systemd](https://github.com/KitsuneSolar/xmrig-systemd)  
   Systemd-unit for XMRig.
 - [KitsuneSolar/lang-russian](https://github.com/KitsuneSolar/lang-russian)  
@@ -22,7 +29,8 @@ I'm writing articles on system administration and development of various systems
 
 ## Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.6.0](https://github.com/flarum-lang/russian/releases/tag/1.6.0), 3 days ago) - 🇷🇺 Russian language pack for Flarum.
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.6.0](https://github.com/flarum-lang/russian/releases/tag/1.6.0), 3 days ago)  
+  🇷🇺 Russian language pack for Flarum.
 
 ## Recent Pull Requests
 
@@ -42,11 +50,16 @@ I'm writing articles on system administration and development of various systems
 
 ## Recent Stars
 
-- [xanmod/linux](https://github.com/xanmod/linux) - XanMod: Linux kernel source code tree (2 months ago)
-- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality. (4 months ago)
-- [pebakery/pebakery](https://github.com/pebakery/pebakery) - PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE). (4 months ago)
-- [PhoenixPE/PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - PhoenixPE is a PEBakery project that creates a Recovery Environment based on Win10/Win11. (4 months ago)
-- [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide (5 months ago)
+- [xanmod/linux](https://github.com/xanmod/linux) (2 months ago)  
+  XanMod: Linux kernel source code tree
+- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) (4 months ago)  
+  A fork of NewPipe with SponsorBlock functionality.
+- [pebakery/pebakery](https://github.com/pebakery/pebakery) (4 months ago)  
+  PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
+- [PhoenixPE/PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) (4 months ago)  
+  PhoenixPE is a PEBakery project that creates a Recovery Environment based on Win10/Win11.
+- [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) (5 months ago)  
+  The Unofficial PowerShell Best Practices and Style Guide
 
 ## Contacts
 - 🌎 [**WebSite**](https://kitsune.solar/) / [mail@kitsune.solar](mailto:mail@kitsune.solar)
