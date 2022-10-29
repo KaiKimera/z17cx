@@ -10,7 +10,8 @@ I'm writing articles on system administration and development of various systems
 
 ## Latest projects
 {{ range recentRepos 5 }}
-- [{{ .Name }}]({{ .URL }}){{ with .Description }} - {{ . }}{{ end }}
+- [{{ .Name }}]({{ .URL }}){{ with .Description }}  
+  {{ . }}{{ end }}
 {{- end}}
 
 ## Recent releases
