@@ -4,8 +4,6 @@ System administrator and web developer.
 I'm writing articles on system administration and development of various systems, applications and servers.
 
 ## I'm currently working on
-
-
 - [flarum-download/storage](https://github.com/flarum-download/storage) (1 month ago)
 - [zbox/hugo-ui-passport](https://github.com/zbox/hugo-ui-passport) (1 month ago)
 - [ghastore/mirror](https://github.com/ghastore/mirror) (1 month ago)
@@ -13,21 +11,15 @@ I'm writing articles on system administration and development of various systems
 - [ghastore/.github](https://github.com/ghastore/.github) (1 month ago)
 
 ## Latest projects
-
-
 - [KitsuneSolar/icon-sh](https://github.com/KitsuneSolar/icon-sh)
 - [KitsuneSolar/hugo-sh](https://github.com/KitsuneSolar/hugo-sh)
 - [KitsuneSolar/xmrig-systemd](https://github.com/KitsuneSolar/xmrig-systemd) - Systemd-unit for XMRig.
 - [KitsuneSolar/lang-russian](https://github.com/KitsuneSolar/lang-russian) - Русский язык для Flarum
 
 ## Recent releases
-
-
 - [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.6.0](https://github.com/flarum-lang/russian/releases/tag/1.6.0), 3 days ago) - 🇷🇺 Russian language pack for Flarum.
 
 ## Recent Pull Requests
-
-
 - [Create KitsuneSolar.yaml](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1372) on [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) (2 years ago)
 - [Create KitsuneSolar](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1370) on [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) (2 years ago)
 - [Fix Russian LP URL](https://github.com/realodix/awesome-flarum/pull/5) on [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum) (2 years ago)
@@ -35,8 +27,6 @@ I'm writing articles on system administration and development of various systems
 - [Add Russian locale.](https://github.com/FriendsOfFlarum/upload/pull/39) on [FriendsOfFlarum/upload](https://github.com/FriendsOfFlarum/upload) (5 years ago)
 
 ## Recent blog posts
-
-
 - [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (2 months ago)
 - [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (5 months ago)
 - [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (9 months ago)
@@ -44,8 +34,6 @@ I'm writing articles on system administration and development of various systems
 - [Чёрный экран с курсором при старте GDM](https://lib.onl/ru/posts/2021/09/581804b8-0613-52a8-a5c4-fdae90e7bc8a/) (1 year ago)
 
 ## Recent Stars
-
-
 - [xanmod/linux](https://github.com/xanmod/linux) - XanMod: Linux kernel source code tree (2 months ago)
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality. (4 months ago)
 - [pebakery/pebakery](https://github.com/pebakery/pebakery) - PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE). (4 months ago)
