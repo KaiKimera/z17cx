@@ -15,8 +15,10 @@ I'm writing articles on system administration and development of various systems
 
 - [KitsuneSolar/icon-sh](https://github.com/KitsuneSolar/icon-sh)
 - [KitsuneSolar/hugo-sh](https://github.com/KitsuneSolar/hugo-sh)
-- [KitsuneSolar/xmrig-systemd](https://github.com/KitsuneSolar/xmrig-systemd) - Systemd-unit for XMRig.
-- [KitsuneSolar/lang-russian](https://github.com/KitsuneSolar/lang-russian) - Русский язык для Flarum
+- [KitsuneSolar/xmrig-systemd](https://github.com/KitsuneSolar/xmrig-systemd)  
+  Systemd-unit for XMRig.
+- [KitsuneSolar/lang-russian](https://github.com/KitsuneSolar/lang-russian)  
+  Русский язык для Flarum
 
 ## Recent releases
 
