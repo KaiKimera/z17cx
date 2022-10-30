@@ -18,8 +18,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :hammer: Recent pull requests
 {{ range recentPullRequests 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}){{ with .Repo.Description }}  
-  {{ . }}{{ end }}  
+- [{{ .Repo.Name }}]({{ .Repo.URL }})  
   &#8627; [{{ .Title }}]({{ .URL }}) ({{ humanize .CreatedAt }}) `{{ .State }}`
 {{- end}}
 
