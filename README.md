@@ -12,12 +12,12 @@ I'm writing articles on system administration and development of various systems
 - [cmfstore/init-composer](https://github.com/cmfstore/init-composer) (2 months ago)
 - [ghastore/.github](https://github.com/ghastore/.github) (2 months ago)
 
-#### 🔭 Recent releases
+#### :telescope: Recent releases
 
 - [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.6.0](https://github.com/flarum-lang/russian/releases/tag/1.6.0), 4 days ago)
   🇷🇺 Russian language pack for Flarum.
 
-#### 🔨 Recent pull requests
+#### :hammer: Recent pull requests
 
 - [Create KitsuneSolar.yaml](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1372) on [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) (2 years ago)
 - [Create KitsuneSolar](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1370) on [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) (2 years ago)
@@ -25,7 +25,7 @@ I'm writing articles on system administration and development of various systems
 - [Update README.md: Russian Language Pack](https://github.com/realodix/awesome-flarum/pull/4) on [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum) (2 years ago)
 - [Add Russian locale.](https://github.com/FriendsOfFlarum/upload/pull/39) on [FriendsOfFlarum/upload](https://github.com/FriendsOfFlarum/upload) (5 years ago)
 
-#### ⭐ Recent stars
+#### :star: Recent stars
 
 - [xanmod/linux](https://github.com/xanmod/linux) (2 months ago)
   XanMod: Linux kernel source code tree
@@ -38,7 +38,7 @@ I'm writing articles on system administration and development of various systems
 - [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) (5 months ago)
   The Unofficial PowerShell Best Practices and Style Guide
 
-#### 👥 Recent followers
+#### :busts_in_silhouette: Recent followers
 
 - [Lick](https://github.com/VlickV)
 - [Stanislav Migunov](https://github.com/mr-w1lde)
@@ -62,13 +62,13 @@ I'm writing articles on system administration and development of various systems
 ## Contacts
 
 - :earth_africa: [**WebSite**](https://kitsune.solar/) / [mail@kitsune.solar](mailto:mail@kitsune.solar)
-- 🛠️ [GitHub](https://github.com/KitsuneSolar) / [GitLab](https://gitlab.com/KitsuneSolar)
-- 📷 [Instagram](https://instagram.com/KitsuneSolar)
-- 💼 [LinkedIn](https://linkedin.com/in/KitsuneSolar)
-- 🎥 [Twitch](https://twitch.tv/KitsuneSolar)
-- 🐦 [Twitter](https://twitter.com/KitsuneSolar)
-- 💬 [Vk](https://vk.com/KitsuneSolar)
-- 📺 [YouTube](https://youtube.com/KitsuneSolar)
+- :hammer_and_wrench: [GitHub](https://github.com/KitsuneSolar) / [GitLab](https://gitlab.com/KitsuneSolar)
+- :camera: [Instagram](https://instagram.com/KitsuneSolar)
+- :briefcase: [LinkedIn](https://linkedin.com/in/KitsuneSolar)
+- :movie_camera: [Twitch](https://twitch.tv/KitsuneSolar)
+- :bird: [Twitter](https://twitter.com/KitsuneSolar)
+- :speech_balloon: [Vk](https://vk.com/KitsuneSolar)
+- :tv: [YouTube](https://youtube.com/KitsuneSolar)
 
 <img src="https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/img.01.min.svg" width="100%" alt="OctoCat" />
 
