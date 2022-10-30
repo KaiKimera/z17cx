@@ -25,14 +25,6 @@ I'm writing articles on system administration and development of various systems
 - [Update README.md: Russian Language Pack](https://github.com/realodix/awesome-flarum/pull/4) on [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum) (2 years ago)
 - [Add Russian locale.](https://github.com/FriendsOfFlarum/upload/pull/39) on [FriendsOfFlarum/upload](https://github.com/FriendsOfFlarum/upload) (5 years ago)
 
-#### 📜 Recent blog posts
-
-- [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (2 months ago)
-- [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (5 months ago)
-- [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (9 months ago)
-- [Установка Vivaldi в Debian](https://lib.onl/ru/posts/2022/01/ddddd243-d182-5e26-a161-d2ea7812214a/) (9 months ago)
-- [Чёрный экран с курсором при старте GDM](https://lib.onl/ru/posts/2021/09/581804b8-0613-52a8-a5c4-fdae90e7bc8a/) (1 year ago)
-
 #### ⭐ Recent stars
 
 - [xanmod/linux](https://github.com/xanmod/linux) (2 months ago)  
@@ -45,6 +37,14 @@ I'm writing articles on system administration and development of various systems
   PhoenixPE is a PEBakery project that creates a Recovery Environment based on Win10/Win11.
 - [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) (5 months ago)  
   The Unofficial PowerShell Best Practices and Style Guide
+
+#### 📜 Recent blog posts
+
+- [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (2 months ago)
+- [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (5 months ago)
+- [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (9 months ago)
+- [Установка Vivaldi в Debian](https://lib.onl/ru/posts/2022/01/ddddd243-d182-5e26-a161-d2ea7812214a/) (9 months ago)
+- [Чёрный экран с курсором при старте GDM](https://lib.onl/ru/posts/2021/09/581804b8-0613-52a8-a5c4-fdae90e7bc8a/) (1 year ago)
 
 ## Contacts
 - 🌎 [**WebSite**](https://kitsune.solar/) / [mail@kitsune.solar](mailto:mail@kitsune.solar)
