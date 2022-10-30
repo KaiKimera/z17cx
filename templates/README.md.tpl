@@ -32,12 +32,13 @@ I'm writing articles on system administration and development of various systems
 - [{{ with .Name }}{{ . }}{{ else }}{{ .Login }}{{ end }}]({{ .URL }})
 {{- end }}
 
-#### 📜 Recent blog posts
-{{ range rss "https://lib.onl/ru/posts/index.xml" 5 }}
+## Blog
+{{ range rss "https://lib.onl/ru/posts/index.xml" 10 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end}}
 
 ## Contacts
+
 - 🌎 [**WebSite**](https://kitsune.solar/) / [mail@kitsune.solar](mailto:mail@kitsune.solar)
 - 🛠️ [GitHub](https://github.com/KitsuneSolar) / [GitLab](https://gitlab.com/KitsuneSolar)
 - 📷 [Instagram](https://instagram.com/KitsuneSolar)
