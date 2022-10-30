@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there :wave:
 
 System administrator and web developer.
 
@@ -54,13 +54,13 @@ I'm writing articles on system administration and development of various systems
 
 <img align="right" src="https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/img.octocat.gif" width="20%" alt="OctoCat" />
 
-- [**zBox**](https://github.com/zbox)
+- [**zBox**](https://github.com/zbox)  
   zBox Development Platform. Is my global knowledge and development storage.
-- [**zMarket**](https://github.com/zmarket)
+- [**zMarket**](https://github.com/zmarket)  
   zMarket is intended for delivery of packages and applications on various systems.
-- [GHA Store](https://github.com/ghastore)
+- [GHA Store](https://github.com/ghastore)  
   GitHub Actions store.
-- [GPG Store](https://github.com/gpgstore)
+- [GPG Store](https://github.com/gpgstore)  
   GPG public keys for Linux repositories.
 
 ## Statistic
