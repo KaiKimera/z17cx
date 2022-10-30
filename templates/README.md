@@ -5,7 +5,7 @@ System administrator and web developer.
 I'm writing articles on system administration and development of various systems, applications and servers.
 
 #### :construction_worker_man: I'm currently working on...
-{{ range recentContributions 5 }}
+{{ range (recentContributions.GroupByDate "2006-01") 5 }}
 - {{ .OccurredAt.Format "2006-01-02" }} | [{{ .Repo.Name }}]({{ .Repo.URL }}){{ with .Repo.Description }}  
   {{ . }}{{ end }}
 {{- end}}
