@@ -19,29 +19,34 @@ I'm writing articles on system administration and development of various systems
 
 #### :hammer: Recent pull requests
 
-- [Create KitsuneSolar.yaml](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1372) (2 years ago)  
-  &#8627; [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)
-- [Create KitsuneSolar](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1370) (2 years ago)  
-  &#8627; [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)
-- [Fix Russian LP URL](https://github.com/realodix/awesome-flarum/pull/5) (2 years ago)  
-  &#8627; [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum)
-- [Update README.md: Russian Language Pack](https://github.com/realodix/awesome-flarum/pull/4) (2 years ago)  
-  &#8627; [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum)
-- [Add Russian locale.](https://github.com/FriendsOfFlarum/upload/pull/39) (5 years ago)  
-  &#8627; [FriendsOfFlarum/upload](https://github.com/FriendsOfFlarum/upload)
+- [Create KitsuneSolar.yaml](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1372) (2 years ago) MERGED  
+  &#8627; [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)  
+  An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
+- [Create KitsuneSolar](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1370) (2 years ago) CLOSED  
+  &#8627; [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)  
+  An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
+- [Fix Russian LP URL](https://github.com/realodix/awesome-flarum/pull/5) (2 years ago) MERGED  
+  &#8627; [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum)  
+  A curated list of amazingly awesome Flarum extensions and resources.
+- [Update README.md: Russian Language Pack](https://github.com/realodix/awesome-flarum/pull/4) (2 years ago) CLOSED  
+  &#8627; [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum)  
+  A curated list of amazingly awesome Flarum extensions and resources.
+- [Add Russian locale.](https://github.com/FriendsOfFlarum/upload/pull/39) (5 years ago) MERGED  
+  &#8627; [FriendsOfFlarum/upload](https://github.com/FriendsOfFlarum/upload)  
+  The file upload extension with insane intelligence for your Flarum forum.
 
 #### :star: Recent stars
 
-- [xanmod/linux](https://github.com/xanmod/linux) (2 months ago)  
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (today) 326  
+  A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
+- [muesli/markscribe](https://github.com/muesli/markscribe) (today) 248  
+  Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
+- [xanmod/linux](https://github.com/xanmod/linux) (2 months ago) 634  
   XanMod: Linux kernel source code tree
-- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) (4 months ago)  
+- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) (4 months ago) 2536  
   A fork of NewPipe with SponsorBlock functionality.
-- [pebakery/pebakery](https://github.com/pebakery/pebakery) (4 months ago)  
+- [pebakery/pebakery](https://github.com/pebakery/pebakery) (4 months ago) 138  
   PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
-- [PhoenixPE/PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) (4 months ago)  
-  PhoenixPE is a PEBakery project that creates a Recovery Environment based on Win10/Win11.
-- [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) (5 months ago)  
-  The Unofficial PowerShell Best Practices and Style Guide
 
 #### :busts_in_silhouette: Recent followers
 
