@@ -4,8 +4,6 @@ System administrator and web developer.
 
 I'm writing articles on system administration and development of various systems, applications and servers.
 
-## GitHub
-
 #### 👷 I'm currently working on...
 {{ range recentContributions 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .OccurredAt }}){{ with .Repo.Description }}  
