@@ -11,11 +11,6 @@ I'm writing articles on system administration and development of various systems
 - [ghastore/mirror](https://github.com/ghastore/mirror) (1 month ago)
 - [cmfstore/init-composer](https://github.com/cmfstore/init-composer) (2 months ago)
 - [ghastore/.github](https://github.com/ghastore/.github) (2 months ago)
-- [cmfstore/.github](https://github.com/cmfstore/.github) (2 months ago)
-- [ghastore/build-debian](https://github.com/ghastore/build-debian) (2 months ago)
-- [ghastore/build-tar](https://github.com/ghastore/build-tar) (2 months ago)
-- [shellstore/.github](https://github.com/shellstore/.github) (2 months ago)
-- [unixstore/.github](https://github.com/unixstore/.github) (2 months ago)
 
 #### :telescope: Recent releases
 
@@ -34,16 +29,6 @@ I'm writing articles on system administration and development of various systems
   &#8627; [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum)
 - [Add Russian locale.](https://github.com/FriendsOfFlarum/upload/pull/39) (5 years ago)  
   &#8627; [FriendsOfFlarum/upload](https://github.com/FriendsOfFlarum/upload)
-- [Update FontAwesome to 4.6.3 &amp; MDL to 1.1.3](https://github.com/NodeBB/NodeBB/pull/4785) (6 years ago)  
-  &#8627; [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB)
-- [Added missing language variables.](https://github.com/NodeBB/NodeBB/pull/4783) (6 years ago)  
-  &#8627; [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB)
-- [Update votes_modal.tpl](https://github.com/NodeBB/nodebb-theme-persona/pull/297) (6 years ago)  
-  &#8627; [NodeBB/nodebb-theme-persona](https://github.com/NodeBB/nodebb-theme-persona)
-- [Update notifications_list.tpl](https://github.com/NodeBB/nodebb-theme-persona/pull/294) (6 years ago)  
-  &#8627; [NodeBB/nodebb-theme-persona](https://github.com/NodeBB/nodebb-theme-persona)
-- [Update category.json](https://github.com/NodeBB/NodeBB/pull/4769) (6 years ago)  
-  &#8627; [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB)
 
 #### :star: Recent stars
 
@@ -57,16 +42,6 @@ I'm writing articles on system administration and development of various systems
   PhoenixPE is a PEBakery project that creates a Recovery Environment based on Win10/Win11.
 - [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) (5 months ago)  
   The Unofficial PowerShell Best Practices and Style Guide
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) (5 months ago)  
-  Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
-- [KyrneDev/websocket](https://github.com/KyrneDev/websocket) (10 months ago)  
-  Websocket replacement for Pusher
-- [fkortsagin/Simple-ArchLinux-Install-Guide](https://github.com/fkortsagin/Simple-ArchLinux-Install-Guide) (1 year ago)  
-  Archlinux manual and automated simple installation  UEFI with GRUB,GUI,NVIDIA,AMD,User Space with all popular Desktop Environments.
-- [goq/telegram-list](https://github.com/goq/telegram-list) (1 year ago)  
-  List of telegram groups, channels &amp; bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
-- [wangchucheng/git-repo-sync](https://github.com/wangchucheng/git-repo-sync) (2 years ago)  
-  Git Repo Sync enables you to synchronize code to other code management platforms, such as GitLab, Gitee, etc.
 
 #### :busts_in_silhouette: Recent followers
 
@@ -75,7 +50,6 @@ I'm writing articles on system administration and development of various systems
 - [Vladimir Petrozavodsky](https://github.com/petrozavodsky)
 - [Skumen](https://github.com/Skumen)
 - [Caramel](https://github.com/GoldRenard)
-- [MySochi](https://github.com/MySochi)
 
 ## Blog
 
