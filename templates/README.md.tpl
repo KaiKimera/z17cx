@@ -10,24 +10,24 @@ I'm writing articles on system administration and development of various systems
   {{ . }}{{ end }}
 {{- end}}
 
-#### 🔭 Recent releases
+#### :telescope: Recent releases
 {{ range recentReleases 5 }}
 - [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }}){{ with .Description }}
   {{ . }}{{ end }}
 {{- end}}
 
-#### 🔨 Recent pull requests
+#### :hammer: Recent pull requests
 {{ range recentPullRequests 5 }}
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .CreatedAt }})
 {{- end}}
 
-#### ⭐ Recent stars
+#### :star: Recent stars
 {{ range recentStars 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .StarredAt }}){{ with .Repo.Description }}
   {{ . }}{{ end }}
 {{- end }}
 
-#### 👥 Recent followers
+#### :busts_in_silhouette: Recent followers
 {{ range followers 5 }}
 - [{{ with .Name }}{{ . }}{{ else }}{{ .Login }}{{ end }}]({{ .URL }})
 {{- end }}
@@ -40,13 +40,13 @@ I'm writing articles on system administration and development of various systems
 ## Contacts
 
 - :earth_africa: [**WebSite**](https://kitsune.solar/) / [mail@kitsune.solar](mailto:mail@kitsune.solar)
-- 🛠️ [GitHub](https://github.com/KitsuneSolar) / [GitLab](https://gitlab.com/KitsuneSolar)
-- 📷 [Instagram](https://instagram.com/KitsuneSolar)
-- 💼 [LinkedIn](https://linkedin.com/in/KitsuneSolar)
-- 🎥 [Twitch](https://twitch.tv/KitsuneSolar)
-- 🐦 [Twitter](https://twitter.com/KitsuneSolar)
-- 💬 [Vk](https://vk.com/KitsuneSolar)
-- 📺 [YouTube](https://youtube.com/KitsuneSolar)
+- :hammer_and_wrench: [GitHub](https://github.com/KitsuneSolar) / [GitLab](https://gitlab.com/KitsuneSolar)
+- :camera: [Instagram](https://instagram.com/KitsuneSolar)
+- :briefcase: [LinkedIn](https://linkedin.com/in/KitsuneSolar)
+- :movie_camera: [Twitch](https://twitch.tv/KitsuneSolar)
+- :bird: [Twitter](https://twitter.com/KitsuneSolar)
+- :speech_balloon: [Vk](https://vk.com/KitsuneSolar)
+- :tv: [YouTube](https://youtube.com/KitsuneSolar)
 
 <img src="https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/img.01.min.svg" width="100%" alt="OctoCat" />
 
