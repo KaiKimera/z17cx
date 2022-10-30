@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 {{ range recentContributions 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .OccurredAt }}){{ with .Repo.Description }}  
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ .OccurredAt }}){{ with .Repo.Description }}  
   {{ . }}{{ end }}
 {{- end}}
 
