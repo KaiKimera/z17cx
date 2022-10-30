@@ -15,7 +15,7 @@ I'm writing articles on system administration and development of various systems
   {{ . }}{{ end }}
 {{- end}}
 
-## Recent Pull Requests
+## Recent pull requests
 {{ range recentPullRequests 5 }}
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .CreatedAt }})
 {{- end}}
@@ -25,7 +25,7 @@ I'm writing articles on system administration and development of various systems
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end}}
 
-## Recent Stars
+## Recent stars
 {{ range recentStars 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .StarredAt }}){{ with .Repo.Description }}  
   {{ . }}{{ end }}
