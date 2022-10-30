@@ -18,13 +18,14 @@ I'm writing articles on system administration and development of various systems
 
 #### :hammer: Recent pull requests
 {{ range recentPullRequests 5 }}
-- [{{ .Title }}]({{ .URL }}) ({{ humanize .CreatedAt }})  
-  &#8627; [{{ .Repo.Name }}]({{ .Repo.URL }})
+- [{{ .Title }}]({{ .URL }}) ({{ humanize .CreatedAt }}) {{ .State }}  
+  &#8627; [{{ .Repo.Name }}]({{ .Repo.URL }}){{ with .Repo.Description }}  
+  {{ . }}{{ end }}
 {{- end}}
 
 #### :star: Recent stars
 {{ range recentStars 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .StarredAt }}){{ with .Repo.Description }}  
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .StarredAt }}) {{ .Repo.Stargazers }}{{ with .Repo.Description }}  
   {{ . }}{{ end }}
 {{- end }}
 
