@@ -38,6 +38,14 @@ I'm writing articles on system administration and development of various systems
 - [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) (5 months ago)  
   The Unofficial PowerShell Best Practices and Style Guide
 
+#### 👥 Recent followers
+
+- [VlickV](https://github.com/VlickV)
+- [mr-w1lde](https://github.com/mr-w1lde)
+- [petrozavodsky](https://github.com/petrozavodsky)
+- [Skumen](https://github.com/Skumen)
+- [GoldRenard](https://github.com/GoldRenard)
+
 #### 📜 Recent blog posts
 
 - [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (2 months ago)
