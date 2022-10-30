@@ -37,15 +37,15 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (today) [326 &#9733;]  
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (today) [326]  
   A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
-- [muesli/markscribe](https://github.com/muesli/markscribe) (today) [248 &#9733;]  
+- [muesli/markscribe](https://github.com/muesli/markscribe) (today) [248]  
   Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
-- [xanmod/linux](https://github.com/xanmod/linux) (2 months ago) [634 &#9733;]  
+- [xanmod/linux](https://github.com/xanmod/linux) (2 months ago) [634]  
   XanMod: Linux kernel source code tree
-- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) (4 months ago) [2536 &#9733;]  
+- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) (4 months ago) [2536]  
   A fork of NewPipe with SponsorBlock functionality.
-- [pebakery/pebakery](https://github.com/pebakery/pebakery) (4 months ago) [138 &#9733;]  
+- [pebakery/pebakery](https://github.com/pebakery/pebakery) (4 months ago) [138]  
   PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
 
 #### :busts_in_silhouette: Recent followers
