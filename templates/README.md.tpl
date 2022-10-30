@@ -29,7 +29,7 @@ I'm writing articles on system administration and development of various systems
 
 #### 👥 Recent followers
 {{ range followers 5 }}
-- [{{ .Login }}]({{ .URL }})
+- {{ if .Name }}[{{ .Name }}]{{ else }}[{{ .Login }}]{{ end }}({{ .URL }})
 {{- end }}
 
 #### 📜 Recent blog posts
