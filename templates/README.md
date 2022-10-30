@@ -17,19 +17,19 @@ I'm writing articles on system administration and development of various systems
 {{- end}}
 
 #### :hammer: Recent pull requests
-{{ range recentPullRequests 5 }}
+{{ range recentPullRequests 10 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .CreatedAt }})  
   &#8627; [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end}}
 
 #### :star: Recent stars
-{{ range recentStars 5 }}
+{{ range recentStars 10 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .StarredAt }}){{ with .Repo.Description }}  
   {{ . }}{{ end }}
 {{- end }}
 
 #### :busts_in_silhouette: Recent followers
-{{ range followers 5 }}
+{{ range followers 10 }}
 - [{{ with .Name }}{{ . }}{{ else }}{{ .Login }}{{ end }}]({{ .URL }})
 {{- end }}
 
