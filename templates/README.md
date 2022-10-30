@@ -24,7 +24,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 {{ range recentStars 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .StarredAt }}) `{{ .Repo.Stargazers }}`{{ with .Repo.Description }}  
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .StarredAt }}){{ with .Repo.Description }}  
   {{ . }}{{ end }}
 {{- end }}
 
