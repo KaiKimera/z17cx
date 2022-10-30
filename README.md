@@ -40,11 +40,11 @@ I'm writing articles on system administration and development of various systems
 
 #### 👥 Recent followers
 
-- [VlickV](https://github.com/VlickV)
-- [mr-w1lde](https://github.com/mr-w1lde)
-- [petrozavodsky](https://github.com/petrozavodsky)
+- [Lick](https://github.com/VlickV)
+- [Stanislav Migunov](https://github.com/mr-w1lde)
+- [Vladimir Petrozavodsky](https://github.com/petrozavodsky)
 - [Skumen](https://github.com/Skumen)
-- [GoldRenard](https://github.com/GoldRenard)
+- [Caramel](https://github.com/GoldRenard)
 
 #### 📜 Recent blog posts
 
