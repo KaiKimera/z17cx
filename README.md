@@ -21,31 +21,31 @@ I'm writing articles on system administration and development of various systems
 
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)  
   An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation  
-  &#8627; [Create KitsuneSolar.yaml](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1372) (2 years ago) MERGED
+  &#8627; [Create KitsuneSolar.yaml](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1372) (2 years ago) [MERGED]
 - [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)  
   An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation  
-  &#8627; [Create KitsuneSolar](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1370) (2 years ago) CLOSED
+  &#8627; [Create KitsuneSolar](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1370) (2 years ago) [CLOSED]
 - [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum)  
   A curated list of amazingly awesome Flarum extensions and resources.  
-  &#8627; [Fix Russian LP URL](https://github.com/realodix/awesome-flarum/pull/5) (2 years ago) MERGED
+  &#8627; [Fix Russian LP URL](https://github.com/realodix/awesome-flarum/pull/5) (2 years ago) [MERGED]
 - [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum)  
   A curated list of amazingly awesome Flarum extensions and resources.  
-  &#8627; [Update README.md: Russian Language Pack](https://github.com/realodix/awesome-flarum/pull/4) (2 years ago) CLOSED
+  &#8627; [Update README.md: Russian Language Pack](https://github.com/realodix/awesome-flarum/pull/4) (2 years ago) [CLOSED]
 - [FriendsOfFlarum/upload](https://github.com/FriendsOfFlarum/upload)  
   The file upload extension with insane intelligence for your Flarum forum.  
-  &#8627; [Add Russian locale.](https://github.com/FriendsOfFlarum/upload/pull/39) (5 years ago) MERGED
+  &#8627; [Add Russian locale.](https://github.com/FriendsOfFlarum/upload/pull/39) (5 years ago) [MERGED]
 
 #### :star: Recent stars
 
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (today) 326  
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (today) [&#9733; 326]  
   A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
-- [muesli/markscribe](https://github.com/muesli/markscribe) (today) 248  
+- [muesli/markscribe](https://github.com/muesli/markscribe) (today) [&#9733; 248]  
   Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
-- [xanmod/linux](https://github.com/xanmod/linux) (2 months ago) 634  
+- [xanmod/linux](https://github.com/xanmod/linux) (2 months ago) [&#9733; 634]  
   XanMod: Linux kernel source code tree
-- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) (4 months ago) 2536  
+- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) (4 months ago) [&#9733; 2536]  
   A fork of NewPipe with SponsorBlock functionality.
-- [pebakery/pebakery](https://github.com/pebakery/pebakery) (4 months ago) 138  
+- [pebakery/pebakery](https://github.com/pebakery/pebakery) (4 months ago) [&#9733; 138]  
   PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
 
 #### :busts_in_silhouette: Recent followers
