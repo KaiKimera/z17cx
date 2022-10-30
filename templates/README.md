@@ -20,7 +20,7 @@ I'm writing articles on system administration and development of various systems
 {{ range recentPullRequests 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}){{ with .Repo.Description }}  
   {{ . }}{{ end }}  
-  &#8627; [{{ .Title }}]({{ .URL }}) ({{ humanize .CreatedAt }}) &#8594; {{ .State }}
+  &#8627; [{{ .Title }}]({{ .URL }}) ({{ humanize .CreatedAt }}) &#8614; [{{ .State }}]
 {{- end}}
 
 #### :star: Recent stars
