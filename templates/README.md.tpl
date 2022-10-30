@@ -4,29 +4,29 @@ System administrator and web developer.
 
 I'm writing articles on system administration and development of various systems, applications and servers.
 
-#### I'm currently working on...
+#### 👷 I'm currently working on...
 {{ range recentContributions 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .OccurredAt }}){{ with .Repo.Description }}  
   {{ . }}{{ end }}
 {{- end}}
 
-#### Recent releases
+#### 🔭 Recent releases
 {{ range recentReleases 5 }}
 - [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }}){{ with .Description }}  
   {{ . }}{{ end }}
 {{- end}}
 
-#### Recent pull requests
+#### 🔨 Recent pull requests
 {{ range recentPullRequests 5 }}
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .CreatedAt }})
 {{- end}}
 
-#### Recent blog posts
+#### 📜 Recent blog posts
 {{ range rss "https://lib.onl/ru/posts/index.xml" 5 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end}}
 
-#### Recent stars
+#### ⭐ Recent stars
 {{ range recentStars 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .StarredAt }}){{ with .Repo.Description }}  
   {{ . }}{{ end }}
