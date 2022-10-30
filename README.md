@@ -19,11 +19,16 @@ I'm writing articles on system administration and development of various systems
 
 #### :hammer: Recent pull requests
 
-- [Create KitsuneSolar.yaml](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1372) on [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) (2 years ago)
-- [Create KitsuneSolar](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1370) on [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) (2 years ago)
-- [Fix Russian LP URL](https://github.com/realodix/awesome-flarum/pull/5) on [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum) (2 years ago)
-- [Update README.md: Russian Language Pack](https://github.com/realodix/awesome-flarum/pull/4) on [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum) (2 years ago)
-- [Add Russian locale.](https://github.com/FriendsOfFlarum/upload/pull/39) on [FriendsOfFlarum/upload](https://github.com/FriendsOfFlarum/upload) (5 years ago)
+- [Create KitsuneSolar.yaml](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1372) (2 years ago)  
+  &#8627; [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)
+- [Create KitsuneSolar](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1370) (2 years ago)  
+  &#8627; [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)
+- [Fix Russian LP URL](https://github.com/realodix/awesome-flarum/pull/5) (2 years ago)  
+  &#8627; [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum)
+- [Update README.md: Russian Language Pack](https://github.com/realodix/awesome-flarum/pull/4) (2 years ago)  
+  &#8627; [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum)
+- [Add Russian locale.](https://github.com/FriendsOfFlarum/upload/pull/39) (5 years ago)  
+  &#8627; [FriendsOfFlarum/upload](https://github.com/FriendsOfFlarum/upload)
 
 #### :star: Recent stars
 
