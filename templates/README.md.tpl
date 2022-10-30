@@ -21,16 +21,16 @@ I'm writing articles on system administration and development of various systems
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .CreatedAt }})
 {{- end}}
 
-#### 📜 Recent blog posts
-{{ range rss "https://lib.onl/ru/posts/index.xml" 5 }}
-- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
-{{- end}}
-
 #### ⭐ Recent stars
 {{ range recentStars 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .StarredAt }}){{ with .Repo.Description }}  
   {{ . }}{{ end }}
 {{- end }}
+
+#### 📜 Recent blog posts
+{{ range rss "https://lib.onl/ru/posts/index.xml" 5 }}
+- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
+{{- end}}
 
 ## Contacts
 - 🌎 [**WebSite**](https://kitsune.solar/) / [mail@kitsune.solar](mailto:mail@kitsune.solar)
