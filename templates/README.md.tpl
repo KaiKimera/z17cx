@@ -4,15 +4,15 @@ System administrator and web developer.
 
 I'm writing articles on system administration and development of various systems, applications and servers.
 
-#### 👷 I'm currently working on...
+#### :construction_worker_man: I'm currently working on...
 {{ range recentContributions 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .OccurredAt }}){{ with .Repo.Description }}  
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .OccurredAt }}){{ with .Repo.Description }}
   {{ . }}{{ end }}
 {{- end}}
 
 #### 🔭 Recent releases
 {{ range recentReleases 5 }}
-- [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }}){{ with .Description }}  
+- [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }}){{ with .Description }}
   {{ . }}{{ end }}
 {{- end}}
 
@@ -23,7 +23,7 @@ I'm writing articles on system administration and development of various systems
 
 #### ⭐ Recent stars
 {{ range recentStars 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .StarredAt }}){{ with .Repo.Description }}  
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .StarredAt }}){{ with .Repo.Description }}
   {{ . }}{{ end }}
 {{- end }}
 
@@ -39,7 +39,7 @@ I'm writing articles on system administration and development of various systems
 
 ## Contacts
 
-- 🌎 [**WebSite**](https://kitsune.solar/) / [mail@kitsune.solar](mailto:mail@kitsune.solar)
+- :earth_africa: [**WebSite**](https://kitsune.solar/) / [mail@kitsune.solar](mailto:mail@kitsune.solar)
 - 🛠️ [GitHub](https://github.com/KitsuneSolar) / [GitLab](https://gitlab.com/KitsuneSolar)
 - 📷 [Instagram](https://instagram.com/KitsuneSolar)
 - 💼 [LinkedIn](https://linkedin.com/in/KitsuneSolar)
@@ -54,13 +54,13 @@ I'm writing articles on system administration and development of various systems
 
 <img align="right" src="https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/img.octocat.gif" width="20%" alt="OctoCat" />
 
-- [**zBox**](https://github.com/zbox)  
+- [**zBox**](https://github.com/zbox)
   zBox Development Platform. Is my global knowledge and development storage.
-- [**zMarket**](https://github.com/zmarket)  
+- [**zMarket**](https://github.com/zmarket)
   zMarket is intended for delivery of packages and applications on various systems.
-- [GHA Store](https://github.com/ghastore)  
+- [GHA Store](https://github.com/ghastore)
   GitHub Actions store.
-- [GPG Store](https://github.com/gpgstore)  
+- [GPG Store](https://github.com/gpgstore)
   GPG public keys for Linux repositories.
 
 ## Statistic
