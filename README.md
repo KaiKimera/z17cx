@@ -14,7 +14,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.6.0](https://github.com/flarum-lang/russian/releases/tag/1.6.0), 4 days ago)
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.6.0](https://github.com/flarum-lang/russian/releases/tag/1.6.0), 4 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -27,15 +27,15 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [xanmod/linux](https://github.com/xanmod/linux) (2 months ago)
+- [xanmod/linux](https://github.com/xanmod/linux) (2 months ago)  
   XanMod: Linux kernel source code tree
-- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) (4 months ago)
+- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) (4 months ago)  
   A fork of NewPipe with SponsorBlock functionality.
-- [pebakery/pebakery](https://github.com/pebakery/pebakery) (4 months ago)
+- [pebakery/pebakery](https://github.com/pebakery/pebakery) (4 months ago)  
   PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
-- [PhoenixPE/PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) (4 months ago)
+- [PhoenixPE/PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) (4 months ago)  
   PhoenixPE is a PEBakery project that creates a Recovery Environment based on Win10/Win11.
-- [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) (5 months ago)
+- [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) (5 months ago)  
   The Unofficial PowerShell Best Practices and Style Guide
 
 #### :busts_in_silhouette: Recent followers
