@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 System administrator and web developer.
+
 I'm writing articles on system administration and development of various systems, applications and servers.
 
 ## I'm currently working on
