@@ -4,7 +4,7 @@ System administrator and web developer.
 
 I'm writing articles on system administration and development of various systems, applications and servers.
 
-#### I'm currently working on
+#### I'm currently working on...
 
 - [flarum-download/storage](https://github.com/flarum-download/storage) (1 month ago)
 - [zbox/hugo-ui-passport](https://github.com/zbox/hugo-ui-passport) (1 month ago)
