@@ -19,16 +19,16 @@ I'm writing articles on system administration and development of various systems
 
 #### :hammer: Recent pull requests
 
-- [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)  
-  &#8627; [Create KitsuneSolar.yaml](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1372) (2 years ago) `MERGED`
-- [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)  
-  &#8627; [Create KitsuneSolar](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1370) (2 years ago) `CLOSED`
-- [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum)  
-  &#8627; [Fix Russian LP URL](https://github.com/realodix/awesome-flarum/pull/5) (2 years ago) `MERGED`
-- [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum)  
-  &#8627; [Update README.md: Russian Language Pack](https://github.com/realodix/awesome-flarum/pull/4) (2 years ago) `CLOSED`
-- [FriendsOfFlarum/upload](https://github.com/FriendsOfFlarum/upload)  
-  &#8627; [Add Russian locale.](https://github.com/FriendsOfFlarum/upload/pull/39) (5 years ago) `MERGED`
+- [Create KitsuneSolar.yaml](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1372) (2 years ago) `MERGED`  
+  &#8627; [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)
+- [Create KitsuneSolar](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1370) (2 years ago) `CLOSED`  
+  &#8627; [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)
+- [Fix Russian LP URL](https://github.com/realodix/awesome-flarum/pull/5) (2 years ago) `MERGED`  
+  &#8627; [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum)
+- [Update README.md: Russian Language Pack](https://github.com/realodix/awesome-flarum/pull/4) (2 years ago) `CLOSED`  
+  &#8627; [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum)
+- [Add Russian locale.](https://github.com/FriendsOfFlarum/upload/pull/39) (5 years ago) `MERGED`  
+  &#8627; [FriendsOfFlarum/upload](https://github.com/FriendsOfFlarum/upload)
 
 #### :star: Recent stars
 
