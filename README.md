@@ -8,15 +8,15 @@ I'm writing articles on system administration and development of various systems
 - [flarum-download/storage](https://github.com/flarum-download/storage) (1 month ago)
 - [zbox/hugo-ui-passport](https://github.com/zbox/hugo-ui-passport) (1 month ago)
 - [ghastore/mirror](https://github.com/ghastore/mirror) (1 month ago)
-- [cmfstore/init-composer](https://github.com/cmfstore/init-composer) (1 month ago)
-- [ghastore/.github](https://github.com/ghastore/.github) (1 month ago)
+- [cmfstore/init-composer](https://github.com/cmfstore/init-composer) (2 months ago)
+- [ghastore/.github](https://github.com/ghastore/.github) (2 months ago)
 
 ## Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.6.0](https://github.com/flarum-lang/russian/releases/tag/1.6.0), 3 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.6.0](https://github.com/flarum-lang/russian/releases/tag/1.6.0), 4 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
-## Recent Pull Requests
+## Recent pull requests
 
 - [Create KitsuneSolar.yaml](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1372) on [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) (2 years ago)
 - [Create KitsuneSolar](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1370) on [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) (2 years ago)
@@ -32,7 +32,7 @@ I'm writing articles on system administration and development of various systems
 - [Установка Vivaldi в Debian](https://lib.onl/ru/posts/2022/01/ddddd243-d182-5e26-a161-d2ea7812214a/) (9 months ago)
 - [Чёрный экран с курсором при старте GDM](https://lib.onl/ru/posts/2021/09/581804b8-0613-52a8-a5c4-fdae90e7bc8a/) (1 year ago)
 
-## Recent Stars
+## Recent stars
 
 - [xanmod/linux](https://github.com/xanmod/linux) (2 months ago)  
   XanMod: Linux kernel source code tree
