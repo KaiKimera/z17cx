@@ -18,7 +18,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :hammer: Recent pull requests
 {{ range recentPullRequests 5 }}
-- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .CreatedAt }})
+- [{{ .Title }}]({{ .URL }}) ({{ humanize .CreatedAt }})  
+  &#8627; [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end}}
 
 #### :star: Recent stars
