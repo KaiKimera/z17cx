@@ -6,11 +6,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- (2022-09-19) [flarum-download/storage](https://github.com/flarum-download/storage)
-- (2022-09-01) [zbox/hugo-ui-passport](https://github.com/zbox/hugo-ui-passport)
-- (2022-09-01) [ghastore/mirror](https://github.com/ghastore/mirror)
-- (2022-08-31) [cmfstore/init-composer](https://github.com/cmfstore/init-composer)
-- (2022-08-31) [ghastore/.github](https://github.com/ghastore/.github)
+- 2022-09-19 | [flarum-download/storage](https://github.com/flarum-download/storage)
+- 2022-09-01 | [zbox/hugo-ui-passport](https://github.com/zbox/hugo-ui-passport)
+- 2022-09-01 | [ghastore/mirror](https://github.com/ghastore/mirror)
+- 2022-08-31 | [cmfstore/init-composer](https://github.com/cmfstore/init-composer)
+- 2022-08-31 | [ghastore/.github](https://github.com/ghastore/.github)
 
 #### :telescope: Recent releases
 
