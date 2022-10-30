@@ -27,6 +27,11 @@ I'm writing articles on system administration and development of various systems
   {{ . }}{{ end }}
 {{- end }}
 
+#### 👥 Recent followers
+{{ range followers 5 }}
+- [{{ .Login }}]({{ .URL }})
+{{- end }}
+
 #### 📜 Recent blog posts
 {{ range rss "https://lib.onl/ru/posts/index.xml" 5 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
