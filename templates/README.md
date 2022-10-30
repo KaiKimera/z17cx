@@ -5,13 +5,13 @@ System administrator and web developer.
 I'm writing articles on system administration and development of various systems, applications and servers.
 
 #### :construction_worker_man: I'm currently working on...
-{{ range recentContributions 5 }}
-- {{ .OccurredAt.Format "2006-01-02" }} | [{{ .Repo.Name }}]({{ .Repo.URL }}){{ with .Repo.Description }}  
+{{ range recentContributions 10 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .OccurredAt }}){{ with .Repo.Description }}  
   {{ . }}{{ end }}
 {{- end}}
 
 #### :telescope: Recent releases
-{{ range recentReleases 5 }}
+{{ range recentReleases 10 }}
 - [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }}){{ with .Description }}  
   {{ . }}{{ end }}
 {{- end}}
