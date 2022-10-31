@@ -32,6 +32,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
+- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) (today)  
+  The easiest way to run WireGuard VPN &#43; Web-based Admin UI.
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (1 day ago)  
   A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 - [muesli/markscribe](https://github.com/muesli/markscribe) (1 day ago)  
@@ -40,8 +42,6 @@ I'm writing articles on system administration and development of various systems
   XanMod: Linux kernel source code tree
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) (4 months ago)  
   A fork of NewPipe with SponsorBlock functionality.
-- [pebakery/pebakery](https://github.com/pebakery/pebakery) (4 months ago)  
-  PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
 
 #### :busts_in_silhouette: Recent followers
 
