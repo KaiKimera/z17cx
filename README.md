@@ -7,14 +7,14 @@ I'm writing articles on system administration and development of various systems
 #### :construction_worker_man: I'm currently working on...
 
 - [flarum-download/storage](https://github.com/flarum-download/storage) (1 month ago)
-- [zbox/hugo-ui-passport](https://github.com/zbox/hugo-ui-passport) (1 month ago)
-- [ghastore/mirror](https://github.com/ghastore/mirror) (1 month ago)
+- [zbox/hugo-ui-passport](https://github.com/zbox/hugo-ui-passport) (2 months ago)
+- [ghastore/mirror](https://github.com/ghastore/mirror) (2 months ago)
 - [cmfstore/init-composer](https://github.com/cmfstore/init-composer) (2 months ago)
 - [ghastore/.github](https://github.com/ghastore/.github) (2 months ago)
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.6.0](https://github.com/flarum-lang/russian/releases/tag/1.6.0), 4 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.6.0](https://github.com/flarum-lang/russian/releases/tag/1.6.0), 5 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -32,9 +32,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (today)  
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (1 day ago)  
   A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
-- [muesli/markscribe](https://github.com/muesli/markscribe) (today)  
+- [muesli/markscribe](https://github.com/muesli/markscribe) (1 day ago)  
   Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [xanmod/linux](https://github.com/xanmod/linux) (2 months ago)  
   XanMod: Linux kernel source code tree
