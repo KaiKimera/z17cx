@@ -6,15 +6,15 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [site-0003/content](https://github.com/site-0003/content) (1 day ago)
-- [zbox/hugo-ui-shortcodes](https://github.com/zbox/hugo-ui-shortcodes) (1 day ago)
+- [zbox/mikrotik-conf](https://github.com/zbox/mikrotik-conf) (today)
+- [site-0003/content](https://github.com/site-0003/content) (2 days ago)
+- [zbox/hugo-ui-shortcodes](https://github.com/zbox/hugo-ui-shortcodes) (2 days ago)
 - [flarum-download/storage](https://github.com/flarum-download/storage) (1 month ago)
-- [zbox/hugo-ui-passport](https://github.com/zbox/hugo-ui-passport) (2 months ago)
 - [ghastore/mirror](https://github.com/ghastore/mirror) (2 months ago)
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.6.0](https://github.com/flarum-lang/russian/releases/tag/1.6.0), 6 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.6.0](https://github.com/flarum-lang/russian/releases/tag/1.6.0), 1 week ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -32,11 +32,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) (1 day ago)  
+- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) (2 days ago)  
   The easiest way to run WireGuard VPN &#43; Web-based Admin UI.
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (2 days ago)  
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (3 days ago)  
   A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
-- [muesli/markscribe](https://github.com/muesli/markscribe) (2 days ago)  
+- [muesli/markscribe](https://github.com/muesli/markscribe) (3 days ago)  
   Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [xanmod/linux](https://github.com/xanmod/linux) (2 months ago)  
   XanMod: Linux kernel source code tree
