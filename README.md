@@ -32,6 +32,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
+- [tdewolff/minify](https://github.com/tdewolff/minify) (today)  
+  Go minifiers for web formats
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) (4 days ago)  
   The easiest way to run WireGuard VPN &#43; Web-based Admin UI.
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (5 days ago)  
@@ -40,8 +42,6 @@ I'm writing articles on system administration and development of various systems
   Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [xanmod/linux](https://github.com/xanmod/linux) (2 months ago)  
   XanMod: Linux kernel source code tree
-- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) (4 months ago)  
-  A fork of NewPipe with SponsorBlock functionality.
 
 #### :busts_in_silhouette: Recent followers
 
