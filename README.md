@@ -6,9 +6,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [zbox/mikrotik-conf](https://github.com/zbox/mikrotik-conf) (2 days ago)
-- [site-0003/content](https://github.com/site-0003/content) (4 days ago)
-- [zbox/hugo-ui-shortcodes](https://github.com/zbox/hugo-ui-shortcodes) (4 days ago)
+- [zbox/mikrotik-conf](https://github.com/zbox/mikrotik-conf) (3 days ago)
+- [site-0003/content](https://github.com/site-0003/content) (5 days ago)
+- [zbox/hugo-ui-shortcodes](https://github.com/zbox/hugo-ui-shortcodes) (5 days ago)
 - [flarum-download/storage](https://github.com/flarum-download/storage) (1 month ago)
 - [ghastore/mirror](https://github.com/ghastore/mirror) (2 months ago)
 
@@ -32,13 +32,13 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [tdewolff/minify](https://github.com/tdewolff/minify) (today)  
+- [tdewolff/minify](https://github.com/tdewolff/minify) (1 day ago)  
   Go minifiers for web formats
-- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) (4 days ago)  
+- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) (5 days ago)  
   The easiest way to run WireGuard VPN &#43; Web-based Admin UI.
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (5 days ago)  
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (6 days ago)  
   A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
-- [muesli/markscribe](https://github.com/muesli/markscribe) (5 days ago)  
+- [muesli/markscribe](https://github.com/muesli/markscribe) (6 days ago)  
   Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [xanmod/linux](https://github.com/xanmod/linux) (2 months ago)  
   XanMod: Linux kernel source code tree
@@ -54,7 +54,7 @@ I'm writing articles on system administration and development of various systems
 ## Blog
 
 - [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (2 months ago)
-- [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (5 months ago)
+- [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (6 months ago)
 - [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (9 months ago)
 - [Установка Vivaldi в Debian](https://lib.onl/ru/posts/2022/01/ddddd243-d182-5e26-a161-d2ea7812214a/) (9 months ago)
 - [Чёрный экран с курсором при старте GDM](https://lib.onl/ru/posts/2021/09/581804b8-0613-52a8-a5c4-fdae90e7bc8a/) (1 year ago)
