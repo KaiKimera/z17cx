@@ -6,9 +6,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [zbox/mikrotik-conf](https://github.com/zbox/mikrotik-conf) (3 days ago)
-- [site-0003/content](https://github.com/site-0003/content) (5 days ago)
-- [zbox/hugo-ui-shortcodes](https://github.com/zbox/hugo-ui-shortcodes) (5 days ago)
+- [zbox/mikrotik-conf](https://github.com/zbox/mikrotik-conf) (4 days ago)
+- [site-0003/content](https://github.com/site-0003/content) (6 days ago)
+- [zbox/hugo-ui-shortcodes](https://github.com/zbox/hugo-ui-shortcodes) (6 days ago)
 - [flarum-download/storage](https://github.com/flarum-download/storage) (1 month ago)
 - [ghastore/mirror](https://github.com/ghastore/mirror) (2 months ago)
 
@@ -32,13 +32,13 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [tdewolff/minify](https://github.com/tdewolff/minify) (1 day ago)  
+- [tdewolff/minify](https://github.com/tdewolff/minify) (2 days ago)  
   Go minifiers for web formats
-- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) (5 days ago)  
+- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) (6 days ago)  
   The easiest way to run WireGuard VPN &#43; Web-based Admin UI.
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (6 days ago)  
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (1 week ago)  
   A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
-- [muesli/markscribe](https://github.com/muesli/markscribe) (6 days ago)  
+- [muesli/markscribe](https://github.com/muesli/markscribe) (1 week ago)  
   Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [xanmod/linux](https://github.com/xanmod/linux) (2 months ago)  
   XanMod: Linux kernel source code tree
