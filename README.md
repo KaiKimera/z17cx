@@ -32,7 +32,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [tdewolff/minify](https://github.com/tdewolff/minify) (6 days ago)  
+- [tdewolff/minify](https://github.com/tdewolff/minify) (1 week ago)  
   Go minifiers for web formats
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) (1 week ago)  
   The easiest way to run WireGuard VPN &#43; Web-based Admin UI.
