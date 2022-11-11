@@ -14,7 +14,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.6.0](https://github.com/flarum-lang/russian/releases/tag/1.6.0), 2 weeks ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.7.0](https://github.com/flarum-lang/russian/releases/tag/1.7.0), today)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -32,6 +32,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
+- [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) (today)  
+  Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [tdewolff/minify](https://github.com/tdewolff/minify) (1 week ago)  
   Go minifiers for web formats
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) (1 week ago)  
@@ -40,8 +42,6 @@ I'm writing articles on system administration and development of various systems
   A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 - [muesli/markscribe](https://github.com/muesli/markscribe) (1 week ago)  
   Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
-- [xanmod/linux](https://github.com/xanmod/linux) (2 months ago)  
-  XanMod: Linux kernel source code tree
 
 #### :busts_in_silhouette: Recent followers
 
