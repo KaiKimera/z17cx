@@ -14,7 +14,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.7.0](https://github.com/flarum-lang/russian/releases/tag/1.7.0), today)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.7.0](https://github.com/flarum-lang/russian/releases/tag/1.7.0), 1 day ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -32,7 +32,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) (today)  
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) (1 day ago)  
+  A terminal for a more modern age
+- [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) (1 day ago)  
   Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [tdewolff/minify](https://github.com/tdewolff/minify) (1 week ago)  
   Go minifiers for web formats
@@ -40,8 +42,6 @@ I'm writing articles on system administration and development of various systems
   The easiest way to run WireGuard VPN &#43; Web-based Admin UI.
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (1 week ago)  
   A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
-- [muesli/markscribe](https://github.com/muesli/markscribe) (1 week ago)  
-  Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 
 #### :busts_in_silhouette: Recent followers
 
@@ -53,7 +53,7 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
-- [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (2 months ago)
+- [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (3 months ago)
 - [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (6 months ago)
 - [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (10 months ago)
 - [Установка Vivaldi в Debian](https://lib.onl/ru/posts/2022/01/ddddd243-d182-5e26-a161-d2ea7812214a/) (10 months ago)
