@@ -14,7 +14,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.7.0](https://github.com/flarum-lang/russian/releases/tag/1.7.0), 1 day ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.7.0](https://github.com/flarum-lang/russian/releases/tag/1.7.0), 2 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -32,15 +32,15 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) (1 day ago)  
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) (2 days ago)  
   A terminal for a more modern age
-- [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) (1 day ago)  
+- [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) (2 days ago)  
   Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [tdewolff/minify](https://github.com/tdewolff/minify) (1 week ago)  
   Go minifiers for web formats
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) (1 week ago)  
   The easiest way to run WireGuard VPN &#43; Web-based Admin UI.
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (1 week ago)  
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (2 weeks ago)  
   A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 
 #### :busts_in_silhouette: Recent followers
