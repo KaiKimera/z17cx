@@ -14,7 +14,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.7.0](https://github.com/flarum-lang/russian/releases/tag/1.7.0), 3 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.7.0](https://github.com/flarum-lang/russian/releases/tag/1.7.0), 4 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -32,9 +32,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) (3 days ago)  
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) (4 days ago)  
   A terminal for a more modern age
-- [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) (3 days ago)  
+- [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) (4 days ago)  
   Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [tdewolff/minify](https://github.com/tdewolff/minify) (1 week ago)  
   Go minifiers for web formats
