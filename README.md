@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [zbox/mikrotik-conf](https://github.com/zbox/mikrotik-conf) (1 week ago)
+- [zbox/mikrotik-conf](https://github.com/zbox/mikrotik-conf) (2 weeks ago)
 - [site-0003/content](https://github.com/site-0003/content) (2 weeks ago)
 - [zbox/hugo-ui-shortcodes](https://github.com/zbox/hugo-ui-shortcodes) (2 weeks ago)
 - [flarum-download/storage](https://github.com/flarum-download/storage) (1 month ago)
@@ -14,7 +14,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.7.0](https://github.com/flarum-lang/russian/releases/tag/1.7.0), 4 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.7.0](https://github.com/flarum-lang/russian/releases/tag/1.7.0), 5 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -32,9 +32,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) (4 days ago)  
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) (5 days ago)  
   A terminal for a more modern age
-- [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) (4 days ago)  
+- [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) (5 days ago)  
   Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [tdewolff/minify](https://github.com/tdewolff/minify) (1 week ago)  
   Go minifiers for web formats
