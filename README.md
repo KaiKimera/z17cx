@@ -14,7 +14,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.8.0](https://github.com/flarum-lang/russian/releases/tag/1.8.0), 2 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.8.0](https://github.com/flarum-lang/russian/releases/tag/1.8.0), 3 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -40,7 +40,7 @@ I'm writing articles on system administration and development of various systems
   Go minifiers for web formats
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) (2 weeks ago)  
   The easiest way to run WireGuard VPN &#43; Web-based Admin UI.
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (2 weeks ago)  
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (3 weeks ago)  
   A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 
 #### :busts_in_silhouette: Recent followers
