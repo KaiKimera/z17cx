@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [zbox/mikrotik-conf](https://github.com/zbox/mikrotik-conf) (2 weeks ago)
+- [zbox/mikrotik-conf](https://github.com/zbox/mikrotik-conf) (3 weeks ago)
 - [site-0003/content](https://github.com/site-0003/content) (3 weeks ago)
 - [zbox/hugo-ui-shortcodes](https://github.com/zbox/hugo-ui-shortcodes) (3 weeks ago)
 - [zbox/hugo-ui-passport](https://github.com/zbox/hugo-ui-passport) (2 months ago)
@@ -14,7 +14,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.8.0](https://github.com/flarum-lang/russian/releases/tag/1.8.0), 5 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.8.0](https://github.com/flarum-lang/russian/releases/tag/1.8.0), 6 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
