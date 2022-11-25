@@ -32,11 +32,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) (1 week ago)  
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) (2 weeks ago)  
   A terminal for a more modern age
-- [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) (1 week ago)  
+- [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) (2 weeks ago)  
   Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
-- [tdewolff/minify](https://github.com/tdewolff/minify) (2 weeks ago)  
+- [tdewolff/minify](https://github.com/tdewolff/minify) (3 weeks ago)  
   Go minifiers for web formats
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) (3 weeks ago)  
   The easiest way to run WireGuard VPN &#43; Web-based Admin UI.
