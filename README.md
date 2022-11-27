@@ -40,7 +40,7 @@ I'm writing articles on system administration and development of various systems
   Go minifiers for web formats
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) (3 weeks ago)  
   The easiest way to run WireGuard VPN &#43; Web-based Admin UI.
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (3 weeks ago)  
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (4 weeks ago)  
   A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 
 #### :busts_in_silhouette: Recent followers
