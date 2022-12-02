@@ -8,7 +8,7 @@ I'm writing articles on system administration and development of various systems
 
 - [zbox/hugo-ui-passport](https://github.com/zbox/hugo-ui-passport) (today)
 - [zbox/hugo-ui-base](https://github.com/zbox/hugo-ui-base) (today)
-- [zbox/mikrotik-conf](https://github.com/zbox/mikrotik-conf) (4 weeks ago)
+- [zbox/mikrotik-conf](https://github.com/zbox/mikrotik-conf) (1 month ago)
 - [zbox/hugo-ui-shortcodes](https://github.com/zbox/hugo-ui-shortcodes) (1 month ago)
 - [site-0003/content](https://github.com/site-0003/content) (1 month ago)
 
@@ -32,11 +32,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) (2 weeks ago)  
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) (3 weeks ago)  
   A terminal for a more modern age
-- [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) (2 weeks ago)  
+- [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) (3 weeks ago)  
   Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
-- [tdewolff/minify](https://github.com/tdewolff/minify) (3 weeks ago)  
+- [tdewolff/minify](https://github.com/tdewolff/minify) (4 weeks ago)  
   Go minifiers for web formats
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) (1 month ago)  
   The easiest way to run WireGuard VPN &#43; Web-based Admin UI.
