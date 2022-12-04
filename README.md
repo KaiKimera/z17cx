@@ -7,8 +7,8 @@ I'm writing articles on system administration and development of various systems
 #### :construction_worker_man: I'm currently working on...
 
 - [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (today)
-- [zbox/hugo-ui-passport](https://github.com/zbox/hugo-ui-passport) (1 day ago)
-- [zbox/hugo-ui-base](https://github.com/zbox/hugo-ui-base) (1 day ago)
+- [zbox/hugo-ui-passport](https://github.com/zbox/hugo-ui-passport) (2 days ago)
+- [zbox/hugo-ui-base](https://github.com/zbox/hugo-ui-base) (2 days ago)
 - [zbox/mikrotik-conf](https://github.com/zbox/mikrotik-conf) (1 month ago)
 - [zbox/hugo-ui-shortcodes](https://github.com/zbox/hugo-ui-shortcodes) (1 month ago)
 
@@ -36,7 +36,7 @@ I'm writing articles on system administration and development of various systems
   A terminal for a more modern age
 - [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) (3 weeks ago)  
   Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
-- [tdewolff/minify](https://github.com/tdewolff/minify) (4 weeks ago)  
+- [tdewolff/minify](https://github.com/tdewolff/minify) (1 month ago)  
   Go minifiers for web formats
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) (1 month ago)  
   The easiest way to run WireGuard VPN &#43; Web-based Admin UI.
