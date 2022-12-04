@@ -7,10 +7,10 @@ I'm writing articles on system administration and development of various systems
 #### :construction_worker_man: I'm currently working on...
 
 - [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (today)
+- [zbox/.github](https://github.com/zbox/.github) (today)
 - [zbox/hugo-ui-passport](https://github.com/zbox/hugo-ui-passport) (2 days ago)
 - [zbox/hugo-ui-base](https://github.com/zbox/hugo-ui-base) (2 days ago)
 - [zbox/mikrotik-conf](https://github.com/zbox/mikrotik-conf) (1 month ago)
-- [zbox/hugo-ui-shortcodes](https://github.com/zbox/hugo-ui-shortcodes) (1 month ago)
 
 #### :telescope: Recent releases
 
@@ -89,6 +89,8 @@ I'm writing articles on system administration and development of various systems
   GitHub Actions store.
 - [GPG Store](https://github.com/gpgstore)  
   GPG public keys for Linux repositories.
+- [Universal AIK](https://github.com/uaik)  
+  (UNIX / Linux / Windows) automated installation kit.
 
 ## Statistic
 
