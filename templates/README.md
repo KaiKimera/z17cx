@@ -63,6 +63,8 @@ I'm writing articles on system administration and development of various systems
   GitHub Actions store.
 - [GPG Store](https://github.com/gpgstore)  
   GPG public keys for Linux repositories.
+- [Universal AIK](https://github.com/uaik)  
+  (UNIX / Linux / Windows) automated installation kit.
 
 ## Statistic
 
