@@ -6,11 +6,12 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [uidbox/init-composer-pkgstore](https://github.com/uidbox/init-composer-pkgstore) (today)
-- [pkgstore/flarum-l10n-russian-core](https://github.com/pkgstore/flarum-l10n-russian-core) (today)
-- [pkgstore/flarum-l10n-russian-extra](https://github.com/pkgstore/flarum-l10n-russian-extra) (today)
-- [zbox/.github](https://github.com/zbox/.github) (today)
-- [pkgstore/flarum-ui-base](https://github.com/pkgstore/flarum-ui-base) (today)
+- [pkgstore/bash-git](https://github.com/pkgstore/bash-git) (today)
+- [pkgstore/xenforo-ext-adblock-detector](https://github.com/pkgstore/xenforo-ext-adblock-detector) (today)
+- [pkgstore/pwsh-buildprofile](https://github.com/pkgstore/pwsh-buildprofile) (today)  
+  The script helps to set up a user profile and install apps.
+- [pkgstore/pwsh-diskpart](https://github.com/pkgstore/pwsh-diskpart) (today)
+- [pkgstore/xenforo-ext-metatag](https://github.com/pkgstore/xenforo-ext-metatag) (today)
 
 #### :telescope: Recent releases
 
