@@ -6,12 +6,12 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/bash-git](https://github.com/pkgstore/bash-git) (today)
-- [pkgstore/xenforo-ext-adblock-detector](https://github.com/pkgstore/xenforo-ext-adblock-detector) (today)
+- [pkgstore/mediawiki-ext-license](https://github.com/pkgstore/mediawiki-ext-license) (today)
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (today)
 - [pkgstore/pwsh-buildprofile](https://github.com/pkgstore/pwsh-buildprofile) (today)  
   The script helps to set up a user profile and install apps.
 - [pkgstore/pwsh-diskpart](https://github.com/pkgstore/pwsh-diskpart) (today)
-- [pkgstore/xenforo-ext-metatag](https://github.com/pkgstore/xenforo-ext-metatag) (today)
+- [pkgstore/mediawiki-ext-align](https://github.com/pkgstore/mediawiki-ext-align) (today)
 
 #### :telescope: Recent releases
 
