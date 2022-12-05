@@ -6,11 +6,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [zmarket/.github](https://github.com/zmarket/.github) (today)
+- [uidbox/init-composer-pkgstore](https://github.com/uidbox/init-composer-pkgstore) (today)
 - [zbox/.github](https://github.com/zbox/.github) (today)
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (today)
-- [uidbox/init-composer-v77dev](https://github.com/uidbox/init-composer-v77dev) (today)
-- [zbox/bash-tools-github](https://github.com/zbox/bash-tools-github) (today)
+- [pkgstore/.github](https://github.com/pkgstore/.github) (today)
+- [zmarket/.github](https://github.com/zmarket/.github) (today)
+- [zbox/bash-tools-github](https://github.com/zbox/bash-tools-github) (1 day ago)
 
 #### :telescope: Recent releases
 
@@ -54,7 +54,7 @@ I'm writing articles on system administration and development of various systems
 ## Blog
 
 - [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (3 months ago)
-- [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (6 months ago)
+- [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (7 months ago)
 - [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (10 months ago)
 - [Установка Vivaldi в Debian](https://lib.onl/ru/posts/2022/01/ddddd243-d182-5e26-a161-d2ea7812214a/) (10 months ago)
 - [Чёрный экран с курсором при старте GDM](https://lib.onl/ru/posts/2021/09/581804b8-0613-52a8-a5c4-fdae90e7bc8a/) (1 year ago)
