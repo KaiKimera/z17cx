@@ -7,10 +7,10 @@ I'm writing articles on system administration and development of various systems
 #### :construction_worker_man: I'm currently working on...
 
 - [uidbox/init-composer-pkgstore](https://github.com/uidbox/init-composer-pkgstore) (today)
+- [pkgstore/flarum-l10n-russian-core](https://github.com/pkgstore/flarum-l10n-russian-core) (today)
+- [pkgstore/flarum-l10n-russian-extra](https://github.com/pkgstore/flarum-l10n-russian-extra) (today)
 - [zbox/.github](https://github.com/zbox/.github) (today)
-- [pkgstore/.github](https://github.com/pkgstore/.github) (today)
-- [zmarket/.github](https://github.com/zmarket/.github) (today)
-- [zbox/bash-tools-github](https://github.com/zbox/bash-tools-github) (1 day ago)
+- [pkgstore/flarum-ui-base](https://github.com/pkgstore/flarum-ui-base) (today)
 
 #### :telescope: Recent releases
 
