@@ -55,10 +55,8 @@ I'm writing articles on system administration and development of various systems
 
 <img align="right" src="https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/img.octocat.gif" width="20%" alt="OctoCat" />
 
-- [**ZBox**](https://github.com/zbox)  
-  ZBox Development Platform. Is my global knowledge and development storage.
-- [**ZMarket**](https://github.com/zmarket)  
-  ZMarket is intended for delivery of packages and applications on various systems.
+- [**Package Store**](https://github.com/pkgstore)  
+  Package Store is my global knowledge and development storage for CMS/CMF, Linux OS and other various systems.
 - [GHA Store](https://github.com/ghastore)  
   GitHub Actions store.
 - [GPG Store](https://github.com/gpgstore)  
