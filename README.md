@@ -6,12 +6,12 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/mediawiki-ext-embed](https://github.com/pkgstore/mediawiki-ext-embed) (today)
-- [pkgstore/mediawiki-ext-badge](https://github.com/pkgstore/mediawiki-ext-badge) (today)
+- [pkgstore/mikrotik-conf](https://github.com/pkgstore/mikrotik-conf) (today)
+- [pkgstore/xenforo-ext-adblock-detector](https://github.com/pkgstore/xenforo-ext-adblock-detector) (today)
 - [pkgstore/pwsh-buildprofile](https://github.com/pkgstore/pwsh-buildprofile) (today)  
   The script helps to set up a user profile and install apps.
 - [pkgstore/pwsh-diskpart](https://github.com/pkgstore/pwsh-diskpart) (today)
-- [pkgstore/mediawiki-ext-align](https://github.com/pkgstore/mediawiki-ext-align) (today)
+- [pkgstore/mediawiki-ext-seo](https://github.com/pkgstore/mediawiki-ext-seo) (today)
 
 #### :telescope: Recent releases
 
