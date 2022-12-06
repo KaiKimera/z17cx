@@ -6,12 +6,12 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/mediawiki-ext-license](https://github.com/pkgstore/mediawiki-ext-license) (today)
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (today)
-- [pkgstore/pwsh-buildprofile](https://github.com/pkgstore/pwsh-buildprofile) (today)  
+- [pkgstore/mediawiki-ext-license](https://github.com/pkgstore/mediawiki-ext-license) (1 day ago)
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 day ago)
+- [pkgstore/pwsh-buildprofile](https://github.com/pkgstore/pwsh-buildprofile) (1 day ago)  
   The script helps to set up a user profile and install apps.
-- [pkgstore/pwsh-diskpart](https://github.com/pkgstore/pwsh-diskpart) (today)
-- [pkgstore/mediawiki-ext-align](https://github.com/pkgstore/mediawiki-ext-align) (today)
+- [pkgstore/pwsh-diskpart](https://github.com/pkgstore/pwsh-diskpart) (1 day ago)
+- [pkgstore/mediawiki-ext-align](https://github.com/pkgstore/mediawiki-ext-align) (1 day ago)
 
 #### :telescope: Recent releases
 
@@ -28,7 +28,7 @@ I'm writing articles on system administration and development of various systems
   &#8627; [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum)
 - [Update README.md: Russian Language Pack](https://github.com/realodix/awesome-flarum/pull/4) (2 years ago) `CLOSED`  
   &#8627; [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum)
-- [Add Russian locale.](https://github.com/FriendsOfFlarum/upload/pull/39) (5 years ago) `MERGED`  
+- [Add Russian locale.](https://github.com/FriendsOfFlarum/upload/pull/39) (6 years ago) `MERGED`  
   &#8627; [FriendsOfFlarum/upload](https://github.com/FriendsOfFlarum/upload)
 
 #### :star: Recent stars
