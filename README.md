@@ -6,12 +6,12 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/mediawiki-ext-license](https://github.com/pkgstore/mediawiki-ext-license) (1 day ago)
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 day ago)
-- [pkgstore/pwsh-buildprofile](https://github.com/pkgstore/pwsh-buildprofile) (1 day ago)  
+- [pkgstore/mediawiki-ext-emoji](https://github.com/pkgstore/mediawiki-ext-emoji) (today)
+- [pkgstore/mediawiki-ext-color](https://github.com/pkgstore/mediawiki-ext-color) (today)
+- [pkgstore/pwsh-buildprofile](https://github.com/pkgstore/pwsh-buildprofile) (today)  
   The script helps to set up a user profile and install apps.
-- [pkgstore/pwsh-diskpart](https://github.com/pkgstore/pwsh-diskpart) (1 day ago)
-- [pkgstore/mediawiki-ext-align](https://github.com/pkgstore/mediawiki-ext-align) (1 day ago)
+- [pkgstore/pwsh-diskpart](https://github.com/pkgstore/pwsh-diskpart) (today)
+- [pkgstore/mediawiki-ext-align](https://github.com/pkgstore/mediawiki-ext-align) (today)
 
 #### :telescope: Recent releases
 
