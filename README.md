@@ -6,8 +6,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/mediawiki-ext-emoji](https://github.com/pkgstore/mediawiki-ext-emoji) (today)
-- [pkgstore/mediawiki-ext-color](https://github.com/pkgstore/mediawiki-ext-color) (today)
+- [pkgstore/mediawiki-ext-embed](https://github.com/pkgstore/mediawiki-ext-embed) (today)
+- [pkgstore/mediawiki-ext-badge](https://github.com/pkgstore/mediawiki-ext-badge) (today)
 - [pkgstore/pwsh-buildprofile](https://github.com/pkgstore/pwsh-buildprofile) (today)  
   The script helps to set up a user profile and install apps.
 - [pkgstore/pwsh-diskpart](https://github.com/pkgstore/pwsh-diskpart) (today)
