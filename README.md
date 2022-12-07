@@ -8,10 +8,10 @@ I'm writing articles on system administration and development of various systems
 
 - [pkgstore/pkgstore.github.io](https://github.com/pkgstore/pkgstore.github.io) (today)
 - [pkgstore/jekyll-ui-pages](https://github.com/pkgstore/jekyll-ui-pages) (today)
-- [pkgstore/mikrotik-conf](https://github.com/pkgstore/mikrotik-conf) (today)
-- [pkgstore/pwsh-buildprofile](https://github.com/pkgstore/pwsh-buildprofile) (today)  
+- [pkgstore/mikrotik-conf](https://github.com/pkgstore/mikrotik-conf) (1 day ago)
+- [pkgstore/pwsh-buildprofile](https://github.com/pkgstore/pwsh-buildprofile) (1 day ago)  
   The script helps to set up a user profile and install apps.
-- [pkgstore/pwsh-diskpart](https://github.com/pkgstore/pwsh-diskpart) (today)
+- [pkgstore/pwsh-diskpart](https://github.com/pkgstore/pwsh-diskpart) (1 day ago)
 
 #### :telescope: Recent releases
 
