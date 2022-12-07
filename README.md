@@ -7,7 +7,7 @@ I'm writing articles on system administration and development of various systems
 #### :construction_worker_man: I'm currently working on...
 
 - [pkgstore/pkgstore.github.io](https://github.com/pkgstore/pkgstore.github.io) (today)
-- [pkgstore/jekyll-ui-pages](https://github.com/pkgstore/jekyll-ui-pages) (today)
+- [pkgstore/jekyll-ui-catalog](https://github.com/pkgstore/jekyll-ui-catalog) (today)
 - [pkgstore/mikrotik-conf](https://github.com/pkgstore/mikrotik-conf) (1 day ago)
 - [pkgstore/pwsh-buildprofile](https://github.com/pkgstore/pwsh-buildprofile) (1 day ago)  
   The script helps to set up a user profile and install apps.
