@@ -45,7 +45,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :busts_in_silhouette: Recent followers
 
-- [Lick](https://github.com/VlickV)
+- [Triever ](https://github.com/VlickV)
 - [Stanislav Migunov](https://github.com/mr-w1lde)
 - [Vladimir Petrozavodsky](https://github.com/petrozavodsky)
 - [Skumen](https://github.com/Skumen)
