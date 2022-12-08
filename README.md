@@ -7,14 +7,14 @@ I'm writing articles on system administration and development of various systems
 #### :construction_worker_man: I'm currently working on...
 
 - [pkgstore/jekyll-ui-catalog](https://github.com/pkgstore/jekyll-ui-catalog) (today)
-- [pkgstore/pkgstore.github.io](https://github.com/pkgstore/pkgstore.github.io) (today)
-- [pkgstore/mikrotik-conf](https://github.com/pkgstore/mikrotik-conf) (today)
-- [pkgstore/xenforo-ext-thread-starter](https://github.com/pkgstore/xenforo-ext-thread-starter) (1 day ago)
-- [pkgstore/pwsh-diskpart](https://github.com/pkgstore/pwsh-diskpart) (1 day ago)
+- [pkgstore/pkgstore.github.io](https://github.com/pkgstore/pkgstore.github.io) (1 day ago)
+- [pkgstore/mikrotik-conf](https://github.com/pkgstore/mikrotik-conf) (1 day ago)
+- [pkgstore/xenforo-ext-thread-starter](https://github.com/pkgstore/xenforo-ext-thread-starter) (2 days ago)
+- [pkgstore/pwsh-diskpart](https://github.com/pkgstore/pwsh-diskpart) (2 days ago)
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.8.0](https://github.com/flarum-lang/russian/releases/tag/1.8.0), 2 weeks ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.8.0](https://github.com/flarum-lang/russian/releases/tag/1.8.0), 3 weeks ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
