@@ -6,11 +6,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/pkgstore.github.io](https://github.com/pkgstore/pkgstore.github.io) (today)
-- [pkgstore/jekyll-ui-store](https://github.com/pkgstore/jekyll-ui-store) (today)
-- [pkgstore/mikrotik-conf](https://github.com/pkgstore/mikrotik-conf) (1 day ago)
-- [pkgstore/xenforo-ext-thread-starter](https://github.com/pkgstore/xenforo-ext-thread-starter) (2 days ago)
-- [pkgstore/pwsh-diskpart](https://github.com/pkgstore/pwsh-diskpart) (2 days ago)
+- [pkgstore/pkgstore.github.io](https://github.com/pkgstore/pkgstore.github.io) (1 day ago)
+- [pkgstore/jekyll-ui-store](https://github.com/pkgstore/jekyll-ui-store) (1 day ago)
+- [pkgstore/mikrotik-conf](https://github.com/pkgstore/mikrotik-conf) (2 days ago)
+- [pkgstore/xenforo-ext-thread-starter](https://github.com/pkgstore/xenforo-ext-thread-starter) (3 days ago)
+- [pkgstore/pwsh-diskpart](https://github.com/pkgstore/pwsh-diskpart) (3 days ago)
 
 #### :telescope: Recent releases
 
@@ -32,9 +32,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) (3 weeks ago)  
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) (4 weeks ago)  
   A terminal for a more modern age
-- [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) (3 weeks ago)  
+- [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) (4 weeks ago)  
   Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [tdewolff/minify](https://github.com/tdewolff/minify) (1 month ago)  
   Go minifiers for web formats
@@ -55,8 +55,8 @@ I'm writing articles on system administration and development of various systems
 
 - [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (3 months ago)
 - [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (7 months ago)
-- [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (10 months ago)
-- [Установка Vivaldi в Debian](https://lib.onl/ru/posts/2022/01/ddddd243-d182-5e26-a161-d2ea7812214a/) (10 months ago)
+- [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (11 months ago)
+- [Установка Vivaldi в Debian](https://lib.onl/ru/posts/2022/01/ddddd243-d182-5e26-a161-d2ea7812214a/) (11 months ago)
 - [Чёрный экран с курсором при старте GDM](https://lib.onl/ru/posts/2021/09/581804b8-0613-52a8-a5c4-fdae90e7bc8a/) (1 year ago)
 - [Отключение режима Wayland в GDM](https://lib.onl/ru/posts/2021/09/0d11ecc0-2714-5c5c-9b48-804f50419590/) (1 year ago)
 - [Установка Proxmox VE на Debian 11 (Bullseye)](https://lib.onl/ru/posts/2021/09/1cf305cd-85d0-5e02-aabb-e01346bfee0f/) (1 year ago)
