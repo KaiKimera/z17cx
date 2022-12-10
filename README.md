@@ -8,9 +8,9 @@ I'm writing articles on system administration and development of various systems
 
 - [ghastore/api-github](https://github.com/ghastore/api-github) (today)
 - [ghastore/build-debian](https://github.com/ghastore/build-debian) (today)
-- [ghastore/vk](https://github.com/ghastore/vk) (today)
+- [ghastore/api-packagist](https://github.com/ghastore/api-packagist) (today)
 - [ghastore/build-gpg](https://github.com/ghastore/build-gpg) (today)
-- [ghastore/build-tar](https://github.com/ghastore/build-tar) (today)
+- [ghastore/vk](https://github.com/ghastore/vk) (today)
 
 #### :telescope: Recent releases
 
