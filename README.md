@@ -6,11 +6,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [api-pkgstore/api-pkgstore.github.io](https://github.com/api-pkgstore/api-pkgstore.github.io) (today)
+- [ghastore/mirror](https://github.com/ghastore/mirror) (today)
 - [ghastore/api-packagist](https://github.com/ghastore/api-packagist) (today)
 - [ghastore/vk](https://github.com/ghastore/vk) (today)
+- [api-storage/api-storage.github.io](https://github.com/api-storage/api-storage.github.io) (today)
 - [ghastore/build-gpg](https://github.com/ghastore/build-gpg) (today)
-- [ghastore/build-debian](https://github.com/ghastore/build-debian) (today)
 
 #### :telescope: Recent releases
 
