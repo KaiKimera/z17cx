@@ -6,11 +6,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [ghastore/api-packagist](https://github.com/ghastore/api-packagist) (today)
-- [cdn-api/.github](https://github.com/cdn-api/.github) (today)
-- [cdn-api/cdn-api.github.io](https://github.com/cdn-api/cdn-api.github.io) (today)
-- [ghastore/api-github-org](https://github.com/ghastore/api-github-org) (today)
-- [ghastore/build-gpg](https://github.com/ghastore/build-gpg) (1 day ago)
+- [ghastore/api-packagist](https://github.com/ghastore/api-packagist) (1 day ago)
+- [cdn-api/.github](https://github.com/cdn-api/.github) (1 day ago)
+- [cdn-api/cdn-api.github.io](https://github.com/cdn-api/cdn-api.github.io) (1 day ago)
+- [ghastore/api-github-org](https://github.com/ghastore/api-github-org) (1 day ago)
+- [ghastore/build-gpg](https://github.com/ghastore/build-gpg) (2 days ago)
 
 #### :telescope: Recent releases
 
@@ -53,7 +53,7 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
-- [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (3 months ago)
+- [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (4 months ago)
 - [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (7 months ago)
 - [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (11 months ago)
 - [Установка Vivaldi в Debian](https://lib.onl/ru/posts/2022/01/ddddd243-d182-5e26-a161-d2ea7812214a/) (11 months ago)
