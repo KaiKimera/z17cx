@@ -6,11 +6,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [ghastore/api-packagist](https://github.com/ghastore/api-packagist) (1 day ago)
+- [cdn-api/cdn-api.github.io](https://github.com/cdn-api/cdn-api.github.io) (today)
+- [ghastore/api-github](https://github.com/ghastore/api-github) (today)
 - [cdn-api/.github](https://github.com/cdn-api/.github) (1 day ago)
-- [cdn-api/cdn-api.github.io](https://github.com/cdn-api/cdn-api.github.io) (1 day ago)
-- [ghastore/api-github-org](https://github.com/ghastore/api-github-org) (1 day ago)
-- [ghastore/build-gpg](https://github.com/ghastore/build-gpg) (2 days ago)
+- [ghastore/api-packagist](https://github.com/ghastore/api-packagist) (1 day ago)
+- [ghastore/vk](https://github.com/ghastore/vk) (2 days ago)
 
 #### :telescope: Recent releases
 
