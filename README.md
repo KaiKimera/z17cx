@@ -9,8 +9,8 @@ I'm writing articles on system administration and development of various systems
 - [ghastore/api-packagist](https://github.com/ghastore/api-packagist) (today)
 - [pkgstore/hugo-ui-passport](https://github.com/pkgstore/hugo-ui-passport) (today)
 - [ghastore/api-github](https://github.com/ghastore/api-github) (today)
+- [pkgstore/hugo-ui-store](https://github.com/pkgstore/hugo-ui-store) (today)
 - [cdn-api/cdn-api.github.io](https://github.com/cdn-api/cdn-api.github.io) (today)
-- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (today)
 
 #### :telescope: Recent releases
 
