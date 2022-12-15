@@ -6,8 +6,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [cdn-api/cdn-api.github.io](https://github.com/cdn-api/cdn-api.github.io) (today)
 - [pkgstore/hugo-ui-store](https://github.com/pkgstore/hugo-ui-store) (today)
+- [cdn-api/cdn-api.github.io](https://github.com/cdn-api/cdn-api.github.io) (today)
 - [ghastore/api-github](https://github.com/ghastore/api-github) (today)
 - [ghastore/api-obs](https://github.com/ghastore/api-obs) (today)
 - [ghastore/api-packagist](https://github.com/ghastore/api-packagist) (today)
