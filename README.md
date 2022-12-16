@@ -7,10 +7,10 @@ I'm writing articles on system administration and development of various systems
 #### :construction_worker_man: I'm currently working on...
 
 - [pkgstore/hugo-ui-store](https://github.com/pkgstore/hugo-ui-store) (today)
-- [cdn-api/cdn-api.github.io](https://github.com/cdn-api/cdn-api.github.io) (1 day ago)
-- [ghastore/api-github](https://github.com/ghastore/api-github) (1 day ago)
-- [ghastore/api-obs](https://github.com/ghastore/api-obs) (1 day ago)
 - [ghastore/api-packagist](https://github.com/ghastore/api-packagist) (1 day ago)
+- [cdn-api/cdn-api.github.io](https://github.com/cdn-api/cdn-api.github.io) (1 day ago)
+- [ghastore/api-obs](https://github.com/ghastore/api-obs) (1 day ago)
+- [ghastore/api-github](https://github.com/ghastore/api-github) (1 day ago)
 
 #### :telescope: Recent releases
 
