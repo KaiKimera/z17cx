@@ -7,14 +7,14 @@ I'm writing articles on system administration and development of various systems
 #### :construction_worker_man: I'm currently working on...
 
 - [pkgstore/hugo-ui-store](https://github.com/pkgstore/hugo-ui-store) (today)
-- [ghastore/api-packagist](https://github.com/ghastore/api-packagist) (1 day ago)
-- [cdn-api/cdn-api.github.io](https://github.com/cdn-api/cdn-api.github.io) (1 day ago)
-- [ghastore/api-obs](https://github.com/ghastore/api-obs) (1 day ago)
-- [ghastore/api-github](https://github.com/ghastore/api-github) (1 day ago)
+- [ghastore/api-packagist](https://github.com/ghastore/api-packagist) (2 days ago)
+- [cdn-api/cdn-api.github.io](https://github.com/cdn-api/cdn-api.github.io) (2 days ago)
+- [ghastore/api-obs](https://github.com/ghastore/api-obs) (2 days ago)
+- [ghastore/api-github](https://github.com/ghastore/api-github) (2 days ago)
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.9.0](https://github.com/flarum-lang/russian/releases/tag/1.9.0), 4 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.9.0](https://github.com/flarum-lang/russian/releases/tag/1.9.0), 5 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
