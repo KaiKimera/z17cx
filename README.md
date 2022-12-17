@@ -32,16 +32,16 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
+- [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) (today)  
+  🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) (today)  
+  The DokuWiki Open Source Wiki Engine
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) (today)  
+  A platform to create documentation/wiki content built with PHP &amp; Laravel
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) (1 month ago)  
   A terminal for a more modern age
 - [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) (1 month ago)  
   Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
-- [tdewolff/minify](https://github.com/tdewolff/minify) (1 month ago)  
-  Go minifiers for web formats
-- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) (1 month ago)  
-  The easiest way to run WireGuard VPN &#43; Web-based Admin UI.
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) (1 month ago)  
-  A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 
 #### :busts_in_silhouette: Recent followers
 
