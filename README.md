@@ -6,12 +6,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/mediawiki-ext-grid](https://github.com/pkgstore/mediawiki-ext-grid) (today)
-- [pkgstore/mediawiki-ext-align](https://github.com/pkgstore/mediawiki-ext-align) (today)
+- [pkgstore/hugo-ui-store](https://github.com/pkgstore/hugo-ui-store) (today)
+- [pkgstore/mediawiki-ext-gist](https://github.com/pkgstore/mediawiki-ext-gist) (today)
 - [pkgstore/mediawiki-ext-badge](https://github.com/pkgstore/mediawiki-ext-badge) (today)
 - [pkgstore/mediawiki-ext-color](https://github.com/pkgstore/mediawiki-ext-color) (today)
-- [pkgstore/pwsh-buildprofile](https://github.com/pkgstore/pwsh-buildprofile) (today)  
-  The script helps to set up a user profile and install apps.
+- [pkgstore/mediawiki-ext-align](https://github.com/pkgstore/mediawiki-ext-align) (today)
 
 #### :telescope: Recent releases
 
@@ -46,11 +45,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :busts_in_silhouette: Recent followers
 
-- [Triever ](https://github.com/VlickV)
 - [Stanislav Migunov](https://github.com/mr-w1lde)
 - [Vladimir Petrozavodsky](https://github.com/petrozavodsky)
 - [Skumen](https://github.com/Skumen)
 - [Caramel](https://github.com/GoldRenard)
+- [MySochi](https://github.com/MySochi)
 
 ## Blog
 
