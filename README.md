@@ -33,6 +33,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) (today)  
+  The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) (1 day ago)  
   🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) (1 day ago)  
@@ -41,8 +43,6 @@ I'm writing articles on system administration and development of various systems
   A platform to create documentation/wiki content built with PHP &amp; Laravel
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) (1 month ago)  
   A terminal for a more modern age
-- [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) (1 month ago)  
-  Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 
 #### :busts_in_silhouette: Recent followers
 
