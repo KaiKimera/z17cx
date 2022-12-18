@@ -6,15 +6,16 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/hugo-ui-store](https://github.com/pkgstore/hugo-ui-store) (today)
-- [ghastore/api-packagist](https://github.com/ghastore/api-packagist) (2 days ago)
-- [ghastore/api-github](https://github.com/ghastore/api-github) (2 days ago)
-- [ghastore/api-obs](https://github.com/ghastore/api-obs) (2 days ago)
-- [cdn-api/cdn-api.github.io](https://github.com/cdn-api/cdn-api.github.io) (2 days ago)
+- [pkgstore/mediawiki-ext-grid](https://github.com/pkgstore/mediawiki-ext-grid) (today)
+- [pkgstore/mediawiki-ext-align](https://github.com/pkgstore/mediawiki-ext-align) (today)
+- [pkgstore/mediawiki-ext-badge](https://github.com/pkgstore/mediawiki-ext-badge) (today)
+- [pkgstore/mediawiki-ext-color](https://github.com/pkgstore/mediawiki-ext-color) (today)
+- [pkgstore/pwsh-buildprofile](https://github.com/pkgstore/pwsh-buildprofile) (today)  
+  The script helps to set up a user profile and install apps.
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.9.0](https://github.com/flarum-lang/russian/releases/tag/1.9.0), 5 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.9.0](https://github.com/flarum-lang/russian/releases/tag/1.9.0), 6 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -32,11 +33,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) (today)  
+- [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) (1 day ago)  
   🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) (today)  
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) (1 day ago)  
   The DokuWiki Open Source Wiki Engine
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) (today)  
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) (1 day ago)  
   A platform to create documentation/wiki content built with PHP &amp; Laravel
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) (1 month ago)  
   A terminal for a more modern age
