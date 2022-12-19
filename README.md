@@ -7,9 +7,9 @@ I'm writing articles on system administration and development of various systems
 #### :construction_worker_man: I'm currently working on...
 
 - [pkgstore/hugo-ui-store](https://github.com/pkgstore/hugo-ui-store) (today)
+- [pkgstore/jekyll-ui-pages](https://github.com/pkgstore/jekyll-ui-pages) (today)
 - [pkgstore/pkgstore.github.io](https://github.com/pkgstore/pkgstore.github.io) (today)
-- [pkgstore/mediawiki-ext-float](https://github.com/pkgstore/mediawiki-ext-float) (1 day ago)
-- [pkgstore/mediawiki-ext-color](https://github.com/pkgstore/mediawiki-ext-color) (1 day ago)
+- [pkgstore/mediawiki-ext-emoji](https://github.com/pkgstore/mediawiki-ext-emoji) (1 day ago)
 - [pkgstore/mediawiki-ext-badge](https://github.com/pkgstore/mediawiki-ext-badge) (1 day ago)
 
 #### :telescope: Recent releases
