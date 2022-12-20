@@ -8,9 +8,9 @@ I'm writing articles on system administration and development of various systems
 
 - [site-0002/content](https://github.com/site-0002/content) (today)
 - [ghpstore/test-site](https://github.com/ghpstore/test-site) (today)
-- [site-0002/site-0002.github.io](https://github.com/site-0002/site-0002.github.io) (today)
+- [site-0001/content](https://github.com/site-0001/content) (today)
 - [pkgstore/hugo-ui-store](https://github.com/pkgstore/hugo-ui-store) (today)
-- [pkgstore/jekyll-ui-pages](https://github.com/pkgstore/jekyll-ui-pages) (1 day ago)
+- [pkgstore/pkgstore.github.io](https://github.com/pkgstore/pkgstore.github.io) (1 day ago)
 
 #### :telescope: Recent releases
 
