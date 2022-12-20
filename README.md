@@ -6,11 +6,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
+- [site-0002/content](https://github.com/site-0002/content) (today)
 - [ghpstore/test-site](https://github.com/ghpstore/test-site) (today)
-- [pkgstore/hugo-ui-store](https://github.com/pkgstore/hugo-ui-store) (1 day ago)
+- [site-0002/site-0002.github.io](https://github.com/site-0002/site-0002.github.io) (today)
+- [pkgstore/hugo-ui-store](https://github.com/pkgstore/hugo-ui-store) (today)
 - [pkgstore/jekyll-ui-pages](https://github.com/pkgstore/jekyll-ui-pages) (1 day ago)
-- [pkgstore/pkgstore.github.io](https://github.com/pkgstore/pkgstore.github.io) (1 day ago)
-- [pkgstore/mediawiki-ext-embed](https://github.com/pkgstore/mediawiki-ext-embed) (2 days ago)
 
 #### :telescope: Recent releases
 
