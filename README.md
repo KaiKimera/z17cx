@@ -6,11 +6,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/hugo-ui-store](https://github.com/pkgstore/hugo-ui-store) (today)
-- [pkgstore/jekyll-ui-pages](https://github.com/pkgstore/jekyll-ui-pages) (today)
-- [pkgstore/pkgstore.github.io](https://github.com/pkgstore/pkgstore.github.io) (today)
-- [pkgstore/mediawiki-ext-emoji](https://github.com/pkgstore/mediawiki-ext-emoji) (1 day ago)
-- [pkgstore/mediawiki-ext-badge](https://github.com/pkgstore/mediawiki-ext-badge) (1 day ago)
+- [pkgstore/hugo-ui-store](https://github.com/pkgstore/hugo-ui-store) (1 day ago)
+- [pkgstore/jekyll-ui-pages](https://github.com/pkgstore/jekyll-ui-pages) (1 day ago)
+- [pkgstore/pkgstore.github.io](https://github.com/pkgstore/pkgstore.github.io) (1 day ago)
+- [pkgstore/mediawiki-ext-emoji](https://github.com/pkgstore/mediawiki-ext-emoji) (2 days ago)
+- [pkgstore/mediawiki-ext-badge](https://github.com/pkgstore/mediawiki-ext-badge) (2 days ago)
 
 #### :telescope: Recent releases
 
@@ -32,16 +32,16 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) (1 day ago)  
+- [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) (1 day ago)  
+  GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
+- [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) (1 day ago)  
+  GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) (1 day ago)  
+  Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you&#39;d like.
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) (2 days ago)  
   The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) (2 days ago)  
+- [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) (3 days ago)  
   🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
-- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) (2 days ago)  
-  The DokuWiki Open Source Wiki Engine
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) (2 days ago)  
-  A platform to create documentation/wiki content built with PHP &amp; Laravel
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) (1 month ago)  
-  A terminal for a more modern age
 
 #### :busts_in_silhouette: Recent followers
 
