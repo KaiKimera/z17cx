@@ -6,11 +6,12 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/hugo-ui-library](https://github.com/pkgstore/hugo-ui-library) (today)
 - [site-0003/content](https://github.com/site-0003/content) (today)
+- [pkgstore/pwsh-buildfarm](https://github.com/pkgstore/pwsh-buildfarm) (today)  
+  The script modifies WIM image of operating system.
+- [pkgstore/xenforo-ext-adblock-detector](https://github.com/pkgstore/xenforo-ext-adblock-detector) (today)
+- [pkgstore/hugo-ui-store](https://github.com/pkgstore/hugo-ui-store) (today)
 - [site-0003/ui-custom](https://github.com/site-0003/ui-custom) (today)
-- [site-0001/content](https://github.com/site-0001/content) (today)
-- [ghpstore/test-site](https://github.com/ghpstore/test-site) (1 day ago)
 
 #### :telescope: Recent releases
 
