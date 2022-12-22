@@ -6,17 +6,17 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/xenforo-ext-thread-starter](https://github.com/pkgstore/xenforo-ext-thread-starter) (today)
-- [pkgstore/pwsh-buildfarm](https://github.com/pkgstore/pwsh-buildfarm) (today)  
+- [pkgstore/xenforo-ext-thread-starter](https://github.com/pkgstore/xenforo-ext-thread-starter) (1 day ago)
+- [pkgstore/pwsh-buildfarm](https://github.com/pkgstore/pwsh-buildfarm) (1 day ago)  
   The script modifies WIM image of operating system.
-- [site-0003/ui-custom](https://github.com/site-0003/ui-custom) (today)
-- [site-0002/content](https://github.com/site-0002/content) (today)
-- [pkgstore/pwsh-buildprofile](https://github.com/pkgstore/pwsh-buildprofile) (today)  
+- [site-0003/ui-custom](https://github.com/site-0003/ui-custom) (1 day ago)
+- [site-0002/content](https://github.com/site-0002/content) (1 day ago)
+- [pkgstore/pwsh-buildprofile](https://github.com/pkgstore/pwsh-buildprofile) (1 day ago)  
   The script helps to set up a user profile and install apps.
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.10.0](https://github.com/flarum-lang/russian/releases/tag/1.10.0), 1 day ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.10.0](https://github.com/flarum-lang/russian/releases/tag/1.10.0), 2 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -34,15 +34,15 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [convictional/trigger-workflow-and-wait](https://github.com/convictional/trigger-workflow-and-wait) (today)  
+- [convictional/trigger-workflow-and-wait](https://github.com/convictional/trigger-workflow-and-wait) (1 day ago)  
   Trigger a workflow in another (or same) repository and wait for the job to finish.
-- [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) (2 days ago)  
+- [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) (3 days ago)  
   GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
-- [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) (2 days ago)  
+- [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) (3 days ago)  
   GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
-- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) (2 days ago)  
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) (3 days ago)  
   Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you&#39;d like.
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) (3 days ago)  
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) (4 days ago)  
   The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 #### :busts_in_silhouette: Recent followers
