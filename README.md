@@ -7,7 +7,7 @@ I'm writing articles on system administration and development of various systems
 #### :construction_worker_man: I'm currently working on...
 
 - [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (today)
-- [pkgstore/xenforo-ext-metatag](https://github.com/pkgstore/xenforo-ext-metatag) (1 day ago)
+- [pkgstore/xenforo-ext-thread-starter](https://github.com/pkgstore/xenforo-ext-thread-starter) (1 day ago)
 - [site-0003/ui-custom](https://github.com/site-0003/ui-custom) (1 day ago)
 - [site-0002/content](https://github.com/site-0002/content) (1 day ago)
 - [pkgstore/pwsh-buildprofile](https://github.com/pkgstore/pwsh-buildprofile) (1 day ago)  
