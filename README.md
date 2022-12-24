@@ -32,6 +32,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
+- [krisk/Fuse](https://github.com/krisk/Fuse) (today)  
+  Lightweight fuzzy-search, in JavaScript
 - [convictional/trigger-workflow-and-wait](https://github.com/convictional/trigger-workflow-and-wait) (3 days ago)  
   Trigger a workflow in another (or same) repository and wait for the job to finish.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) (5 days ago)  
@@ -40,8 +42,6 @@ I'm writing articles on system administration and development of various systems
   GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) (5 days ago)  
   Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you&#39;d like.
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) (6 days ago)  
-  The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 #### :busts_in_silhouette: Recent followers
 
