@@ -8,9 +8,9 @@ I'm writing articles on system administration and development of various systems
 
 - [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (today)
 - [site-0002/ui-store](https://github.com/site-0002/ui-store) (today)
+- [pkgstore/hugo-cmd](https://github.com/pkgstore/hugo-cmd) (today)
 - [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (today)
 - [site-0003/ui-library](https://github.com/site-0003/ui-library) (today)
-- [pkgstore/xenforo-ext-thread-starter](https://github.com/pkgstore/xenforo-ext-thread-starter) (3 days ago)
 
 #### :telescope: Recent releases
 
