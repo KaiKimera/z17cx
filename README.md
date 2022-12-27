@@ -6,15 +6,15 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [site-0002/ui-store](https://github.com/site-0002/ui-store) (today)
-- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (today)
-- [site-0003/ui-library](https://github.com/site-0003/ui-library) (today)
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (1 day ago)
-- [pkgstore/hugo-cmd](https://github.com/pkgstore/hugo-cmd) (1 day ago)
+- [site-0002/ui-store](https://github.com/site-0002/ui-store) (1 day ago)
+- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (1 day ago)
+- [site-0003/ui-library](https://github.com/site-0003/ui-library) (1 day ago)
+- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (2 days ago)
+- [pkgstore/hugo-cmd](https://github.com/pkgstore/hugo-cmd) (2 days ago)
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.10.0](https://github.com/flarum-lang/russian/releases/tag/1.10.0), 6 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.10.0](https://github.com/flarum-lang/russian/releases/tag/1.10.0), 1 week ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -32,9 +32,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [krisk/Fuse](https://github.com/krisk/Fuse) (2 days ago)  
+- [krisk/Fuse](https://github.com/krisk/Fuse) (3 days ago)  
   Lightweight fuzzy-search, in JavaScript
-- [convictional/trigger-workflow-and-wait](https://github.com/convictional/trigger-workflow-and-wait) (5 days ago)  
+- [convictional/trigger-workflow-and-wait](https://github.com/convictional/trigger-workflow-and-wait) (6 days ago)  
   Trigger a workflow in another (or same) repository and wait for the job to finish.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) (1 week ago)  
   GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
