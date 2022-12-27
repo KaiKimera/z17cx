@@ -9,8 +9,8 @@ I'm writing articles on system administration and development of various systems
 - [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (today)
 - [site-0002/ui-store](https://github.com/site-0002/ui-store) (1 day ago)
 - [site-0003/ui-library](https://github.com/site-0003/ui-library) (1 day ago)
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (2 days ago)
 - [pkgstore/hugo-cmd](https://github.com/pkgstore/hugo-cmd) (2 days ago)
+- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (2 days ago)
 
 #### :telescope: Recent releases
 
@@ -32,16 +32,16 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) (today)  
+  Open Source eCommerce Framework on Symfony
+- [opencart/opencart](https://github.com/opencart/opencart) (today)  
+  A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
 - [krisk/Fuse](https://github.com/krisk/Fuse) (3 days ago)  
   Lightweight fuzzy-search, in JavaScript
 - [convictional/trigger-workflow-and-wait](https://github.com/convictional/trigger-workflow-and-wait) (6 days ago)  
   Trigger a workflow in another (or same) repository and wait for the job to finish.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) (1 week ago)  
   GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
-- [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) (1 week ago)  
-  GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
-- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) (1 week ago)  
-  Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you&#39;d like.
 
 #### :busts_in_silhouette: Recent followers
 
