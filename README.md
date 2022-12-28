@@ -9,8 +9,8 @@ I'm writing articles on system administration and development of various systems
 - [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (today)
 - [site-0002/ui-store](https://github.com/site-0002/ui-store) (2 days ago)
 - [site-0003/ui-library](https://github.com/site-0003/ui-library) (2 days ago)
-- [pkgstore/hugo-cmd](https://github.com/pkgstore/hugo-cmd) (3 days ago)
 - [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (3 days ago)
+- [pkgstore/hugo-cmd](https://github.com/pkgstore/hugo-cmd) (3 days ago)
 
 #### :telescope: Recent releases
 
