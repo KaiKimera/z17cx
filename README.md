@@ -7,10 +7,10 @@ I'm writing articles on system administration and development of various systems
 #### :construction_worker_man: I'm currently working on...
 
 - [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (today)
-- [site-0002/ui-store](https://github.com/site-0002/ui-store) (1 day ago)
-- [site-0003/ui-library](https://github.com/site-0003/ui-library) (1 day ago)
-- [pkgstore/hugo-cmd](https://github.com/pkgstore/hugo-cmd) (2 days ago)
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (2 days ago)
+- [site-0002/ui-store](https://github.com/site-0002/ui-store) (2 days ago)
+- [site-0003/ui-library](https://github.com/site-0003/ui-library) (2 days ago)
+- [pkgstore/hugo-cmd](https://github.com/pkgstore/hugo-cmd) (3 days ago)
+- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (3 days ago)
 
 #### :telescope: Recent releases
 
@@ -32,13 +32,13 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) (today)  
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) (1 day ago)  
   Open Source eCommerce Framework on Symfony
-- [opencart/opencart](https://github.com/opencart/opencart) (today)  
+- [opencart/opencart](https://github.com/opencart/opencart) (1 day ago)  
   A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
-- [krisk/Fuse](https://github.com/krisk/Fuse) (3 days ago)  
+- [krisk/Fuse](https://github.com/krisk/Fuse) (4 days ago)  
   Lightweight fuzzy-search, in JavaScript
-- [convictional/trigger-workflow-and-wait](https://github.com/convictional/trigger-workflow-and-wait) (6 days ago)  
+- [convictional/trigger-workflow-and-wait](https://github.com/convictional/trigger-workflow-and-wait) (1 week ago)  
   Trigger a workflow in another (or same) repository and wait for the job to finish.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) (1 week ago)  
   GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
