@@ -32,16 +32,16 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
+- [sebaxakerhtc/rdpwrap](https://github.com/sebaxakerhtc/rdpwrap) (today)  
+  RDP Wrapper Library
+- [stascorp/rdpwrap](https://github.com/stascorp/rdpwrap) (today)  
+  RDP Wrapper Library
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) (3 days ago)  
   Open Source eCommerce Framework on Symfony
 - [opencart/opencart](https://github.com/opencart/opencart) (3 days ago)  
   A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
 - [krisk/Fuse](https://github.com/krisk/Fuse) (6 days ago)  
   Lightweight fuzzy-search, in JavaScript
-- [convictional/trigger-workflow-and-wait](https://github.com/convictional/trigger-workflow-and-wait) (1 week ago)  
-  Trigger a workflow in another (or same) repository and wait for the job to finish.
-- [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) (1 week ago)  
-  GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 
 #### :busts_in_silhouette: Recent followers
 
