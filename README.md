@@ -32,6 +32,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
+- [josfaber/debian-kiosk-installer](https://github.com/josfaber/debian-kiosk-installer) (today)  
+  Small installer script to setup a minimal kiosk with Chromium for Debian based linux distros 
 - [sebaxakerhtc/rdpwrap](https://github.com/sebaxakerhtc/rdpwrap) (today)  
   RDP Wrapper Library
 - [stascorp/rdpwrap](https://github.com/stascorp/rdpwrap) (today)  
@@ -40,8 +42,6 @@ I'm writing articles on system administration and development of various systems
   Open Source eCommerce Framework on Symfony
 - [opencart/opencart](https://github.com/opencart/opencart) (3 days ago)  
   A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
-- [krisk/Fuse](https://github.com/krisk/Fuse) (6 days ago)  
-  Lightweight fuzzy-search, in JavaScript
 
 #### :busts_in_silhouette: Recent followers
 
