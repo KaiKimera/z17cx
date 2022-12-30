@@ -6,11 +6,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (today)
-- [site-0002/ui-store](https://github.com/site-0002/ui-store) (3 days ago)
-- [site-0003/ui-library](https://github.com/site-0003/ui-library) (3 days ago)
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (4 days ago)
-- [pkgstore/hugo-cmd](https://github.com/pkgstore/hugo-cmd) (4 days ago)
+- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (1 day ago)
+- [site-0002/ui-store](https://github.com/site-0002/ui-store) (4 days ago)
+- [site-0003/ui-library](https://github.com/site-0003/ui-library) (4 days ago)
+- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (5 days ago)
+- [pkgstore/hugo-cmd](https://github.com/pkgstore/hugo-cmd) (5 days ago)
 
 #### :telescope: Recent releases
 
@@ -32,11 +32,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) (2 days ago)  
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) (3 days ago)  
   Open Source eCommerce Framework on Symfony
-- [opencart/opencart](https://github.com/opencart/opencart) (2 days ago)  
+- [opencart/opencart](https://github.com/opencart/opencart) (3 days ago)  
   A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
-- [krisk/Fuse](https://github.com/krisk/Fuse) (5 days ago)  
+- [krisk/Fuse](https://github.com/krisk/Fuse) (6 days ago)  
   Lightweight fuzzy-search, in JavaScript
 - [convictional/trigger-workflow-and-wait](https://github.com/convictional/trigger-workflow-and-wait) (1 week ago)  
   Trigger a workflow in another (or same) repository and wait for the job to finish.
