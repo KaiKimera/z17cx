@@ -32,6 +32,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (today)  
+  A curated list of delightful PowerShell modules and resources
 - [josfaber/debian-kiosk-installer](https://github.com/josfaber/debian-kiosk-installer) (2 days ago)  
   Small installer script to setup a minimal kiosk with Chromium for Debian based linux distros 
 - [sebaxakerhtc/rdpwrap](https://github.com/sebaxakerhtc/rdpwrap) (2 days ago)  
@@ -40,8 +42,6 @@ I'm writing articles on system administration and development of various systems
   RDP Wrapper Library
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) (5 days ago)  
   Open Source eCommerce Framework on Symfony
-- [opencart/opencart](https://github.com/opencart/opencart) (5 days ago)  
-  A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
 
 #### :busts_in_silhouette: Recent followers
 
