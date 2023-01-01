@@ -7,8 +7,8 @@ I'm writing articles on system administration and development of various systems
 #### :construction_worker_man: I'm currently working on...
 
 - [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (today)
-- [shellstore/pwsh-rar](https://github.com/shellstore/pwsh-rar) (today)
 - [shellstore/pwsh-7z](https://github.com/shellstore/pwsh-7z) (today)
+- [shellstore/pwsh-rar](https://github.com/shellstore/pwsh-rar) (today)
 - [pwsh-snippets/snippets](https://github.com/pwsh-snippets/snippets) (today)
 - [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (3 days ago)
 
