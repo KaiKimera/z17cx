@@ -7,10 +7,10 @@ I'm writing articles on system administration and development of various systems
 #### :construction_worker_man: I'm currently working on...
 
 - [pkgstore/mediawiki-key](https://github.com/pkgstore/mediawiki-key) (today)
-- [pkgstore/pwsh-zip](https://github.com/pkgstore/pwsh-zip) (today)
-- [pkgstore/xenforo-adblock-detector](https://github.com/pkgstore/xenforo-adblock-detector) (today)
-- [pkgstore/xenforo-metatag](https://github.com/pkgstore/xenforo-metatag) (today)
-- [pkgstore/xenforo-notices](https://github.com/pkgstore/xenforo-notices) (today)
+- [pkgstore/xenforo-opensearch](https://github.com/pkgstore/xenforo-opensearch) (today)
+- [pkgstore/pwsh-find](https://github.com/pkgstore/pwsh-find) (today)
+- [pkgstore/xenforo-share-page](https://github.com/pkgstore/xenforo-share-page) (today)
+- [pkgstore/xenforo-thread-starter](https://github.com/pkgstore/xenforo-thread-starter) (today)
 
 #### :telescope: Recent releases
 
