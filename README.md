@@ -6,11 +6,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/mediawiki-key](https://github.com/pkgstore/mediawiki-key) (today)
-- [pkgstore/xenforo-opensearch](https://github.com/pkgstore/xenforo-opensearch) (today)
+- [pkgstore/mediawiki-issue](https://github.com/pkgstore/mediawiki-issue) (today)
+- [pkgstore/xenforo-notices](https://github.com/pkgstore/xenforo-notices) (today)
 - [pkgstore/pwsh-find](https://github.com/pkgstore/pwsh-find) (today)
-- [pkgstore/xenforo-share-page](https://github.com/pkgstore/xenforo-share-page) (today)
-- [pkgstore/xenforo-thread-starter](https://github.com/pkgstore/xenforo-thread-starter) (today)
+- [pkgstore/xenforo-opensearch](https://github.com/pkgstore/xenforo-opensearch) (today)
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (today)
 
 #### :telescope: Recent releases
 
