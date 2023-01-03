@@ -6,12 +6,12 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/pwsh-find](https://github.com/pkgstore/pwsh-find) (today)
+- [pkgstore/pwsh-rar](https://github.com/pkgstore/pwsh-rar) (today)
 - [pkgstore/pwsh-buildfarm](https://github.com/pkgstore/pwsh-buildfarm) (today)  
   The script modifies WIM image of operating system.
-- [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (today)
-- [pkgstore/pwsh-rar](https://github.com/pkgstore/pwsh-rar) (today)
+- [pkgstore/pwsh-find](https://github.com/pkgstore/pwsh-find) (today)
 - [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (today)
+- [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (today)
 
 #### :telescope: Recent releases
 
