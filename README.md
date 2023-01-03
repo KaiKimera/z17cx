@@ -7,14 +7,15 @@ I'm writing articles on system administration and development of various systems
 #### :construction_worker_man: I'm currently working on...
 
 - [pkgstore/pwsh-find](https://github.com/pkgstore/pwsh-find) (today)
+- [pkgstore/pwsh-buildfarm](https://github.com/pkgstore/pwsh-buildfarm) (today)  
+  The script modifies WIM image of operating system.
+- [pkgstore/pwsh-vault](https://github.com/pkgstore/pwsh-vault) (today)
 - [pkgstore/pwsh-rar](https://github.com/pkgstore/pwsh-rar) (today)
 - [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (today)
-- [pkgstore/mediawiki-key](https://github.com/pkgstore/mediawiki-key) (today)
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (today)
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.10.0](https://github.com/flarum-lang/russian/releases/tag/1.10.0), 1 week ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.10.0](https://github.com/flarum-lang/russian/releases/tag/1.10.0), 2 weeks ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -32,15 +33,15 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (1 day ago)  
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (2 days ago)  
   A curated list of delightful PowerShell modules and resources
-- [josfaber/debian-kiosk-installer](https://github.com/josfaber/debian-kiosk-installer) (3 days ago)  
+- [josfaber/debian-kiosk-installer](https://github.com/josfaber/debian-kiosk-installer) (4 days ago)  
   Small installer script to setup a minimal kiosk with Chromium for Debian based linux distros 
-- [sebaxakerhtc/rdpwrap](https://github.com/sebaxakerhtc/rdpwrap) (3 days ago)  
+- [sebaxakerhtc/rdpwrap](https://github.com/sebaxakerhtc/rdpwrap) (4 days ago)  
   RDP Wrapper Library
-- [stascorp/rdpwrap](https://github.com/stascorp/rdpwrap) (3 days ago)  
+- [stascorp/rdpwrap](https://github.com/stascorp/rdpwrap) (4 days ago)  
   RDP Wrapper Library
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) (6 days ago)  
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) (1 week ago)  
   Open Source eCommerce Framework on Symfony
 
 #### :busts_in_silhouette: Recent followers
