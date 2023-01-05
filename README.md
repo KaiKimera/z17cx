@@ -8,9 +8,9 @@ I'm writing articles on system administration and development of various systems
 
 - [pkgstore/pwsh-find](https://github.com/pkgstore/pwsh-find) (today)
 - [pkgstore/pwsh-rar](https://github.com/pkgstore/pwsh-rar) (today)
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (today)
+- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (today)
 - [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (today)
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 day ago)
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (today)
 
 #### :telescope: Recent releases
 
