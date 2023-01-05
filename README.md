@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/pwsh-find](https://github.com/pkgstore/pwsh-find) (today)
+- [pkgstore/pwsh-psm](https://github.com/pkgstore/pwsh-psm) (today)
 - [pkgstore/pwsh-rar](https://github.com/pkgstore/pwsh-rar) (today)
 - [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (today)
 - [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (today)
