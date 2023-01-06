@@ -6,11 +6,14 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
+- [pkgstore/pwsh-find](https://github.com/pkgstore/pwsh-find) (today)  
+  Search files by creation date and last modified date.
 - [pkgstore/pwsh-psm](https://github.com/pkgstore/pwsh-psm) (today)
-- [pkgstore/pwsh-find](https://github.com/pkgstore/pwsh-find) (1 day ago)
-- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (1 day ago)
-- [pkgstore/pwsh-rar](https://github.com/pkgstore/pwsh-rar) (1 day ago)
-- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (1 day ago)
+- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (today)  
+  Compress end expand 7z archive.
+- [pkgstore/pwsh-rar](https://github.com/pkgstore/pwsh-rar) (today)  
+  Compress end expand RAR archive.
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (today)
 
 #### :telescope: Recent releases
 
