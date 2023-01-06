@@ -6,7 +6,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (today)
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (today)  
+  PowerShell module for cURL.
 - [pkgstore/pwsh-install](https://github.com/pkgstore/pwsh-install) (today)  
   PowerShell module for installing PowerShell from GitHub.
 - [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (today)  
