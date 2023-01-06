@@ -6,11 +6,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/pwsh-find](https://github.com/pkgstore/pwsh-find) (today)
-- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (today)
-- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (today)
-- [pkgstore/pwsh-rar](https://github.com/pkgstore/pwsh-rar) (today)
 - [pkgstore/pwsh-psm](https://github.com/pkgstore/pwsh-psm) (today)
+- [pkgstore/pwsh-find](https://github.com/pkgstore/pwsh-find) (1 day ago)
+- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (1 day ago)
+- [pkgstore/pwsh-rar](https://github.com/pkgstore/pwsh-rar) (1 day ago)
+- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (1 day ago)
 
 #### :telescope: Recent releases
 
@@ -32,15 +32,15 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [dchapyshev/aspia](https://github.com/dchapyshev/aspia) (2 days ago)  
+- [dchapyshev/aspia](https://github.com/dchapyshev/aspia) (3 days ago)  
   Remote desktop and file transfer tool.
-- [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) (2 days ago)  
+- [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) (3 days ago)  
   RustDesk Server Program
-- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (4 days ago)  
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (5 days ago)  
   A curated list of delightful PowerShell modules and resources
-- [josfaber/debian-kiosk-installer](https://github.com/josfaber/debian-kiosk-installer) (6 days ago)  
+- [josfaber/debian-kiosk-installer](https://github.com/josfaber/debian-kiosk-installer) (1 week ago)  
   Small installer script to setup a minimal kiosk with Chromium for Debian based linux distros 
-- [sebaxakerhtc/rdpwrap](https://github.com/sebaxakerhtc/rdpwrap) (6 days ago)  
+- [sebaxakerhtc/rdpwrap](https://github.com/sebaxakerhtc/rdpwrap) (1 week ago)  
   RDP Wrapper Library
 
 #### :busts_in_silhouette: Recent followers
