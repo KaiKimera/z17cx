@@ -6,14 +6,13 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/pwsh-rar](https://github.com/pkgstore/pwsh-rar) (today)  
-  Compress end expand RAR archive.
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (today)  
+  PowerShell module for cURL.
 - [pkgstore/pwsh-install](https://github.com/pkgstore/pwsh-install) (today)  
   PowerShell module for installing PowerShell from GitHub.
 - [pkgstore/pwsh-hugo](https://github.com/pkgstore/pwsh-hugo) (today)  
   PowerShell module for Hugo Extended.
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (today)  
-  PowerShell module for cURL.
+- [pkgstore/pwsh-psm](https://github.com/pkgstore/pwsh-psm) (today)
 - [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (today)  
   Compress end expand 7z archive.
 
