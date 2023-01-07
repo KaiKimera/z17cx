@@ -19,7 +19,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.10.0](https://github.com/flarum-lang/russian/releases/tag/1.10.0), 2 weeks ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.10.1](https://github.com/flarum-lang/russian/releases/tag/1.10.1), 1 day ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -37,11 +37,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [dchapyshev/aspia](https://github.com/dchapyshev/aspia) (3 days ago)  
+- [dchapyshev/aspia](https://github.com/dchapyshev/aspia) (4 days ago)  
   Remote desktop and file transfer tool.
-- [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) (3 days ago)  
+- [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) (4 days ago)  
   RustDesk Server Program
-- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (5 days ago)  
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (6 days ago)  
   A curated list of delightful PowerShell modules and resources
 - [josfaber/debian-kiosk-installer](https://github.com/josfaber/debian-kiosk-installer) (1 week ago)  
   Small installer script to setup a minimal kiosk with Chromium for Debian based linux distros 
