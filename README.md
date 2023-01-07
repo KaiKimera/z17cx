@@ -10,9 +10,10 @@ I'm writing articles on system administration and development of various systems
   Compress end expand RAR archive.
 - [pkgstore/pwsh-install](https://github.com/pkgstore/pwsh-install) (today)  
   PowerShell module for installing PowerShell from GitHub.
-- [pkgstore/pwsh-hugo](https://github.com/pkgstore/pwsh-hugo) (today)
-- [pkgstore/pwsh-find](https://github.com/pkgstore/pwsh-find) (today)  
-  Search files by creation date and last modified date.
+- [pkgstore/pwsh-hugo](https://github.com/pkgstore/pwsh-hugo) (today)  
+  PowerShell module for Hugo Extended.
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (today)  
+  PowerShell module for cURL.
 - [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (today)  
   Compress end expand 7z archive.
 
