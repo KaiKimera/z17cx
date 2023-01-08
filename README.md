@@ -6,19 +6,19 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/pwsh-find](https://github.com/pkgstore/pwsh-find) (today)  
-  Search files by creation date and last modified date.
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (today)  
-  PowerShell module for cURL.
-- [pkgstore/pwsh-kernel](https://github.com/pkgstore/pwsh-kernel) (today)  
-  A kernel for PowerShell modules from Package Store.
+- [pkgstore/pwsh-psm](https://github.com/pkgstore/pwsh-psm) (today)
+- [pkgstore/pwsh-install](https://github.com/pkgstore/pwsh-install) (today)  
+  PowerShell module for installing PowerShell from GitHub.
 - [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (today)  
   Compress end expand 7z archive.
-- [pkgstore/pwsh-psm](https://github.com/pkgstore/pwsh-psm) (today)
+- [pkgstore/pwsh-hugo](https://github.com/pkgstore/pwsh-hugo) (today)  
+  PowerShell module for Hugo Extended.
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (today)  
+  PowerShell module for cURL.
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.10.1](https://github.com/flarum-lang/russian/releases/tag/1.10.1), 1 day ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.10.1](https://github.com/flarum-lang/russian/releases/tag/1.10.1), 2 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -36,11 +36,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [dchapyshev/aspia](https://github.com/dchapyshev/aspia) (4 days ago)  
+- [dchapyshev/aspia](https://github.com/dchapyshev/aspia) (5 days ago)  
   Remote desktop and file transfer tool.
-- [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) (4 days ago)  
+- [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) (5 days ago)  
   RustDesk Server Program
-- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (6 days ago)  
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (1 week ago)  
   A curated list of delightful PowerShell modules and resources
 - [josfaber/debian-kiosk-installer](https://github.com/josfaber/debian-kiosk-installer) (1 week ago)  
   Small installer script to setup a minimal kiosk with Chromium for Debian based linux distros 
@@ -59,8 +59,8 @@ I'm writing articles on system administration and development of various systems
 
 - [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (4 months ago)
 - [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (8 months ago)
-- [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (11 months ago)
-- [Установка Vivaldi в Debian](https://lib.onl/ru/posts/2022/01/ddddd243-d182-5e26-a161-d2ea7812214a/) (11 months ago)
+- [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (1 year ago)
+- [Установка Vivaldi в Debian](https://lib.onl/ru/posts/2022/01/ddddd243-d182-5e26-a161-d2ea7812214a/) (1 year ago)
 - [Чёрный экран с курсором при старте GDM](https://lib.onl/ru/posts/2021/09/581804b8-0613-52a8-a5c4-fdae90e7bc8a/) (1 year ago)
 - [Отключение режима Wayland в GDM](https://lib.onl/ru/posts/2021/09/0d11ecc0-2714-5c5c-9b48-804f50419590/) (1 year ago)
 - [Установка Proxmox VE на Debian 11 (Bullseye)](https://lib.onl/ru/posts/2021/09/1cf305cd-85d0-5e02-aabb-e01346bfee0f/) (1 year ago)
