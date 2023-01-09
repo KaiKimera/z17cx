@@ -7,17 +7,17 @@ I'm writing articles on system administration and development of various systems
 #### :construction_worker_man: I'm currently working on...
 
 - [uaik/windows-server](https://github.com/uaik/windows-server) (today)
-- [pkgstore/pwsh-find](https://github.com/pkgstore/pwsh-find) (today)  
+- [pkgstore/pwsh-find](https://github.com/pkgstore/pwsh-find) (1 day ago)  
   Search files by creation date and last modified date.
-- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (today)
-- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (today)  
+- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (1 day ago)
+- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (1 day ago)  
   Compress end expand 7z archive.
-- [pkgstore/pwsh-hugo](https://github.com/pkgstore/pwsh-hugo) (today)  
+- [pkgstore/pwsh-hugo](https://github.com/pkgstore/pwsh-hugo) (1 day ago)  
   PowerShell module for Hugo Extended.
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.10.1](https://github.com/flarum-lang/russian/releases/tag/1.10.1), 2 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.10.1](https://github.com/flarum-lang/russian/releases/tag/1.10.1), 3 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -35,9 +35,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [dchapyshev/aspia](https://github.com/dchapyshev/aspia) (5 days ago)  
+- [dchapyshev/aspia](https://github.com/dchapyshev/aspia) (6 days ago)  
   Remote desktop and file transfer tool.
-- [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) (5 days ago)  
+- [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) (6 days ago)  
   RustDesk Server Program
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (1 week ago)  
   A curated list of delightful PowerShell modules and resources
