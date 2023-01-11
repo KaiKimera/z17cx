@@ -6,11 +6,10 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (today)
 - [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (1 day ago)  
   Compress end expand 7z archive.
 - [uaik/windows-server](https://github.com/uaik/windows-server) (2 days ago)
-- [pkgstore/pwsh-find](https://github.com/pkgstore/pwsh-find) (3 days ago)  
-  Search files by creation date and last modified date.
 - [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (3 days ago)
 - [pkgstore/pwsh-hugo](https://github.com/pkgstore/pwsh-hugo) (3 days ago)  
   PowerShell module for Hugo Extended.
