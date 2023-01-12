@@ -6,17 +6,17 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (today)
-- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (1 day ago)  
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 day ago)
+- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (2 days ago)  
   Compress end expand 7z archive.
-- [uaik/windows-server](https://github.com/uaik/windows-server) (2 days ago)
-- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (3 days ago)
-- [pkgstore/pwsh-hugo](https://github.com/pkgstore/pwsh-hugo) (3 days ago)  
+- [uaik/windows-server](https://github.com/uaik/windows-server) (3 days ago)
+- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (4 days ago)
+- [pkgstore/pwsh-hugo](https://github.com/pkgstore/pwsh-hugo) (4 days ago)  
   PowerShell module for Hugo Extended.
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.10.1](https://github.com/flarum-lang/russian/releases/tag/1.10.1), 5 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.10.1](https://github.com/flarum-lang/russian/releases/tag/1.10.1), 6 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
