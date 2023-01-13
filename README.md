@@ -6,17 +6,17 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (today)
-- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (2 days ago)  
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 day ago)
+- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (3 days ago)  
   Compress end expand 7z archive.
-- [uaik/windows-server](https://github.com/uaik/windows-server) (3 days ago)
-- [pkgstore/pwsh-find](https://github.com/pkgstore/pwsh-find) (4 days ago)  
+- [uaik/windows-server](https://github.com/uaik/windows-server) (4 days ago)
+- [pkgstore/pwsh-find](https://github.com/pkgstore/pwsh-find) (5 days ago)  
   Search files by creation date and last modified date.
-- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (4 days ago)
+- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (5 days ago)
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.10.1](https://github.com/flarum-lang/russian/releases/tag/1.10.1), 6 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.10.1](https://github.com/flarum-lang/russian/releases/tag/1.10.1), 1 week ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -40,9 +40,9 @@ I'm writing articles on system administration and development of various systems
   RustDesk Server Program
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (1 week ago)  
   A curated list of delightful PowerShell modules and resources
-- [josfaber/debian-kiosk-installer](https://github.com/josfaber/debian-kiosk-installer) (1 week ago)  
+- [josfaber/debian-kiosk-installer](https://github.com/josfaber/debian-kiosk-installer) (2 weeks ago)  
   Small installer script to setup a minimal kiosk with Chromium for Debian based linux distros 
-- [sebaxakerhtc/rdpwrap](https://github.com/sebaxakerhtc/rdpwrap) (1 week ago)  
+- [sebaxakerhtc/rdpwrap](https://github.com/sebaxakerhtc/rdpwrap) (2 weeks ago)  
   RDP Wrapper Library
 
 #### :busts_in_silhouette: Recent followers
