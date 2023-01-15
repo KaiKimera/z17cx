@@ -6,13 +6,13 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (today)
-- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (4 days ago)  
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 day ago)
+- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (5 days ago)  
   Compress end expand 7z archive.
-- [uaik/windows-server](https://github.com/uaik/windows-server) (5 days ago)
-- [pkgstore/pwsh-find](https://github.com/pkgstore/pwsh-find) (6 days ago)  
+- [uaik/windows-server](https://github.com/uaik/windows-server) (6 days ago)
+- [pkgstore/pwsh-find](https://github.com/pkgstore/pwsh-find) (1 week ago)  
   Search files by creation date and last modified date.
-- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (6 days ago)
+- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (1 week ago)
 
 #### :telescope: Recent releases
 
@@ -38,7 +38,7 @@ I'm writing articles on system administration and development of various systems
   Remote desktop and file transfer tool.
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) (1 week ago)  
   RustDesk Server Program
-- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (1 week ago)  
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (2 weeks ago)  
   A curated list of delightful PowerShell modules and resources
 - [josfaber/debian-kiosk-installer](https://github.com/josfaber/debian-kiosk-installer) (2 weeks ago)  
   Small installer script to setup a minimal kiosk with Chromium for Debian based linux distros 
