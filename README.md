@@ -6,13 +6,13 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
+- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (today)
 - [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 day ago)
 - [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (5 days ago)  
   Compress end expand 7z archive.
 - [uaik/windows-server](https://github.com/uaik/windows-server) (6 days ago)
-- [pkgstore/pwsh-find](https://github.com/pkgstore/pwsh-find) (1 week ago)  
-  Search files by creation date and last modified date.
-- [pkgstore/pwsh-ffmpeg](https://github.com/pkgstore/pwsh-ffmpeg) (1 week ago)
+- [pkgstore/pwsh-install](https://github.com/pkgstore/pwsh-install) (1 week ago)  
+  PowerShell module for installing PowerShell from GitHub.
 
 #### :telescope: Recent releases
 
