@@ -6,8 +6,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (4 days ago)
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (5 days ago)
+- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (5 days ago)
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (6 days ago)
 - [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (1 week ago)  
   Compress end expand 7z archive.
 - [uaik/windows-server](https://github.com/uaik/windows-server) (1 week ago)
@@ -16,7 +16,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.10.1](https://github.com/flarum-lang/russian/releases/tag/1.10.1), 1 week ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.10.1](https://github.com/flarum-lang/russian/releases/tag/1.10.1), 2 weeks ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -40,9 +40,9 @@ I'm writing articles on system administration and development of various systems
   RustDesk Server Program
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (2 weeks ago)  
   A curated list of delightful PowerShell modules and resources
-- [josfaber/debian-kiosk-installer](https://github.com/josfaber/debian-kiosk-installer) (2 weeks ago)  
+- [josfaber/debian-kiosk-installer](https://github.com/josfaber/debian-kiosk-installer) (3 weeks ago)  
   Small installer script to setup a minimal kiosk with Chromium for Debian based linux distros 
-- [sebaxakerhtc/rdpwrap](https://github.com/sebaxakerhtc/rdpwrap) (2 weeks ago)  
+- [sebaxakerhtc/rdpwrap](https://github.com/sebaxakerhtc/rdpwrap) (3 weeks ago)  
   RDP Wrapper Library
 
 #### :busts_in_silhouette: Recent followers
