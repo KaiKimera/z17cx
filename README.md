@@ -6,13 +6,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
+- [site-0001/site-0001.github.io](https://github.com/site-0001/site-0001.github.io) (today)
+- [msk-aoesp/msk-aoesp.github.io](https://github.com/msk-aoesp/msk-aoesp.github.io) (today)
+- [site-0003/site-0003.github.io](https://github.com/site-0003/site-0003.github.io) (today)
+- [site-0002/site-0002.github.io](https://github.com/site-0002/site-0002.github.io) (today)
 - [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (6 days ago)
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 week ago)
-- [pkgstore/pwsh-7z](https://github.com/pkgstore/pwsh-7z) (1 week ago)  
-  Compress end expand 7z archive.
-- [uaik/windows-server](https://github.com/uaik/windows-server) (1 week ago)
-- [pkgstore/pwsh-install](https://github.com/pkgstore/pwsh-install) (1 week ago)  
-  PowerShell module for installing PowerShell from GitHub.
 
 #### :telescope: Recent releases
 
