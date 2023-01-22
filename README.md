@@ -32,6 +32,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) (today)  
+  A collection of modern/faster/saner alternatives to common unix commands.
 - [dchapyshev/aspia](https://github.com/dchapyshev/aspia) (2 weeks ago)  
   Remote desktop and file transfer tool.
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) (2 weeks ago)  
@@ -40,8 +42,6 @@ I'm writing articles on system administration and development of various systems
   A curated list of delightful PowerShell modules and resources
 - [josfaber/debian-kiosk-installer](https://github.com/josfaber/debian-kiosk-installer) (3 weeks ago)  
   Small installer script to setup a minimal kiosk with Chromium for Debian based linux distros 
-- [sebaxakerhtc/rdpwrap](https://github.com/sebaxakerhtc/rdpwrap) (3 weeks ago)  
-  RDP Wrapper Library
 
 #### :busts_in_silhouette: Recent followers
 
