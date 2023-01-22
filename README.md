@@ -6,11 +6,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [site-0001/site-0001.github.io](https://github.com/site-0001/site-0001.github.io) (today)
-- [msk-aoesp/msk-aoesp.github.io](https://github.com/msk-aoesp/msk-aoesp.github.io) (today)
-- [site-0003/site-0003.github.io](https://github.com/site-0003/site-0003.github.io) (today)
-- [site-0002/site-0002.github.io](https://github.com/site-0002/site-0002.github.io) (today)
-- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (6 days ago)
+- [site-0001/site-0001.github.io](https://github.com/site-0001/site-0001.github.io) (1 day ago)
+- [msk-aoesp/msk-aoesp.github.io](https://github.com/msk-aoesp/msk-aoesp.github.io) (1 day ago)
+- [site-0003/site-0003.github.io](https://github.com/site-0003/site-0003.github.io) (1 day ago)
+- [site-0002/site-0002.github.io](https://github.com/site-0002/site-0002.github.io) (1 day ago)
+- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (1 week ago)
 
 #### :telescope: Recent releases
 
@@ -36,7 +36,7 @@ I'm writing articles on system administration and development of various systems
   Remote desktop and file transfer tool.
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) (2 weeks ago)  
   RustDesk Server Program
-- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (2 weeks ago)  
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (3 weeks ago)  
   A curated list of delightful PowerShell modules and resources
 - [josfaber/debian-kiosk-installer](https://github.com/josfaber/debian-kiosk-installer) (3 weeks ago)  
   Small installer script to setup a minimal kiosk with Chromium for Debian based linux distros 
