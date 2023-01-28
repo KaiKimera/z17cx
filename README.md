@@ -6,10 +6,10 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [site-0001/site-0001.github.io](https://github.com/site-0001/site-0001.github.io) (6 days ago)
-- [msk-aoesp/msk-aoesp.github.io](https://github.com/msk-aoesp/msk-aoesp.github.io) (6 days ago)
-- [site-0003/site-0003.github.io](https://github.com/site-0003/site-0003.github.io) (6 days ago)
-- [site-0002/site-0002.github.io](https://github.com/site-0002/site-0002.github.io) (6 days ago)
+- [site-0001/site-0001.github.io](https://github.com/site-0001/site-0001.github.io) (1 week ago)
+- [msk-aoesp/msk-aoesp.github.io](https://github.com/msk-aoesp/msk-aoesp.github.io) (1 week ago)
+- [site-0003/site-0003.github.io](https://github.com/site-0003/site-0003.github.io) (1 week ago)
+- [site-0002/site-0002.github.io](https://github.com/site-0002/site-0002.github.io) (1 week ago)
 - [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (1 week ago)
 
 #### :telescope: Recent releases
@@ -32,7 +32,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) (5 days ago)  
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) (6 days ago)  
   A collection of modern/faster/saner alternatives to common unix commands.
 - [dchapyshev/aspia](https://github.com/dchapyshev/aspia) (3 weeks ago)  
   Remote desktop and file transfer tool.
