@@ -10,7 +10,7 @@ I'm writing articles on system administration and development of various systems
 - [msk-aoesp/msk-aoesp.github.io](https://github.com/msk-aoesp/msk-aoesp.github.io) (1 week ago)
 - [site-0003/site-0003.github.io](https://github.com/site-0003/site-0003.github.io) (1 week ago)
 - [site-0002/site-0002.github.io](https://github.com/site-0002/site-0002.github.io) (1 week ago)
-- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (1 week ago)
+- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (2 weeks ago)
 
 #### :telescope: Recent releases
 
@@ -32,15 +32,15 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) (6 days ago)  
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) (1 week ago)  
   A collection of modern/faster/saner alternatives to common unix commands.
 - [dchapyshev/aspia](https://github.com/dchapyshev/aspia) (3 weeks ago)  
   Remote desktop and file transfer tool.
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) (3 weeks ago)  
   RustDesk Server Program
-- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (3 weeks ago)  
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (4 weeks ago)  
   A curated list of delightful PowerShell modules and resources
-- [josfaber/debian-kiosk-installer](https://github.com/josfaber/debian-kiosk-installer) (4 weeks ago)  
+- [josfaber/debian-kiosk-installer](https://github.com/josfaber/debian-kiosk-installer) (1 month ago)  
   Small installer script to setup a minimal kiosk with Chromium for Debian based linux distros 
 
 #### :busts_in_silhouette: Recent followers
