@@ -32,6 +32,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (today)  
+  A curated list of amazingly awesome open source sysadmin resources.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) (1 week ago)  
   A collection of modern/faster/saner alternatives to common unix commands.
 - [dchapyshev/aspia](https://github.com/dchapyshev/aspia) (3 weeks ago)  
@@ -40,8 +42,6 @@ I'm writing articles on system administration and development of various systems
   RustDesk Server Program
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (4 weeks ago)  
   A curated list of delightful PowerShell modules and resources
-- [josfaber/debian-kiosk-installer](https://github.com/josfaber/debian-kiosk-installer) (1 month ago)  
-  Small installer script to setup a minimal kiosk with Chromium for Debian based linux distros 
 
 #### :busts_in_silhouette: Recent followers
 
