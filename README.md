@@ -32,7 +32,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (today)  
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (1 day ago)  
   A curated list of amazingly awesome open source sysadmin resources.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) (1 week ago)  
   A collection of modern/faster/saner alternatives to common unix commands.
