@@ -32,13 +32,13 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (3 days ago)  
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (4 days ago)  
   A curated list of amazingly awesome open source sysadmin resources.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) (1 week ago)  
   A collection of modern/faster/saner alternatives to common unix commands.
-- [dchapyshev/aspia](https://github.com/dchapyshev/aspia) (4 weeks ago)  
+- [dchapyshev/aspia](https://github.com/dchapyshev/aspia) (1 month ago)  
   Remote desktop and file transfer tool.
-- [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) (4 weeks ago)  
+- [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) (1 month ago)  
   RustDesk Server Program
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (1 month ago)  
   A curated list of delightful PowerShell modules and resources
