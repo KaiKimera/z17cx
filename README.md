@@ -6,10 +6,10 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [site-0001/site-0001.github.io](https://github.com/site-0001/site-0001.github.io) (1 week ago)
-- [msk-aoesp/msk-aoesp.github.io](https://github.com/msk-aoesp/msk-aoesp.github.io) (1 week ago)
-- [site-0003/site-0003.github.io](https://github.com/site-0003/site-0003.github.io) (1 week ago)
-- [site-0002/site-0002.github.io](https://github.com/site-0002/site-0002.github.io) (1 week ago)
+- [site-0001/site-0001.github.io](https://github.com/site-0001/site-0001.github.io) (2 weeks ago)
+- [msk-aoesp/msk-aoesp.github.io](https://github.com/msk-aoesp/msk-aoesp.github.io) (2 weeks ago)
+- [site-0003/site-0003.github.io](https://github.com/site-0003/site-0003.github.io) (2 weeks ago)
+- [site-0002/site-0002.github.io](https://github.com/site-0002/site-0002.github.io) (2 weeks ago)
 - [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (2 weeks ago)
 
 #### :telescope: Recent releases
@@ -32,7 +32,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (5 days ago)  
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (6 days ago)  
   A curated list of amazingly awesome open source sysadmin resources.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) (1 week ago)  
   A collection of modern/faster/saner alternatives to common unix commands.
