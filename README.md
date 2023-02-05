@@ -10,11 +10,11 @@ I'm writing articles on system administration and development of various systems
 - [msk-aoesp/msk-aoesp.github.io](https://github.com/msk-aoesp/msk-aoesp.github.io) (2 weeks ago)
 - [site-0003/site-0003.github.io](https://github.com/site-0003/site-0003.github.io) (2 weeks ago)
 - [site-0002/site-0002.github.io](https://github.com/site-0002/site-0002.github.io) (2 weeks ago)
-- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (2 weeks ago)
+- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (3 weeks ago)
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.10.1](https://github.com/flarum-lang/russian/releases/tag/1.10.1), 4 weeks ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.10.1](https://github.com/flarum-lang/russian/releases/tag/1.10.1), 1 month ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -32,9 +32,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (6 days ago)  
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (1 week ago)  
   A curated list of amazingly awesome open source sysadmin resources.
-- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) (1 week ago)  
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) (2 weeks ago)  
   A collection of modern/faster/saner alternatives to common unix commands.
 - [dchapyshev/aspia](https://github.com/dchapyshev/aspia) (1 month ago)  
   Remote desktop and file transfer tool.
