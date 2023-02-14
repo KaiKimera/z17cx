@@ -10,7 +10,7 @@ I'm writing articles on system administration and development of various systems
 - [msk-aoesp/msk-aoesp.github.io](https://github.com/msk-aoesp/msk-aoesp.github.io) (3 weeks ago)
 - [site-0003/site-0003.github.io](https://github.com/site-0003/site-0003.github.io) (3 weeks ago)
 - [site-0002/site-0002.github.io](https://github.com/site-0002/site-0002.github.io) (3 weeks ago)
-- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (4 weeks ago)
+- [pkgstore/hugo-ui-base](https://github.com/pkgstore/hugo-ui-base) (1 month ago)
 
 #### :telescope: Recent releases
 
