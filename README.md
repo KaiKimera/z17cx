@@ -14,7 +14,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.11.0](https://github.com/flarum-lang/russian/releases/tag/1.11.0), 3 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.11.0](https://github.com/flarum-lang/russian/releases/tag/1.11.0), 4 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -32,9 +32,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (2 weeks ago)  
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (3 weeks ago)  
   A curated list of amazingly awesome open source sysadmin resources.
-- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) (3 weeks ago)  
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) (4 weeks ago)  
   A collection of modern/faster/saner alternatives to common unix commands.
 - [dchapyshev/aspia](https://github.com/dchapyshev/aspia) (1 month ago)  
   Remote desktop and file transfer tool.
