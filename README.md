@@ -10,7 +10,7 @@ I'm writing articles on system administration and development of various systems
   🇷🇺 Russian language pack for Flarum.
 - [pkgstore/flarum-l10n-russian-core](https://github.com/pkgstore/flarum-l10n-russian-core) (3 days ago)  
   Russian language pack for Flarum.
-- [site-0002/site-0002.github.io](https://github.com/site-0002/site-0002.github.io) (1 month ago)
+- [site-0001/site-0001.github.io](https://github.com/site-0001/site-0001.github.io) (1 month ago)
 - [msk-aoesp/msk-aoesp.github.io](https://github.com/msk-aoesp/msk-aoesp.github.io) (1 month ago)
 - [site-0003/site-0003.github.io](https://github.com/site-0003/site-0003.github.io) (1 month ago)
 
