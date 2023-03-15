@@ -6,9 +6,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) (5 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) (6 days ago)  
   🇷🇺 Russian language pack for Flarum.
-- [pkgstore/flarum-l10n-russian-core](https://github.com/pkgstore/flarum-l10n-russian-core) (5 days ago)  
+- [pkgstore/flarum-l10n-russian-core](https://github.com/pkgstore/flarum-l10n-russian-core) (6 days ago)  
   Russian language pack for Flarum.
 - [site-0001/site-0001.github.io](https://github.com/site-0001/site-0001.github.io) (1 month ago)
 - [msk-aoesp/msk-aoesp.github.io](https://github.com/msk-aoesp/msk-aoesp.github.io) (1 month ago)
@@ -16,7 +16,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.11.0](https://github.com/flarum-lang/russian/releases/tag/1.11.0), 3 weeks ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.11.0](https://github.com/flarum-lang/russian/releases/tag/1.11.0), 4 weeks ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
