@@ -8,9 +8,9 @@ I'm writing articles on system administration and development of various systems
 
 - [site-0001/content](https://github.com/site-0001/content) (1 week ago)
 - [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (1 week ago)
-- [pkgstore/flarum-l10n-russian-core](https://github.com/pkgstore/flarum-l10n-russian-core) (2 weeks ago)  
+- [pkgstore/flarum-l10n-russian-core](https://github.com/pkgstore/flarum-l10n-russian-core) (3 weeks ago)  
   Russian language pack for Flarum.
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) (2 weeks ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) (3 weeks ago)  
   🇷🇺 Russian language pack for Flarum.
 - [site-0001/site-0001.github.io](https://github.com/site-0001/site-0001.github.io) (2 months ago)
 
@@ -34,7 +34,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (1 month ago)  
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (2 months ago)  
   A curated list of amazingly awesome open source sysadmin resources.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) (2 months ago)  
   A collection of modern/faster/saner alternatives to common unix commands.
