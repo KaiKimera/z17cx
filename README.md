@@ -6,8 +6,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (today)
-- [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (today)  
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 day ago)
+- [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (1 day ago)  
   Russian language pack for Flarum.
 - [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (1 week ago)
 - [site-0001/content](https://github.com/site-0001/content) (1 week ago)
@@ -42,7 +42,7 @@ I'm writing articles on system administration and development of various systems
   Remote desktop and file transfer tool.
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) (2 months ago)  
   RustDesk Server Program
-- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (2 months ago)  
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) (3 months ago)  
   A curated list of delightful PowerShell modules and resources
 
 #### :busts_in_silhouette: Recent followers
