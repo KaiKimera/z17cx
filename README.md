@@ -6,17 +6,17 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (today)  
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 day ago)  
   PowerShell module for cURL.
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (4 days ago)
-- [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (4 days ago)  
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (5 days ago)
+- [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (5 days ago)  
   Russian language pack for Flarum.
 - [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (2 weeks ago)
 - [site-0001/content](https://github.com/site-0001/content) (2 weeks ago)
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.12.0](https://github.com/flarum-lang/russian/releases/tag/1.12.0), today)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.12.0](https://github.com/flarum-lang/russian/releases/tag/1.12.0), 1 day ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
