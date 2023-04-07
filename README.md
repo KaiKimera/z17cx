@@ -6,17 +6,17 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (today)
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (2 days ago)  
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 day ago)
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (3 days ago)  
   PowerShell module for cURL.
-- [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (6 days ago)  
+- [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (1 week ago)  
   Russian language pack for Flarum.
 - [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (2 weeks ago)
 - [site-0001/content](https://github.com/site-0001/content) (2 weeks ago)
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.12.0](https://github.com/flarum-lang/russian/releases/tag/1.12.0), 2 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.12.0](https://github.com/flarum-lang/russian/releases/tag/1.12.0), 3 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -34,7 +34,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [Linuxfabrik/kickstart](https://github.com/Linuxfabrik/kickstart) (today)  
+- [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) (1 day ago)  
+  A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
+- [Linuxfabrik/kickstart](https://github.com/Linuxfabrik/kickstart) (1 day ago)  
   A Collection of Kickstart Installation Scripts to automate the Red Hat Installation Process.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (2 months ago)  
   A curated list of amazingly awesome open source sysadmin resources.
@@ -42,8 +44,6 @@ I'm writing articles on system administration and development of various systems
   A collection of modern/faster/saner alternatives to common unix commands.
 - [dchapyshev/aspia](https://github.com/dchapyshev/aspia) (3 months ago)  
   Remote desktop and file transfer tool.
-- [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) (3 months ago)  
-  RustDesk Server Program
 
 #### :busts_in_silhouette: Recent followers
 
