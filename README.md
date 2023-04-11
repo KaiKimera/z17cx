@@ -6,8 +6,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (4 days ago)
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (6 days ago)  
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (5 days ago)
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 week ago)  
   PowerShell module for cURL.
 - [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (1 week ago)  
   Russian language pack for Flarum.
@@ -16,7 +16,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.12.0](https://github.com/flarum-lang/russian/releases/tag/1.12.0), 6 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.12.0](https://github.com/flarum-lang/russian/releases/tag/1.12.0), 1 week ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -34,9 +34,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) (4 days ago)  
+- [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) (5 days ago)  
   A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
-- [Linuxfabrik/kickstart](https://github.com/Linuxfabrik/kickstart) (4 days ago)  
+- [Linuxfabrik/kickstart](https://github.com/Linuxfabrik/kickstart) (5 days ago)  
   A Collection of Kickstart Installation Scripts to automate the Red Hat Installation Process.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (2 months ago)  
   A curated list of amazingly awesome open source sysadmin resources.
@@ -55,7 +55,7 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
-- [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (7 months ago)
+- [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (8 months ago)
 - [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (11 months ago)
 - [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (1 year ago)
 - [Установка Vivaldi в Debian](https://lib.onl/ru/posts/2022/01/ddddd243-d182-5e26-a161-d2ea7812214a/) (1 year ago)
