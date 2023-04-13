@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (today)
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 day ago)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 week ago)  
   PowerShell module for cURL.
 - [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (1 week ago)  
@@ -34,9 +34,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) (6 days ago)  
+- [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) (1 week ago)  
   A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
-- [Linuxfabrik/kickstart](https://github.com/Linuxfabrik/kickstart) (6 days ago)  
+- [Linuxfabrik/kickstart](https://github.com/Linuxfabrik/kickstart) (1 week ago)  
   A Collection of Kickstart Installation Scripts to automate the Red Hat Installation Process.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (2 months ago)  
   A curated list of amazingly awesome open source sysadmin resources.
