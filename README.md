@@ -6,10 +6,10 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 day ago)
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (today)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 week ago)  
   PowerShell module for cURL.
-- [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (1 week ago)  
+- [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (2 weeks ago)  
   Russian language pack for Flarum.
 - [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (3 weeks ago)
 - [site-0001/content](https://github.com/site-0001/content) (3 weeks ago)
@@ -34,6 +34,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
+- [ikxin/kms-tools](https://github.com/ikxin/kms-tools) (today)  
+  一个生成kms激活脚本的小工具
 - [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) (1 week ago)  
   A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
 - [Linuxfabrik/kickstart](https://github.com/Linuxfabrik/kickstart) (1 week ago)  
@@ -42,8 +44,6 @@ I'm writing articles on system administration and development of various systems
   A curated list of amazingly awesome open source sysadmin resources.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) (2 months ago)  
   A collection of modern/faster/saner alternatives to common unix commands.
-- [dchapyshev/aspia](https://github.com/dchapyshev/aspia) (3 months ago)  
-  Remote desktop and file transfer tool.
 
 #### :busts_in_silhouette: Recent followers
 
