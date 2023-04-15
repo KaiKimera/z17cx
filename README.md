@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (today)
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 day ago)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 week ago)  
   PowerShell module for cURL.
 - [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (2 weeks ago)  
@@ -34,7 +34,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [ikxin/kms-tools](https://github.com/ikxin/kms-tools) (today)  
+- [ikxin/kms-tools](https://github.com/ikxin/kms-tools) (1 day ago)  
   一个生成kms激活脚本的小工具
 - [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) (1 week ago)  
   A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
