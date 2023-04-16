@@ -34,6 +34,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
+- [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) (today)  
+  Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
 - [ikxin/kms-tools](https://github.com/ikxin/kms-tools) (2 days ago)  
   一个生成kms激活脚本的小工具
 - [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) (1 week ago)  
@@ -42,8 +44,6 @@ I'm writing articles on system administration and development of various systems
   A Collection of Kickstart Installation Scripts to automate the Red Hat Installation Process.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (2 months ago)  
   A curated list of amazingly awesome open source sysadmin resources.
-- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) (2 months ago)  
-  A collection of modern/faster/saner alternatives to common unix commands.
 
 #### :busts_in_silhouette: Recent followers
 
