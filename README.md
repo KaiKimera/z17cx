@@ -6,13 +6,13 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (2 days ago)
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (3 days ago)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 week ago)  
   PowerShell module for cURL.
 - [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (2 weeks ago)  
   Russian language pack for Flarum.
-- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (3 weeks ago)
-- [site-0001/content](https://github.com/site-0001/content) (3 weeks ago)
+- [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (4 weeks ago)
+- [site-0001/content](https://github.com/site-0001/content) (4 weeks ago)
 
 #### :telescope: Recent releases
 
@@ -34,9 +34,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) (today)  
+- [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) (1 day ago)  
   Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
-- [ikxin/kms-tools](https://github.com/ikxin/kms-tools) (2 days ago)  
+- [ikxin/kms-tools](https://github.com/ikxin/kms-tools) (3 days ago)  
   一个生成kms激活脚本的小工具
 - [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) (1 week ago)  
   A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
