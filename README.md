@@ -34,6 +34,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
+- [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) (today)  
+  Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) (1 day ago)  
   Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
 - [ikxin/kms-tools](https://github.com/ikxin/kms-tools) (3 days ago)  
@@ -42,8 +44,6 @@ I'm writing articles on system administration and development of various systems
   A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
 - [Linuxfabrik/kickstart](https://github.com/Linuxfabrik/kickstart) (1 week ago)  
   A Collection of Kickstart Installation Scripts to automate the Red Hat Installation Process.
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (2 months ago)  
-  A curated list of amazingly awesome open source sysadmin resources.
 
 #### :busts_in_silhouette: Recent followers
 
