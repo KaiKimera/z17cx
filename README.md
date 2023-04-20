@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (5 days ago)
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (6 days ago)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (2 weeks ago)  
   PowerShell module for cURL.
 - [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (2 weeks ago)  
@@ -16,7 +16,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.13.0](https://github.com/flarum-lang/russian/releases/tag/1.13.0), today)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.13.0](https://github.com/flarum-lang/russian/releases/tag/1.13.0), 1 day ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -34,15 +34,15 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) (2 days ago)  
+- [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) (3 days ago)  
   Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
-- [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) (3 days ago)  
+- [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) (4 days ago)  
   Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
-- [ikxin/kms-tools](https://github.com/ikxin/kms-tools) (5 days ago)  
+- [ikxin/kms-tools](https://github.com/ikxin/kms-tools) (6 days ago)  
   一个生成kms激活脚本的小工具
-- [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) (1 week ago)  
+- [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) (2 weeks ago)  
   A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
-- [Linuxfabrik/kickstart](https://github.com/Linuxfabrik/kickstart) (1 week ago)  
+- [Linuxfabrik/kickstart](https://github.com/Linuxfabrik/kickstart) (2 weeks ago)  
   A Collection of Kickstart Installation Scripts to automate the Red Hat Installation Process.
 
 #### :busts_in_silhouette: Recent followers
