@@ -6,17 +6,17 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (6 days ago)
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 week ago)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (2 weeks ago)  
   PowerShell module for cURL.
-- [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (2 weeks ago)  
+- [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (3 weeks ago)  
   Russian language pack for Flarum.
 - [site-0001/ui-passport](https://github.com/site-0001/ui-passport) (1 month ago)
 - [site-0001/content](https://github.com/site-0001/content) (1 month ago)
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.13.0](https://github.com/flarum-lang/russian/releases/tag/1.13.0), 1 day ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.13.0](https://github.com/flarum-lang/russian/releases/tag/1.13.0), 2 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -34,11 +34,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) (3 days ago)  
+- [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) (4 days ago)  
   Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
-- [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) (4 days ago)  
+- [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) (5 days ago)  
   Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
-- [ikxin/kms-tools](https://github.com/ikxin/kms-tools) (6 days ago)  
+- [ikxin/kms-tools](https://github.com/ikxin/kms-tools) (1 week ago)  
   一个生成kms激活脚本的小工具
 - [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) (2 weeks ago)  
   A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
