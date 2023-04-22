@@ -16,7 +16,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.13.0](https://github.com/flarum-lang/russian/releases/tag/1.13.0), 2 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.13.0](https://github.com/flarum-lang/russian/releases/tag/1.13.0), 3 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -34,9 +34,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) (4 days ago)  
+- [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) (5 days ago)  
   Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
-- [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) (5 days ago)  
+- [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) (6 days ago)  
   Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
 - [ikxin/kms-tools](https://github.com/ikxin/kms-tools) (1 week ago)  
   一个生成kms激活脚本的小工具
