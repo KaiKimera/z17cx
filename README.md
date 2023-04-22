@@ -34,6 +34,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
+- [abbodi1406/vcredist](https://github.com/abbodi1406/vcredist) (today)  
+  AIO Repack for latest Microsoft Visual C&#43;&#43; Redistributable Runtimes
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) (5 days ago)  
   Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) (6 days ago)  
@@ -42,8 +44,6 @@ I'm writing articles on system administration and development of various systems
   一个生成kms激活脚本的小工具
 - [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) (2 weeks ago)  
   A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
-- [Linuxfabrik/kickstart](https://github.com/Linuxfabrik/kickstart) (2 weeks ago)  
-  A Collection of Kickstart Installation Scripts to automate the Red Hat Installation Process.
 
 #### :busts_in_silhouette: Recent followers
 
