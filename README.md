@@ -34,6 +34,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
+- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) (today)  
+  🏞 A lightweight, versatile image viewer
 - [abbodi1406/vcredist](https://github.com/abbodi1406/vcredist) (2 days ago)  
   AIO Repack for latest Microsoft Visual C&#43;&#43; Redistributable Runtimes
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) (1 week ago)  
@@ -42,8 +44,6 @@ I'm writing articles on system administration and development of various systems
   Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
 - [ikxin/kms-tools](https://github.com/ikxin/kms-tools) (1 week ago)  
   一个生成kms激活脚本的小工具
-- [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) (2 weeks ago)  
-  A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
 
 #### :busts_in_silhouette: Recent followers
 
