@@ -16,7 +16,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.13.0](https://github.com/flarum-lang/russian/releases/tag/1.13.0), 4 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.13.0](https://github.com/flarum-lang/russian/releases/tag/1.13.0), 5 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -34,9 +34,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [abbodi1406/vcredist](https://github.com/abbodi1406/vcredist) (1 day ago)  
+- [abbodi1406/vcredist](https://github.com/abbodi1406/vcredist) (2 days ago)  
   AIO Repack for latest Microsoft Visual C&#43;&#43; Redistributable Runtimes
-- [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) (6 days ago)  
+- [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) (1 week ago)  
   Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) (1 week ago)  
   Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
