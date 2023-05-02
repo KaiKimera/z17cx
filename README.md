@@ -9,7 +9,7 @@ I'm writing articles on system administration and development of various systems
 - [uidbox/init-composer-ihub](https://github.com/uidbox/init-composer-ihub) (1 week ago)
 - [uidbox/init-composer-ihubto](https://github.com/uidbox/init-composer-ihubto) (1 week ago)
 - [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (2 weeks ago)
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (3 weeks ago)  
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (4 weeks ago)  
   PowerShell module for cURL.
 - [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (1 month ago)  
   Russian language pack for Flarum.
