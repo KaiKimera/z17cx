@@ -34,6 +34,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
+- [adang1345/PythonWin7](https://github.com/adang1345/PythonWin7) (today)  
+  Python 3.9 to 3.11 installers that support Windows 7 and Windows Server 2008 R2
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) (1 week ago)  
   🏞 A lightweight, versatile image viewer
 - [abbodi1406/vcredist](https://github.com/abbodi1406/vcredist) (1 week ago)  
@@ -42,8 +44,6 @@ I'm writing articles on system administration and development of various systems
   Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) (2 weeks ago)  
   Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
-- [ikxin/kms-tools](https://github.com/ikxin/kms-tools) (2 weeks ago)  
-  一个生成kms激活脚本的小工具
 
 #### :busts_in_silhouette: Recent followers
 
