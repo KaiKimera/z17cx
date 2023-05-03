@@ -6,9 +6,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [uidbox/init-composer-ihub](https://github.com/uidbox/init-composer-ihub) (1 week ago)
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (today)
 - [uidbox/init-composer-ihubto](https://github.com/uidbox/init-composer-ihubto) (1 week ago)
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (2 weeks ago)
+- [uidbox/init-composer-ihub](https://github.com/uidbox/init-composer-ihub) (1 week ago)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (4 weeks ago)  
   PowerShell module for cURL.
 - [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (1 month ago)  
@@ -16,7 +16,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.13.0](https://github.com/flarum-lang/russian/releases/tag/1.13.0), 1 week ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.13.0](https://github.com/flarum-lang/russian/releases/tag/1.13.0), 2 weeks ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -34,7 +34,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [adang1345/PythonWin7](https://github.com/adang1345/PythonWin7) (today)  
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) (1 day ago)  
+  Scripts to build a trimmed-down Windows 11 image.
+- [adang1345/PythonWin7](https://github.com/adang1345/PythonWin7) (1 day ago)  
   Python 3.9 to 3.11 installers that support Windows 7 and Windows Server 2008 R2
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) (1 week ago)  
   🏞 A lightweight, versatile image viewer
@@ -42,8 +44,6 @@ I'm writing articles on system administration and development of various systems
   AIO Repack for latest Microsoft Visual C&#43;&#43; Redistributable Runtimes
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) (2 weeks ago)  
   Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
-- [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) (2 weeks ago)  
-  Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
 
 #### :busts_in_silhouette: Recent followers
 
