@@ -6,10 +6,10 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (today)
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 day ago)
 - [uidbox/init-composer-ihubto](https://github.com/uidbox/init-composer-ihubto) (1 week ago)
 - [uidbox/init-composer-ihub](https://github.com/uidbox/init-composer-ihub) (1 week ago)
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (4 weeks ago)  
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 month ago)  
   PowerShell module for cURL.
 - [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (1 month ago)  
   Russian language pack for Flarum.
@@ -34,9 +34,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) (1 day ago)  
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) (2 days ago)  
   Scripts to build a trimmed-down Windows 11 image.
-- [adang1345/PythonWin7](https://github.com/adang1345/PythonWin7) (1 day ago)  
+- [adang1345/PythonWin7](https://github.com/adang1345/PythonWin7) (2 days ago)  
   Python 3.9 to 3.11 installers that support Windows 7 and Windows Server 2008 R2
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) (1 week ago)  
   🏞 A lightweight, versatile image viewer
@@ -56,7 +56,7 @@ I'm writing articles on system administration and development of various systems
 ## Blog
 
 - [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (8 months ago)
-- [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (11 months ago)
+- [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (1 year ago)
 - [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (1 year ago)
 - [Установка Vivaldi в Debian](https://lib.onl/ru/posts/2022/01/ddddd243-d182-5e26-a161-d2ea7812214a/) (1 year ago)
 - [Чёрный экран с курсором при старте GDM](https://lib.onl/ru/posts/2021/09/581804b8-0613-52a8-a5c4-fdae90e7bc8a/) (2 years ago)
