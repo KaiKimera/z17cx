@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (today)
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 day ago)
 - [uidbox/init-composer-ihubto](https://github.com/uidbox/init-composer-ihubto) (1 week ago)
 - [uidbox/init-composer-ihub](https://github.com/uidbox/init-composer-ihub) (1 week ago)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 month ago)  
@@ -34,9 +34,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) (4 days ago)  
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) (5 days ago)  
   Scripts to build a trimmed-down Windows 11 image.
-- [adang1345/PythonWin7](https://github.com/adang1345/PythonWin7) (4 days ago)  
+- [adang1345/PythonWin7](https://github.com/adang1345/PythonWin7) (5 days ago)  
   Python 3.9 to 3.11 installers that support Windows 7 and Windows Server 2008 R2
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) (1 week ago)  
   🏞 A lightweight, versatile image viewer
