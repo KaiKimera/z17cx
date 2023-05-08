@@ -6,9 +6,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 day ago)
-- [uidbox/init-composer-ihubto](https://github.com/uidbox/init-composer-ihubto) (1 week ago)
-- [uidbox/init-composer-ihub](https://github.com/uidbox/init-composer-ihub) (1 week ago)
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (2 days ago)
+- [uidbox/init-composer-ihubto](https://github.com/uidbox/init-composer-ihubto) (2 weeks ago)
+- [uidbox/init-composer-ihub](https://github.com/uidbox/init-composer-ihub) (2 weeks ago)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 month ago)  
   PowerShell module for cURL.
 - [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (1 month ago)  
@@ -34,15 +34,15 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) (5 days ago)  
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) (6 days ago)  
   Scripts to build a trimmed-down Windows 11 image.
-- [adang1345/PythonWin7](https://github.com/adang1345/PythonWin7) (5 days ago)  
+- [adang1345/PythonWin7](https://github.com/adang1345/PythonWin7) (6 days ago)  
   Python 3.9 to 3.11 installers that support Windows 7 and Windows Server 2008 R2
-- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) (1 week ago)  
+- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) (2 weeks ago)  
   🏞 A lightweight, versatile image viewer
 - [abbodi1406/vcredist](https://github.com/abbodi1406/vcredist) (2 weeks ago)  
   AIO Repack for latest Microsoft Visual C&#43;&#43; Redistributable Runtimes
-- [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) (2 weeks ago)  
+- [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) (3 weeks ago)  
   Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 
 #### :busts_in_silhouette: Recent followers
