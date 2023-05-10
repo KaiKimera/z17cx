@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (3 days ago)
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (4 days ago)
 - [uidbox/init-composer-ihubto](https://github.com/uidbox/init-composer-ihubto) (2 weeks ago)
 - [uidbox/init-composer-ihub](https://github.com/uidbox/init-composer-ihub) (2 weeks ago)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 month ago)  
@@ -16,7 +16,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.13.0](https://github.com/flarum-lang/russian/releases/tag/1.13.0), 2 weeks ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.13.0](https://github.com/flarum-lang/russian/releases/tag/1.13.0), 3 weeks ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
