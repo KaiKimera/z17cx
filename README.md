@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (4 days ago)
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (5 days ago)
 - [uidbox/init-composer-ihubto](https://github.com/uidbox/init-composer-ihubto) (2 weeks ago)
 - [uidbox/init-composer-ihub](https://github.com/uidbox/init-composer-ihub) (2 weeks ago)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 month ago)  
@@ -55,7 +55,7 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
-- [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (8 months ago)
+- [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (9 months ago)
 - [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (1 year ago)
 - [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (1 year ago)
 - [Установка Vivaldi в Debian](https://lib.onl/ru/posts/2022/01/ddddd243-d182-5e26-a161-d2ea7812214a/) (1 year ago)
