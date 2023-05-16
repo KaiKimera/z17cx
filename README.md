@@ -34,9 +34,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) (1 week ago)  
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) (2 weeks ago)  
   Scripts to build a trimmed-down Windows 11 image.
-- [adang1345/PythonWin7](https://github.com/adang1345/PythonWin7) (1 week ago)  
+- [adang1345/PythonWin7](https://github.com/adang1345/PythonWin7) (2 weeks ago)  
   Python 3.9 to 3.11 installers that support Windows 7 and Windows Server 2008 R2
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) (3 weeks ago)  
   🏞 A lightweight, versatile image viewer
