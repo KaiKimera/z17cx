@@ -34,6 +34,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
+- [immense/Remotely](https://github.com/immense/Remotely) (today)  
+  A remote control and remote scripting solution, built with .NET 6, Blazor, and SignalR Core.
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) (2 weeks ago)  
   Scripts to build a trimmed-down Windows 11 image.
 - [adang1345/PythonWin7](https://github.com/adang1345/PythonWin7) (2 weeks ago)  
@@ -42,8 +44,6 @@ I'm writing articles on system administration and development of various systems
   🏞 A lightweight, versatile image viewer
 - [abbodi1406/vcredist](https://github.com/abbodi1406/vcredist) (3 weeks ago)  
   AIO Repack for latest Microsoft Visual C&#43;&#43; Redistributable Runtimes
-- [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) (1 month ago)  
-  Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 
 #### :busts_in_silhouette: Recent followers
 
