@@ -16,7 +16,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.13.0](https://github.com/flarum-lang/russian/releases/tag/1.13.0), 3 weeks ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.13.0](https://github.com/flarum-lang/russian/releases/tag/1.13.0), 4 weeks ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -42,7 +42,7 @@ I'm writing articles on system administration and development of various systems
   🏞 A lightweight, versatile image viewer
 - [abbodi1406/vcredist](https://github.com/abbodi1406/vcredist) (3 weeks ago)  
   AIO Repack for latest Microsoft Visual C&#43;&#43; Redistributable Runtimes
-- [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) (4 weeks ago)  
+- [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) (1 month ago)  
   Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 
 #### :busts_in_silhouette: Recent followers
