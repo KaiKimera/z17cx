@@ -16,7 +16,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.13.0](https://github.com/flarum-lang/russian/releases/tag/1.13.0), 4 weeks ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.13.0](https://github.com/flarum-lang/russian/releases/tag/1.13.0), 1 month ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -34,7 +34,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [immense/Remotely](https://github.com/immense/Remotely) (1 day ago)  
+- [immense/Remotely](https://github.com/immense/Remotely) (2 days ago)  
   A remote control and remote scripting solution, built with .NET 6, Blazor, and SignalR Core.
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) (2 weeks ago)  
   Scripts to build a trimmed-down Windows 11 image.
