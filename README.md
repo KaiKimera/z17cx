@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [DevelBook/network](https://github.com/DevelBook/network) (today)
+- [DevelBook/network](https://github.com/DevelBook/network) (1 day ago)
 - [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (2 weeks ago)
 - [uidbox/init-composer-ihub](https://github.com/uidbox/init-composer-ihub) (3 weeks ago)
 - [uidbox/init-composer-ihubto](https://github.com/uidbox/init-composer-ihubto) (3 weeks ago)
@@ -33,7 +33,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [immense/Remotely](https://github.com/immense/Remotely) (3 days ago)  
+- [immense/Remotely](https://github.com/immense/Remotely) (4 days ago)  
   A remote control and remote scripting solution, built with .NET 6, Blazor, and SignalR Core.
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) (2 weeks ago)  
   Scripts to build a trimmed-down Windows 11 image.
