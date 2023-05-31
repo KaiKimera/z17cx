@@ -33,7 +33,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [immense/Remotely](https://github.com/immense/Remotely) (1 week ago)  
+- [immense/Remotely](https://github.com/immense/Remotely) (2 weeks ago)  
   A remote control and remote scripting solution, built with .NET 6, Blazor, and SignalR Core.
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) (4 weeks ago)  
   Scripts to build a trimmed-down Windows 11 image.
