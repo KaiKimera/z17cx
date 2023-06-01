@@ -35,9 +35,9 @@ I'm writing articles on system administration and development of various systems
 
 - [immense/Remotely](https://github.com/immense/Remotely) (2 weeks ago)  
   A remote control and remote scripting solution, built with .NET 6, Blazor, and SignalR Core.
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) (4 weeks ago)  
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) (1 month ago)  
   Scripts to build a trimmed-down Windows 11 image.
-- [adang1345/PythonWin7](https://github.com/adang1345/PythonWin7) (4 weeks ago)  
+- [adang1345/PythonWin7](https://github.com/adang1345/PythonWin7) (1 month ago)  
   Python 3.9 to 3.11 installers that support Windows 7 and Windows Server 2008 R2
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) (1 month ago)  
   🏞 A lightweight, versatile image viewer
