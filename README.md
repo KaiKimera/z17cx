@@ -8,10 +8,11 @@ I'm writing articles on system administration and development of various systems
 
 - [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (today)  
   Russian language pack for Flarum.
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) (today)  
+  🇷🇺 Russian language pack for Flarum.
 - [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 week ago)
 - [DevelBook/network](https://github.com/DevelBook/network) (1 week ago)
 - [uidbox/init-composer-ihub](https://github.com/uidbox/init-composer-ihub) (1 month ago)
-- [uidbox/init-composer-ihubto](https://github.com/uidbox/init-composer-ihubto) (1 month ago)
 
 #### :telescope: Recent releases
 
