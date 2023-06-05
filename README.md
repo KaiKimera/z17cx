@@ -6,9 +6,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (2 days ago)  
+- [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (3 days ago)  
   Russian language pack for Flarum.
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) (2 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) (3 days ago)  
   🇷🇺 Russian language pack for Flarum.
 - [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (2 weeks ago)
 - [DevelBook/network](https://github.com/DevelBook/network) (2 weeks ago)
@@ -16,7 +16,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.14.0](https://github.com/flarum-lang/russian/releases/tag/1.14.0), 2 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.14.0](https://github.com/flarum-lang/russian/releases/tag/1.14.0), 3 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -34,6 +34,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
+- [RobertBeckebans/RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) (today)  
+  Doom 3 BFG Edition source port with updated DX12 / Vulkan renderer and modern game engine features
 - [immense/Remotely](https://github.com/immense/Remotely) (2 weeks ago)  
   A remote control and remote scripting solution, built with .NET 6, Blazor, and SignalR Core.
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) (1 month ago)  
@@ -42,8 +44,6 @@ I'm writing articles on system administration and development of various systems
   Python 3.9 to 3.11 installers that support Windows 7 and Windows Server 2008 R2
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) (1 month ago)  
   🏞 A lightweight, versatile image viewer
-- [abbodi1406/vcredist](https://github.com/abbodi1406/vcredist) (1 month ago)  
-  AIO Repack for latest Microsoft Visual C&#43;&#43; Redistributable Runtimes
 
 #### :busts_in_silhouette: Recent followers
 
