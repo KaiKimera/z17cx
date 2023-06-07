@@ -6,9 +6,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (4 days ago)  
+- [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (5 days ago)  
   Russian language pack for Flarum.
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) (4 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) (5 days ago)  
   🇷🇺 Russian language pack for Flarum.
 - [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (2 weeks ago)
 - [DevelBook/network](https://github.com/DevelBook/network) (2 weeks ago)
@@ -16,7 +16,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.14.0](https://github.com/flarum-lang/russian/releases/tag/1.14.0), 4 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.14.0](https://github.com/flarum-lang/russian/releases/tag/1.14.0), 5 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -34,16 +34,16 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [ioquake/ioq3](https://github.com/ioquake/ioq3) (1 day ago)  
+- [OpenMW/openmw](https://github.com/OpenMW/openmw) (today)  
+  OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
+- [ioquake/ioq3](https://github.com/ioquake/ioq3) (2 days ago)  
   The ioquake3 community effort to continue supporting/developing id&#39;s Quake III Arena
-- [ec-/Quake3e](https://github.com/ec-/Quake3e) (1 day ago)  
+- [ec-/Quake3e](https://github.com/ec-/Quake3e) (2 days ago)  
   Improved Quake III Arena engine
-- [RobertBeckebans/RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) (1 day ago)  
+- [RobertBeckebans/RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) (2 days ago)  
   Doom 3 BFG Edition source port with updated DX12 / Vulkan renderer and modern game engine features
-- [immense/Remotely](https://github.com/immense/Remotely) (2 weeks ago)  
+- [immense/Remotely](https://github.com/immense/Remotely) (3 weeks ago)  
   A remote control and remote scripting solution, built with .NET 6, Blazor, and SignalR Core.
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) (1 month ago)  
-  Scripts to build a trimmed-down Windows 11 image.
 
 #### :busts_in_silhouette: Recent followers
 
