@@ -11,7 +11,7 @@ I'm writing articles on system administration and development of various systems
 - [flarum-lang/russian](https://github.com/flarum-lang/russian) (1 week ago)  
   🇷🇺 Russian language pack for Flarum.
 - [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (2 weeks ago)
-- [DevelBook/network](https://github.com/DevelBook/network) (2 weeks ago)
+- [DevelBook/network](https://github.com/DevelBook/network) (3 weeks ago)
 - [uidbox/init-composer-ihub](https://github.com/uidbox/init-composer-ihub) (1 month ago)
 
 #### :telescope: Recent releases
@@ -34,13 +34,13 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [OpenMW/openmw](https://github.com/OpenMW/openmw) (2 days ago)  
+- [OpenMW/openmw](https://github.com/OpenMW/openmw) (3 days ago)  
   OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
-- [ioquake/ioq3](https://github.com/ioquake/ioq3) (4 days ago)  
+- [ioquake/ioq3](https://github.com/ioquake/ioq3) (5 days ago)  
   The ioquake3 community effort to continue supporting/developing id&#39;s Quake III Arena
-- [ec-/Quake3e](https://github.com/ec-/Quake3e) (4 days ago)  
+- [ec-/Quake3e](https://github.com/ec-/Quake3e) (5 days ago)  
   Improved Quake III Arena engine
-- [RobertBeckebans/RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) (4 days ago)  
+- [RobertBeckebans/RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) (5 days ago)  
   Doom 3 BFG Edition source port with updated DX12 / Vulkan renderer and modern game engine features
 - [immense/Remotely](https://github.com/immense/Remotely) (3 weeks ago)  
   A remote control and remote scripting solution, built with .NET 6, Blazor, and SignalR Core.
@@ -55,7 +55,7 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
-- [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (9 months ago)
+- [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (10 months ago)
 - [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (1 year ago)
 - [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (1 year ago)
 - [Установка Vivaldi в Debian](https://lib.onl/ru/posts/2022/01/ddddd243-d182-5e26-a161-d2ea7812214a/) (1 year ago)
