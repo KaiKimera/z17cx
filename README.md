@@ -6,9 +6,9 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) (1 week ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) (2 weeks ago)  
   🇷🇺 Russian language pack for Flarum.
-- [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (1 week ago)  
+- [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (2 weeks ago)  
   Russian language pack for Flarum.
 - [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (3 weeks ago)
 - [DevelBook/network](https://github.com/DevelBook/network) (3 weeks ago)
@@ -16,7 +16,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.14.0](https://github.com/flarum-lang/russian/releases/tag/1.14.0), 1 week ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.14.0](https://github.com/flarum-lang/russian/releases/tag/1.14.0), 2 weeks ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -42,7 +42,7 @@ I'm writing articles on system administration and development of various systems
   Improved Quake III Arena engine
 - [RobertBeckebans/RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) (1 week ago)  
   Doom 3 BFG Edition source port with updated DX12 / Vulkan renderer and modern game engine features
-- [immense/Remotely](https://github.com/immense/Remotely) (4 weeks ago)  
+- [immense/Remotely](https://github.com/immense/Remotely) (1 month ago)  
   A remote control and remote scripting solution, built with .NET 6, Blazor, and SignalR Core.
 
 #### :busts_in_silhouette: Recent followers
