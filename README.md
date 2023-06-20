@@ -10,7 +10,7 @@ I'm writing articles on system administration and development of various systems
   Russian language pack for Flarum.
 - [flarum-lang/russian](https://github.com/flarum-lang/russian) (2 weeks ago)  
   🇷🇺 Russian language pack for Flarum.
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (4 weeks ago)
+- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 month ago)
 - [DevelBook/network](https://github.com/DevelBook/network) (1 month ago)
 - [uidbox/init-composer-ihub](https://github.com/uidbox/init-composer-ihub) (1 month ago)
 
