@@ -34,7 +34,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [OpenMW/openmw](https://github.com/OpenMW/openmw) (1 week ago)  
+- [OpenMW/openmw](https://github.com/OpenMW/openmw) (2 weeks ago)  
   OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
 - [ioquake/ioq3](https://github.com/ioquake/ioq3) (2 weeks ago)  
   The ioquake3 community effort to continue supporting/developing id&#39;s Quake III Arena
