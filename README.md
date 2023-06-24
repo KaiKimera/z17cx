@@ -6,13 +6,14 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (today)  
+  PowerShell module for cURL.
 - [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (3 weeks ago)  
   Russian language pack for Flarum.
 - [flarum-lang/russian](https://github.com/flarum-lang/russian) (3 weeks ago)  
   🇷🇺 Russian language pack for Flarum.
 - [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 month ago)
 - [DevelBook/network](https://github.com/DevelBook/network) (1 month ago)
-- [uidbox/init-composer-ihub](https://github.com/uidbox/init-composer-ihub) (2 months ago)
 
 #### :telescope: Recent releases
 
