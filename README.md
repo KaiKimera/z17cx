@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (today)  
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 day ago)  
   PowerShell module for cURL.
 - [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (3 weeks ago)  
   Russian language pack for Flarum.
