@@ -6,7 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (3 days ago)  
+- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (4 days ago)  
   PowerShell module for cURL.
 - [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (3 weeks ago)  
   Russian language pack for Flarum.
@@ -35,7 +35,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [OpenMW/openmw](https://github.com/OpenMW/openmw) (2 weeks ago)  
+- [OpenMW/openmw](https://github.com/OpenMW/openmw) (3 weeks ago)  
   OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
 - [ioquake/ioq3](https://github.com/ioquake/ioq3) (3 weeks ago)  
   The ioquake3 community effort to continue supporting/developing id&#39;s Quake III Arena
