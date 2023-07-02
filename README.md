@@ -9,10 +9,10 @@ I'm writing articles on system administration and development of various systems
 - [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 day ago)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 week ago)  
   PowerShell module for cURL.
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) (1 month ago)  
-  🇷🇺 Russian language pack for Flarum.
 - [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (1 month ago)  
   Russian language pack for Flarum.
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) (1 month ago)  
+  🇷🇺 Russian language pack for Flarum.
 - [DevelBook/network](https://github.com/DevelBook/network) (1 month ago)
 
 #### :telescope: Recent releases
