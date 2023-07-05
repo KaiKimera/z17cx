@@ -6,14 +6,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
+- [cmfstore/mediawiki-gist](https://github.com/cmfstore/mediawiki-gist) (today)
+- [cmfstore/mediawiki-icon](https://github.com/cmfstore/mediawiki-icon) (today)
 - [uidbox/init-composer-fwkstore](https://github.com/uidbox/init-composer-fwkstore) (today)
-- [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (4 days ago)
-- [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 week ago)  
-  PowerShell module for cURL.
-- [pkgstore/flarum-l10n-russian](https://github.com/pkgstore/flarum-l10n-russian) (1 month ago)  
-  Russian language pack for Flarum.
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) (1 month ago)  
-  🇷🇺 Russian language pack for Flarum.
+- [cmfstore/xenforo-adblock-detector](https://github.com/cmfstore/xenforo-adblock-detector) (today)
+- [cmfstore/mediawiki-infobox](https://github.com/cmfstore/mediawiki-infobox) (today)
 
 #### :telescope: Recent releases
 
