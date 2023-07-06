@@ -6,15 +6,16 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [cmfstore/mediawiki-gist](https://github.com/cmfstore/mediawiki-gist) (today)
-- [cmfstore/mediawiki-icon](https://github.com/cmfstore/mediawiki-icon) (today)
-- [uidbox/init-composer-fwkstore](https://github.com/uidbox/init-composer-fwkstore) (today)
-- [cmfstore/xenforo-adblock-detector](https://github.com/cmfstore/xenforo-adblock-detector) (today)
-- [cmfstore/mediawiki-infobox](https://github.com/cmfstore/mediawiki-infobox) (today)
+- [cmfstore/.github](https://github.com/cmfstore/.github) (today)
+- [cmfstore/flarum-l10n-russian](https://github.com/cmfstore/flarum-l10n-russian) (today)  
+  Russian language pack for Flarum.
+- [cmfstore/mediawiki-color](https://github.com/cmfstore/mediawiki-color) (1 day ago)
+- [cmfstore/mediawiki-editor-summary-buttons](https://github.com/cmfstore/mediawiki-editor-summary-buttons) (1 day ago)
+- [cmfstore/mediawiki-editor-toolbar](https://github.com/cmfstore/mediawiki-editor-toolbar) (1 day ago)
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.15.0](https://github.com/flarum-lang/russian/releases/tag/1.15.0), today)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.15.0](https://github.com/flarum-lang/russian/releases/tag/1.15.0), 1 day ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
