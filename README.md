@@ -6,11 +6,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [cmfstore/mediawiki-emoji](https://github.com/cmfstore/mediawiki-emoji) (today)
+- [cmfstore/mediawiki-embed](https://github.com/cmfstore/mediawiki-embed) (today)
 - [cmfstore/hugo-ui-base](https://github.com/cmfstore/hugo-ui-base) (today)
-- [cmfstore/xenforo-adblock-detector](https://github.com/cmfstore/xenforo-adblock-detector) (today)
 - [cmfstore/xenforo-metatag](https://github.com/cmfstore/xenforo-metatag) (today)
 - [cmfstore/xenforo-notices](https://github.com/cmfstore/xenforo-notices) (today)
+- [cmfstore/xenforo-opensearch](https://github.com/cmfstore/xenforo-opensearch) (today)
 
 #### :telescope: Recent releases
 
