@@ -6,12 +6,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [cmfstore/.github](https://github.com/cmfstore/.github) (today)
-- [cmfstore/flarum-l10n-russian](https://github.com/cmfstore/flarum-l10n-russian) (today)  
-  Russian language pack for Flarum.
-- [cmfstore/mediawiki-color](https://github.com/cmfstore/mediawiki-color) (1 day ago)
-- [cmfstore/mediawiki-editor-summary-buttons](https://github.com/cmfstore/mediawiki-editor-summary-buttons) (1 day ago)
-- [cmfstore/mediawiki-editor-toolbar](https://github.com/cmfstore/mediawiki-editor-toolbar) (1 day ago)
+- [cmfstore/mediawiki-emoji](https://github.com/cmfstore/mediawiki-emoji) (today)
+- [cmfstore/hugo-ui-base](https://github.com/cmfstore/hugo-ui-base) (today)
+- [cmfstore/xenforo-adblock-detector](https://github.com/cmfstore/xenforo-adblock-detector) (today)
+- [cmfstore/xenforo-metatag](https://github.com/cmfstore/xenforo-metatag) (today)
+- [cmfstore/xenforo-notices](https://github.com/cmfstore/xenforo-notices) (today)
 
 #### :telescope: Recent releases
 
