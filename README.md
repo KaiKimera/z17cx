@@ -6,8 +6,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [cmfstore-old-10/mediawiki-color](https://github.com/cmfstore-old-10/mediawiki-color) (today)
-- [cmfstore-old-10/hugo-ui-base](https://github.com/cmfstore-old-10/hugo-ui-base) (today)
+- [cmfstore/mediawiki-color](https://github.com/cmfstore/mediawiki-color) (today)
+- [cmfstore/hugo-ui-base](https://github.com/cmfstore/hugo-ui-base) (today)
 - [ghastore/api-github](https://github.com/ghastore/api-github) (today)
 - [ghastore/build-gpg](https://github.com/ghastore/build-gpg) (today)
 - [ghastore/build-tar](https://github.com/ghastore/build-tar) (today)
