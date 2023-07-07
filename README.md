@@ -32,6 +32,8 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
+- [cli/cli](https://github.com/cli/cli) (today)  
+  GitHub’s official command line tool
 - [OpenMW/openmw](https://github.com/OpenMW/openmw) (1 month ago)  
   OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
 - [ioquake/ioq3](https://github.com/ioquake/ioq3) (1 month ago)  
@@ -40,8 +42,6 @@ I'm writing articles on system administration and development of various systems
   Improved Quake III Arena engine
 - [RobertBeckebans/RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) (1 month ago)  
   Doom 3 BFG Edition source port with updated DX12 / Vulkan renderer and modern game engine features
-- [immense/Remotely](https://github.com/immense/Remotely) (1 month ago)  
-  A remote control and remote scripting solution, built with .NET 6, Blazor, and SignalR Core.
 
 #### :busts_in_silhouette: Recent followers
 
