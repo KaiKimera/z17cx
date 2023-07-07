@@ -6,15 +6,15 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [cmfstore/mediawiki-embed](https://github.com/cmfstore/mediawiki-embed) (today)
-- [cmfstore/hugo-ui-base](https://github.com/cmfstore/hugo-ui-base) (today)
-- [cmfstore/xenforo-metatag](https://github.com/cmfstore/xenforo-metatag) (today)
-- [cmfstore/xenforo-notices](https://github.com/cmfstore/xenforo-notices) (today)
-- [cmfstore/xenforo-opensearch](https://github.com/cmfstore/xenforo-opensearch) (today)
+- [cmfstore/mediawiki-embed](https://github.com/cmfstore/mediawiki-embed) (1 day ago)
+- [cmfstore/hugo-ui-base](https://github.com/cmfstore/hugo-ui-base) (1 day ago)
+- [cmfstore/xenforo-metatag](https://github.com/cmfstore/xenforo-metatag) (1 day ago)
+- [cmfstore/xenforo-notices](https://github.com/cmfstore/xenforo-notices) (1 day ago)
+- [cmfstore/xenforo-opensearch](https://github.com/cmfstore/xenforo-opensearch) (1 day ago)
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.15.0](https://github.com/flarum-lang/russian/releases/tag/1.15.0), 1 day ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.15.0](https://github.com/flarum-lang/russian/releases/tag/1.15.0), 2 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -32,7 +32,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [OpenMW/openmw](https://github.com/OpenMW/openmw) (4 weeks ago)  
+- [OpenMW/openmw](https://github.com/OpenMW/openmw) (1 month ago)  
   OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
 - [ioquake/ioq3](https://github.com/ioquake/ioq3) (1 month ago)  
   The ioquake3 community effort to continue supporting/developing id&#39;s Quake III Arena
@@ -55,8 +55,8 @@ I'm writing articles on system administration and development of various systems
 
 - [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (10 months ago)
 - [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (1 year ago)
-- [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (1 year ago)
-- [Установка Vivaldi в Debian](https://lib.onl/ru/posts/2022/01/ddddd243-d182-5e26-a161-d2ea7812214a/) (1 year ago)
+- [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (2 years ago)
+- [Установка Vivaldi в Debian](https://lib.onl/ru/posts/2022/01/ddddd243-d182-5e26-a161-d2ea7812214a/) (2 years ago)
 - [Чёрный экран с курсором при старте GDM](https://lib.onl/ru/posts/2021/09/581804b8-0613-52a8-a5c4-fdae90e7bc8a/) (2 years ago)
 - [Отключение режима Wayland в GDM](https://lib.onl/ru/posts/2021/09/0d11ecc0-2714-5c5c-9b48-804f50419590/) (2 years ago)
 - [Установка Proxmox VE на Debian 11 (Bullseye)](https://lib.onl/ru/posts/2021/09/1cf305cd-85d0-5e02-aabb-e01346bfee0f/) (2 years ago)
