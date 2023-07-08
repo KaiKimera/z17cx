@@ -6,11 +6,11 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [cmfstore/mediawiki-color](https://github.com/cmfstore/mediawiki-color) (1 day ago)
-- [cmfstore/hugo-ui-base](https://github.com/cmfstore/hugo-ui-base) (1 day ago)
-- [ghastore/api-github](https://github.com/ghastore/api-github) (1 day ago)
-- [ghastore/build-gpg](https://github.com/ghastore/build-gpg) (1 day ago)
-- [ghastore/build-tar](https://github.com/ghastore/build-tar) (1 day ago)
+- [cmfstore-old10/mediawiki-color](https://github.com/cmfstore-old10/mediawiki-color) (1 day ago)
+- [cmfstore-old10/hugo-ui-base](https://github.com/cmfstore-old10/hugo-ui-base) (1 day ago)
+- [ghastore-old10/api-github](https://github.com/ghastore-old10/api-github) (1 day ago)
+- [ghastore-old10/build-gpg](https://github.com/ghastore-old10/build-gpg) (1 day ago)
+- [ghastore-old10/build-tar](https://github.com/ghastore-old10/build-tar) (1 day ago)
 
 #### :telescope: Recent releases
 
