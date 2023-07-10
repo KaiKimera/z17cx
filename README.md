@@ -6,15 +6,15 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
-- [uidbox/init-composer-pkgpool](https://github.com/uidbox/init-composer-pkgpool) (today)
-- [cmfstore-old10/mediawiki-badge](https://github.com/cmfstore-old10/mediawiki-badge) (2 days ago)
-- [ghastore-old10/api-github](https://github.com/ghastore-old10/api-github) (2 days ago)
-- [ghastore-old10/build-gpg](https://github.com/ghastore-old10/build-gpg) (2 days ago)
-- [ghastore-old10/build-tar](https://github.com/ghastore-old10/build-tar) (2 days ago)
+- [uidbox/init-composer-pkgpool](https://github.com/uidbox/init-composer-pkgpool) (1 day ago)
+- [cmfstore-old10/mediawiki-badge](https://github.com/cmfstore-old10/mediawiki-badge) (3 days ago)
+- [ghastore-old10/api-github](https://github.com/ghastore-old10/api-github) (3 days ago)
+- [ghastore-old10/build-gpg](https://github.com/ghastore-old10/build-gpg) (3 days ago)
+- [ghastore-old10/build-tar](https://github.com/ghastore-old10/build-tar) (3 days ago)
 
 #### :telescope: Recent releases
 
-- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.15.0](https://github.com/flarum-lang/russian/releases/tag/1.15.0), 4 days ago)  
+- [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.15.0](https://github.com/flarum-lang/russian/releases/tag/1.15.0), 5 days ago)  
   🇷🇺 Russian language pack for Flarum.
 
 #### :hammer: Recent pull requests
@@ -32,7 +32,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :star: Recent stars
 
-- [cli/cli](https://github.com/cli/cli) (2 days ago)  
+- [cli/cli](https://github.com/cli/cli) (3 days ago)  
   GitHub’s official command line tool
 - [OpenMW/openmw](https://github.com/OpenMW/openmw) (1 month ago)  
   OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
@@ -53,7 +53,7 @@ I'm writing articles on system administration and development of various systems
 
 ## Blog
 
-- [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (10 months ago)
+- [Включение DNS over TLS (DoT) в OPNsense](https://lib.onl/ru/posts/2022/08/badb30a9-0471-5dab-a422-85422c0ac611/) (11 months ago)
 - [Windows Server 2022 для рабочей станции](https://lib.onl/ru/posts/2022/05/36058650-3f35-5ed5-9565-0aa7d8800c28/) (1 year ago)
 - [Установка ядра XanMod в Debian](https://lib.onl/ru/posts/2022/01/06ef2fab-2ae2-5356-9154-7ca1e486d27d/) (2 years ago)
 - [Установка Vivaldi в Debian](https://lib.onl/ru/posts/2022/01/ddddd243-d182-5e26-a161-d2ea7812214a/) (2 years ago)
