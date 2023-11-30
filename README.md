@@ -6,6 +6,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :construction_worker_man: I'm currently working on...
 
+
 - [site-0003/content](https://github.com/site-0003/content) (4 days ago)
 - [uaik/uaik.github.io](https://github.com/uaik/uaik.github.io) (1 week ago)
 - [pkgstore/pwsh-curl](https://github.com/pkgstore/pwsh-curl) (1 week ago)  
@@ -16,6 +17,7 @@ I'm writing articles on system administration and development of various systems
   A script for transferring and saving files to Vault (storage directory), while maintaining the structure of the original directory.
 
 #### :telescope: Recent releases
+
 
 - [flarum-lang/russian](https://github.com/flarum-lang/russian) ([1.25.0](https://github.com/flarum-lang/russian/releases/tag/1.25.0), 2 days ago)  
   🇷🇺 Russian language pack for Flarum.
@@ -30,6 +32,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :hammer: Recent pull requests
 
+
 - [Create KitsuneSolar.yaml](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1372) (2 years ago) `MERGED`  
   &#8627; [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)
 - [Create KitsuneSolar](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/1370) (2 years ago) `CLOSED`  
@@ -42,6 +45,7 @@ I'm writing articles on system administration and development of various systems
   &#8627; [FriendsOfFlarum/upload](https://github.com/FriendsOfFlarum/upload)
 
 #### :star: Recent stars
+
 
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) (1 week ago)  
   Security automation content in SCAP, Bash, Ansible, and other formats
@@ -56,6 +60,7 @@ I'm writing articles on system administration and development of various systems
 
 #### :busts_in_silhouette: Recent followers
 
+
 - [Stanislav Migunov](https://github.com/mr-w1lde)
 - [Vladimir Petrozavodsky](https://github.com/petrozavodsky)
 - [Skumen](https://github.com/Skumen)
@@ -63,6 +68,7 @@ I'm writing articles on system administration and development of various systems
 - [MySochi](https://github.com/MySochi)
 
 ## Blog
+
 
 - [Переход Debian между релизами](https://lib.onl/ru/articles/2023/11/4dfa15a8-44f0-5590-a04d-f940dac12aad/) (5 days ago)
 - [Работа с сетевыми интерфейсами в PowerShell](https://lib.onl/ru/articles/2023/10/430b916d-fd5c-5d44-8c24-8b98f41e0355/) (1 month ago)
@@ -77,20 +83,20 @@ I'm writing articles on system administration and development of various systems
 
 ## Contacts
 
-- :earth_africa: [**WebSite**](https://kitsune.solar/) / [mail@kitsune.solar](mailto:mail@kitsune.solar)
-- :hammer_and_wrench: [GitHub](https://github.com/KitsuneSolar) / [GitLab](https://gitlab.com/KitsuneSolar)
-- :camera: [Instagram](https://instagram.com/KitsuneSolar)
-- :briefcase: [LinkedIn](https://linkedin.com/in/KitsuneSolar)
-- :movie_camera: [Twitch](https://twitch.tv/KitsuneSolar)
-- :bird: [Twitter](https://twitter.com/KitsuneSolar)
-- :speech_balloon: [VK](https://vk.com/KitsuneSolar)
-- :tv: [YouTube](https://youtube.com/KitsuneSolar)
+- :earth_africa: [**WebSite**](https://z17.cx/) / [mail@kitsune.solar](mailto:mail@z17.cx)
+- :hammer_and_wrench: [GitHub](https://github.com/z17cx) / [GitLab](https://gitlab.com/z17cx)
+- :camera: [Instagram](https://instagram.com/z17cx)
+- :briefcase: [LinkedIn](https://linkedin.com/in/z17cx)
+- :movie_camera: [Twitch](https://twitch.tv/z17cx)
+- :bird: [Twitter](https://twitter.com/z17cx)
+- :speech_balloon: [VK](https://vk.com/z17cx)
+- :tv: [YouTube](https://youtube.com/@z17cx)
 
-<img src="https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/img.01.min.svg" width="100%" alt="OctoCat" />
+<img src="https://raw.githubusercontent.com/z17cx/z17cx/main/img.01.min.svg" width="100%" alt="OctoCat" />
 
 ## Projects
 
-<img align="right" src="https://raw.githubusercontent.com/KitsuneSolar/KitsuneSolar/main/img.octocat.gif" width="20%" alt="OctoCat" />
+<img align="right" src="https://raw.githubusercontent.com/z17cx/z17cx/main/img.octocat.gif" width="20%" alt="OctoCat" />
 
 - [**GitHub Package Store**](https://github.com/pkgstore)  
   Development storage for CMS/CMF, Linux OS and other various systems.
