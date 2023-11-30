@@ -2,7 +2,7 @@
 
 System administrator and web developer.
 
-I'm writing articles on system administration and development of various systems, applications and servers.
+I write articles on system administration and development of various systems, applications and servers.
 
 #### :construction_worker_man: I'm currently working on...
 
