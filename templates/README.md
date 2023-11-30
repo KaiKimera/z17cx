@@ -46,7 +46,6 @@ I'm writing articles on system administration and development of various systems
 
 ## Contacts
 
-- :earth_africa: [**WebSite**](https://z17.cx/) / [mail@kitsune.solar](mailto:mail@z17.cx)
 - :hammer_and_wrench: [GitHub](https://github.com/z17cx) / [GitLab](https://gitlab.com/z17cx)
 - :camera: [Instagram](https://instagram.com/z17cx)
 - :briefcase: [LinkedIn](https://linkedin.com/in/z17cx)
