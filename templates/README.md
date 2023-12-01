@@ -44,18 +44,6 @@ I write articles on system administration and development of various systems, ap
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end}}
 
-## Contacts
-
-- :hammer_and_wrench: [GitHub](https://github.com/z17cx) / [GitLab](https://gitlab.com/z17cx)
-- :camera: [Instagram](https://instagram.com/z17cx)
-- :briefcase: [LinkedIn](https://linkedin.com/in/z17cx)
-- :movie_camera: [Twitch](https://twitch.tv/z17cx)
-- :bird: [Twitter](https://twitter.com/z17cx)
-- :speech_balloon: [VK](https://vk.com/z17cx)
-- :tv: [YouTube](https://youtube.com/@z17cx)
-
-<img src="https://raw.githubusercontent.com/z17cx/z17cx/main/img.01.min.svg" width="100%" alt="OctoCat" />
-
 ## Projects
 
 <img align="right" src="https://raw.githubusercontent.com/z17cx/z17cx/main/img.octocat.gif" width="20%" alt="OctoCat" />
