@@ -80,18 +80,6 @@ I write articles on system administration and development of various systems, ap
 - [PowerShell: Стирание диска](https://lib.onl/ru/articles/2023/10/52d75b90-0637-5ba6-91d6-b1bff40e1d67/) (1 month ago)
 - [PowerShell: Сжатие видео при помощи FFmpeg](https://lib.onl/ru/articles/2023/10/2a73410a-6611-570c-9ab4-dc8cc8998146/) (1 month ago)
 
-## Contacts
-
-- :hammer_and_wrench: [GitHub](https://github.com/z17cx) / [GitLab](https://gitlab.com/z17cx)
-- :camera: [Instagram](https://instagram.com/z17cx)
-- :briefcase: [LinkedIn](https://linkedin.com/in/z17cx)
-- :movie_camera: [Twitch](https://twitch.tv/z17cx)
-- :bird: [Twitter](https://twitter.com/z17cx)
-- :speech_balloon: [VK](https://vk.com/z17cx)
-- :tv: [YouTube](https://youtube.com/@z17cx)
-
-<img src="https://raw.githubusercontent.com/z17cx/z17cx/main/img.01.min.svg" width="100%" alt="OctoCat" />
-
 ## Projects
 
 <img align="right" src="https://raw.githubusercontent.com/z17cx/z17cx/main/img.octocat.gif" width="20%" alt="OctoCat" />
